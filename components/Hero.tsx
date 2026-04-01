@@ -33,31 +33,27 @@ const candidates = [
 export default function Hero() {
   return (
     <section className="bg-page section-padding">
-      <div className="section-container flex max-w-container flex-col items-center gap-12 lg:flex-row lg:items-center lg:gap-0">
-        <div className="flex w-full flex-col items-start text-left lg:w-[55%] lg:max-w-[55%] lg:pr-8">
-          <h1 className="max-w-[600px] text-[clamp(2rem,8vw,48px)] font-extrabold leading-[1.08] tracking-[-0.03em] text-primary md:text-[48px]">
+      <div className="grid max-w-7xl mx-auto grid-cols-1 gap-8 px-6 sm:px-8 lg:grid-cols-2 lg:items-center lg:gap-12 lg:px-16">
+        <div className="flex min-w-0 w-full flex-col items-start text-left">
+          <h1 className="max-w-[600px] text-4xl font-extrabold tracking-[-0.035em] text-[#111827] sm:text-5xl lg:text-6xl lg:leading-[1.05] leading-[1.08]">
             Stop Wasting Hours Searching for the{' '}
             <span className="whitespace-nowrap">Right Expert Witness.</span>
           </h1>
 
-          <p className="mt-4 max-w-[480px] text-[17px] font-normal leading-[1.7] text-secondary">
-            The right expert witness, delivered in 48 to 72 hours. No payment until we deliver. No hidden fees. Satisfaction guaranteed.
+          <p className="mt-6 max-w-[480px] text-lg font-normal leading-[1.65] text-[#4B5563]">
+            The right expert witness, delivered in 48 to 72 hours. No payment until we deliver. No hidden fees. No obligation to retain. Satisfaction guaranteed.
           </p>
 
           <a
             href="#"
             data-open-search-modal
-            className="mt-7 inline-flex items-center justify-center rounded-md bg-accent px-12 py-4 text-base font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover hover:shadow-[0_4px_14px_rgba(26,58,92,0.25)]"
+            className="mt-8 inline-flex w-auto whitespace-nowrap items-center justify-center rounded-md bg-accent px-12 py-4 text-base font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover hover:shadow-[0_4px_14px_rgba(26,58,92,0.25)]"
           >
             Start Your Expert Search
           </a>
-
-          <p className="mt-3 text-[13px] font-normal leading-[1.7] text-secondary">
-            No payment until we deliver. No obligation to retain. Satisfaction guaranteed.
-          </p>
         </div>
 
-        <div className="mt-10 flex w-full flex-col justify-center lg:mt-0 lg:w-[45%] lg:max-w-[45%]">
+        <div className="flex min-w-0 w-full flex-col justify-center">
           <div className="overflow-hidden rounded-xl border border-card-border bg-white shadow-[0_4px_24px_rgba(0,0,0,0.07)]">
             <div className="h-[3px] w-full bg-accent" />
             <div className="p-[28px]">

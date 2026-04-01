@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+import Image from 'next/image'
 import Link from 'next/link'
 import { useSearchModal } from '@/components/SearchModal'
 
@@ -26,7 +27,14 @@ export default function Nav() {
     <nav className="sticky top-0 z-50 bg-[#f5f4f0] shadow-[0_1px_3px_rgba(0,0,0,0.04)]">
       <div className="section-container flex h-16 max-w-container items-center justify-between">
         <Link href="/" className="flex items-center no-underline">
-          <span className="text-[18px] font-extrabold tracking-tight text-primary">Blackstorm Experts</span>
+          <Image
+            src="/blackstorm-logo.png"
+            alt="Blackstorm Experts"
+            width={258}
+            height={59}
+            className="h-14 w-auto"
+            priority
+          />
         </Link>
 
         <div className="hidden items-center gap-8 md:flex">
@@ -73,8 +81,14 @@ export default function Nav() {
       {menuOpen && (
         <div className="fixed inset-0 z-[200] flex flex-col bg-[#f5f4f0] md:hidden">
           <div className="flex h-16 items-center justify-between border-b border-card-border px-6">
-            <Link href="/" className="text-[18px] font-extrabold text-primary no-underline" onClick={() => setMenuOpen(false)}>
-              Blackstorm Experts
+            <Link href="/" className="flex items-center no-underline" onClick={() => setMenuOpen(false)}>
+              <Image
+                src="/blackstorm-logo.png"
+                alt="Blackstorm Experts"
+                width={258}
+                height={59}
+                className="h-14 w-auto"
+              />
             </Link>
             <button type="button" onClick={() => setMenuOpen(false)} className="p-1 text-primary" aria-label="Close menu">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
