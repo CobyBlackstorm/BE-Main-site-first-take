@@ -17,14 +17,6 @@ export default function Nav() {
     }
   }, [menuOpen])
 
-  const handleNavClick = (id: string) => {
-    setMenuOpen(false)
-    const el = document.getElementById(id)
-    if (el) {
-      el.scrollIntoView({ behavior: 'smooth' })
-    }
-  }
-
   const linkClass =
     'text-sm font-medium text-secondary transition-colors duration-200 ease-in-out hover:text-primary'
 
@@ -36,15 +28,12 @@ export default function Nav() {
         </Link>
 
         <div className="hidden items-center gap-8 md:flex">
-          <button type="button" onClick={() => handleNavClick('how-it-works')} className={linkClass}>
-            How It Works
-          </button>
-          <button type="button" onClick={() => handleNavClick('why-blackstorm')} className={linkClass}>
-            Why Blackstorm
-          </button>
-          <button type="button" onClick={() => handleNavClick('results')} className={linkClass}>
-            Results
-          </button>
+          <Link href="/expert-witness" className={linkClass}>
+            Expert Witnesses
+          </Link>
+          <Link href="/about" className={linkClass}>
+            About
+          </Link>
           <a
             href="#"
             className="rounded-md bg-accent px-6 py-2.5 text-sm font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover"
@@ -78,7 +67,9 @@ export default function Nav() {
       {menuOpen && (
         <div className="fixed inset-0 z-[200] flex flex-col bg-[#f5f4f0] md:hidden">
           <div className="flex h-16 items-center justify-between border-b border-card-border px-6">
-            <span className="text-[18px] font-extrabold text-primary">Blackstorm Experts</span>
+            <Link href="/" className="text-[18px] font-extrabold text-primary no-underline" onClick={() => setMenuOpen(false)}>
+              Blackstorm Experts
+            </Link>
             <button type="button" onClick={() => setMenuOpen(false)} className="p-1 text-primary" aria-label="Close menu">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
                 <line x1="18" y1="6" x2="6" y2="18" />
@@ -87,27 +78,20 @@ export default function Nav() {
             </button>
           </div>
           <div className="flex flex-1 flex-col justify-center gap-2 px-8 pb-12">
-            <button
-              type="button"
-              onClick={() => handleNavClick('how-it-works')}
+            <Link
+              href="/expert-witness"
               className="border-b border-card-border py-4 text-left text-lg font-medium text-secondary"
+              onClick={() => setMenuOpen(false)}
             >
-              How It Works
-            </button>
-            <button
-              type="button"
-              onClick={() => handleNavClick('why-blackstorm')}
+              Expert Witnesses
+            </Link>
+            <Link
+              href="/about"
               className="border-b border-card-border py-4 text-left text-lg font-medium text-secondary"
+              onClick={() => setMenuOpen(false)}
             >
-              Why Blackstorm
-            </button>
-            <button
-              type="button"
-              onClick={() => handleNavClick('results')}
-              className="border-b border-card-border py-4 text-left text-lg font-medium text-secondary"
-            >
-              Results
-            </button>
+              About
+            </Link>
             <a
               href="#"
               onClick={() => setMenuOpen(false)}
