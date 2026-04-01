@@ -1,8 +1,7 @@
 const tiles = [
   {
     icon: (
-      <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="#0a0a0a" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
-        {/* Calendar with checkmark */}
+      <svg width="20" height="20" viewBox="0 0 32 32" fill="none" stroke="#1a3a5c" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
         <rect x="5" y="6" width="22" height="22" rx="3" />
         <line x1="5" y1="12" x2="27" y2="12" />
         <line x1="11" y1="3" x2="11" y2="9" />
@@ -17,8 +16,7 @@ const tiles = [
   },
   {
     icon: (
-      <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="#0a0a0a" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
-        {/* Document with magnifying glass overlay */}
+      <svg width="20" height="20" viewBox="0 0 32 32" fill="none" stroke="#1a3a5c" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
         <rect x="5" y="4" width="16" height="22" rx="2" />
         <line x1="9" y1="10" x2="17" y2="10" />
         <line x1="9" y1="14" x2="17" y2="14" />
@@ -32,8 +30,7 @@ const tiles = [
   },
   {
     icon: (
-      <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="#0a0a0a" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
-        {/* Funnel with filtering layers */}
+      <svg width="20" height="20" viewBox="0 0 32 32" fill="none" stroke="#1a3a5c" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
         <path d="M5 7 L27 7 L19 16 L19 26 L13 23 L13 16 Z" />
         <line x1="8" y1="11" x2="24" y2="11" />
         <line x1="12" y1="15" x2="20" y2="15" />
@@ -44,8 +41,7 @@ const tiles = [
   },
   {
     icon: (
-      <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="#0a0a0a" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
-        {/* Two person silhouettes with direct arrow */}
+      <svg width="20" height="20" viewBox="0 0 32 32" fill="none" stroke="#1a3a5c" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
         <circle cx="7" cy="10" r="3" />
         <path d="M2 22 C2 18 4.5 16 7 16 C9.5 16 12 18 12 22" />
         <circle cx="25" cy="10" r="3" />
@@ -61,134 +57,37 @@ const tiles = [
 
 export default function ModernApproach() {
   return (
-    <section
-      id="why-blackstorm"
-      style={{
-        background: '#f0ede8',
-        padding: '80px 40px',
-      }}
-    >
-      <div style={{ maxWidth: '1100px', margin: '0 auto' }}>
-        {/* Small label */}
-        <p
-          style={{
-            fontSize: '11px',
-            letterSpacing: '0.12em',
-            color: '#4a5568',
-            textAlign: 'center',
-            textTransform: 'uppercase',
-            fontWeight: 600,
-            marginBottom: '12px',
-          }}
-        >
-          Why Blackstorm
-        </p>
+    <section id="why-blackstorm" className="bg-muted section-padding">
+      <div className="section-container max-w-container">
+        <p className="section-label mb-3 text-center">Why Blackstorm</p>
 
-        {/* Header */}
-        <h2
-          style={{
-            fontSize: '36px',
-            fontWeight: 800,
-            color: '#0a0a0a',
-            textAlign: 'center',
-            marginBottom: '16px',
-          }}
-        >
+        <h2 className="mb-4 text-center text-[36px] font-bold leading-[1.2] tracking-[-0.02em] text-primary">
           A Modern Approach to Expert Witness Search
         </h2>
 
-        {/* Subheader */}
-        <p
-          style={{
-            fontSize: '18px',
-            color: '#4a5568',
-            textAlign: 'center',
-            maxWidth: '600px',
-            margin: '0 auto 56px',
-            lineHeight: 1.7,
-          }}
-        >
+        <p className="mx-auto mb-12 max-w-[600px] text-center text-base font-normal leading-[1.7] text-secondary">
           We don&rsquo;t just find names. We confirm interest, verify credentials, and check availability before a candidate ever reaches your desk.
         </p>
 
-        {/* 2x2 grid */}
-        <div
-          style={{
-            display: 'grid',
-            gridTemplateColumns: 'repeat(2, 1fr)',
-            gap: '40px',
-          }}
-          className="approach-grid"
-        >
+        <div className="grid grid-cols-1 gap-8 md:grid-cols-2 md:gap-10">
           {tiles.map((tile, i) => (
             <div
               key={i}
-              className="approach-tile"
-              style={{
-                border: '1px solid #e2e8f0',
-                borderRadius: '12px',
-                padding: '32px',
-                transition: 'border-color 0.2s ease',
-              }}
+              className="rounded-lg border border-card-border border-l-[3px] border-l-accent bg-white p-[28px] shadow-card transition-all duration-200 ease-in-out hover:-translate-y-0.5 hover:shadow-card-hover"
             >
-              {/* Icon container */}
-              <div
-                style={{
-                  background: '#f7f8fa',
-                  width: '56px',
-                  height: '56px',
-                  borderRadius: '12px',
-                  padding: '10px',
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  marginBottom: '16px',
-                }}
-              >
-                {tile.icon}
+              <div className="flex flex-row items-start gap-4">
+                <div className="flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-full border border-card-border bg-[#ffffff]">
+                  {tile.icon}
+                </div>
+                <div className="min-w-0 flex-1">
+                  <h3 className="mb-1 text-base font-bold text-primary">{tile.title}</h3>
+                  <p className="text-sm font-normal leading-[1.7] text-secondary">{tile.body}</p>
+                </div>
               </div>
-
-              {/* Title */}
-              <h3
-                style={{
-                  fontSize: '18px',
-                  fontWeight: 600,
-                  color: '#0a0a0a',
-                  marginBottom: '8px',
-                }}
-              >
-                {tile.title}
-              </h3>
-
-              {/* Body */}
-              <p
-                style={{
-                  fontSize: '16px',
-                  color: '#4a5568',
-                  lineHeight: 1.6,
-                }}
-              >
-                {tile.body}
-              </p>
             </div>
           ))}
         </div>
       </div>
-
-      <style>{`
-        .approach-tile:hover {
-          border-color: #0a0a0a !important;
-        }
-        @media (max-width: 768px) {
-          section {
-            padding: 60px 20px !important;
-          }
-          .approach-grid {
-            grid-template-columns: 1fr !important;
-            gap: 32px !important;
-          }
-        }
-      `}</style>
     </section>
   )
 }

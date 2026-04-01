@@ -2,86 +2,27 @@
 
 export default function FinalCTA() {
   return (
-    <section
-      style={{
-        background: '#f0ede8',
-        padding: '80px 40px',
-      }}
-    >
-      <div
-        style={{
-          maxWidth: '700px',
-          margin: '0 auto',
-          textAlign: 'center',
-        }}
-      >
-        {/* Header */}
-        <h2
-          style={{
-            fontSize: '40px',
-            fontWeight: 800,
-            color: '#0a0a0a',
-            lineHeight: 1.15,
-            marginBottom: '16px',
-          }}
-        >
+    <section className="bg-[#1a3a5c] py-20 md:py-[80px]">
+      <div className="section-container max-w-[700px] text-center">
+        <h2 className="mb-4 text-[36px] font-bold leading-[1.2] tracking-[-0.02em] text-white">
           Ready to Find the Right Expert?
         </h2>
 
-        {/* Subheader */}
-        <p
-          style={{
-            fontSize: '18px',
-            color: '#4a5568',
-            lineHeight: 1.7,
-            marginBottom: '36px',
-          }}
-        >
+        <p className="mb-9 text-lg font-normal leading-[1.7] text-white/60">
           Submit your search request and we will have vetted candidates in front of you within 48 to 72 hours.
         </p>
 
-        {/* CTA Button */}
         <a
           href="#"
-          style={{
-            display: 'inline-block',
-            background: '#0a0a0a',
-            color: '#ffffff',
-            fontSize: '16px',
-            fontWeight: 600,
-            padding: '16px 40px',
-            borderRadius: '6px',
-            textDecoration: 'none',
-            transition: 'opacity 0.2s ease',
-          }}
-          onMouseEnter={e => (e.currentTarget.style.opacity = '0.85')}
-          onMouseLeave={e => (e.currentTarget.style.opacity = '1')}
+          className="inline-block rounded-md bg-white px-12 py-[18px] text-base font-semibold text-primary transition-colors duration-200 ease-in-out hover:bg-white/90"
         >
           Start Your Expert Search
         </a>
 
-        {/* Trust line */}
-        <p
-          style={{
-            fontSize: '13px',
-            color: '#4a5568',
-            marginTop: '12px',
-          }}
-        >
+        <p className="mt-3 text-[13px] font-normal leading-[1.7] text-white/60">
           No upfront fees. No obligation to retain. Satisfaction guaranteed.
         </p>
       </div>
-
-      <style>{`
-        @media (max-width: 768px) {
-          section {
-            padding: 60px 20px !important;
-          }
-          h2 {
-            font-size: 32px !important;
-          }
-        }
-      `}</style>
     </section>
   )
 }

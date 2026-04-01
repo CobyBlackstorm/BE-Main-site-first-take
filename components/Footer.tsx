@@ -1,120 +1,37 @@
 'use client'
 
+import Link from 'next/link'
+
 export default function Footer() {
+  const muted = 'text-[13px] text-white/50 transition-colors duration-200 ease-in-out'
+
   return (
-    <footer
-      style={{
-        background: '#0a0a0a',
-        padding: '60px 40px 30px',
-      }}
-    >
-      <div
-        style={{
-          maxWidth: '1100px',
-          margin: '0 auto',
-        }}
-      >
-        {/* Two column layout */}
-        <div
-          style={{
-            display: 'flex',
-            justifyContent: 'space-between',
-            alignItems: 'flex-start',
-          }}
-          className="footer-cols"
-        >
-          {/* Left */}
-          <div>
-            <span
-              style={{
-                fontWeight: 700,
-                fontSize: '18px',
-                color: '#ffffff',
-                letterSpacing: '0.01em',
-                fontFamily: 'Inter, sans-serif',
-                display: 'block',
-                marginBottom: '12px',
-              }}
-            >
-              Blackstorm Experts
-            </span>
-            <p style={{ color: '#4a5568', fontSize: '13px' }}>
-              Expert Witness Search for Litigation Attorneys
-            </p>
+    <footer className="bg-[#111111] px-6 pb-8 pt-14 md:px-10 md:pb-10 md:pt-[60px]">
+      <div className="mx-auto max-w-container">
+        <div className="flex flex-col items-center justify-between gap-8 md:flex-row md:items-start">
+          <div className="text-center md:text-left">
+            <span className="block text-[18px] font-semibold text-white/50">Blackstorm Experts</span>
+            <p className={`mt-3 ${muted}`}>Expert Witness Search for Litigation Attorneys</p>
           </div>
 
-          {/* Right */}
-          <div
-            style={{
-              display: 'flex',
-              flexDirection: 'column',
-              alignItems: 'flex-end',
-              textAlign: 'right',
-            }}
-            className="footer-right"
-          >
-            <p style={{ color: '#9ca3af', fontSize: '13px' }}>352-256-1603</p>
-            <p style={{ color: '#9ca3af', fontSize: '13px', marginTop: '4px' }}>
-              coby@blackstormexperts.com
-            </p>
-            <a
-              href="#"
-              style={{
-                color: '#9ca3af',
-                fontSize: '13px',
-                marginTop: '4px',
-                textDecoration: 'none',
-                transition: 'color 0.2s ease',
-              }}
-              onMouseEnter={e => (e.currentTarget.style.color = '#ffffff')}
-              onMouseLeave={e => (e.currentTarget.style.color = '#9ca3af')}
-            >
+          <div className="flex flex-col items-center text-center md:items-end md:text-right">
+            <p className={muted}>352-256-1603</p>
+            <p className={`mt-1 ${muted}`}>coby@blackstormexperts.com</p>
+            <a href="#" className={`mt-1 ${muted} hover:text-white`}>
               Become an Expert Witness
             </a>
           </div>
         </div>
 
-        {/* Bottom bar */}
-        <div
-          style={{
-            marginTop: '40px',
-            paddingTop: '20px',
-            borderTop: '1px solid rgba(255,255,255,0.08)',
-            display: 'flex',
-            justifyContent: 'space-between',
-            alignItems: 'center',
-          }}
-          className="footer-bottom"
-        >
-          <p style={{ color: '#4a5568', fontSize: '12px' }}>
+        <div className="mt-10 flex flex-col items-center justify-between gap-2 border-t border-white/10 pt-5 md:flex-row">
+          <p className="text-center text-[13px] text-white/50 md:text-left">
             &copy; 2025 Blackstorm Experts. All rights reserved.
           </p>
-          <p style={{ color: '#4a5568', fontSize: '12px' }}>getblackstorm.com</p>
+          <Link href="https://www.getblackstorm.com" className="text-[13px] text-white/50 hover:text-white">
+            getblackstorm.com
+          </Link>
         </div>
       </div>
-
-      <style>{`
-        @media (max-width: 768px) {
-          footer {
-            padding: 40px 20px 24px !important;
-          }
-          .footer-cols {
-            flex-direction: column !important;
-            align-items: center !important;
-            gap: 32px !important;
-            text-align: center !important;
-          }
-          .footer-right {
-            align-items: center !important;
-            text-align: center !important;
-          }
-          .footer-bottom {
-            flex-direction: column !important;
-            gap: 8px !important;
-            text-align: center !important;
-          }
-        }
-      `}</style>
     </footer>
   )
 }

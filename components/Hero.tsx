@@ -1,170 +1,106 @@
 'use client'
 
+function ClockIcon() {
+  return (
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#4a5568" strokeWidth="1.5" strokeLinecap="round" aria-hidden>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 7v5l3 2" />
+    </svg>
+  )
+}
+
+const candidates = [
+  {
+    initials: 'SM',
+    name: 'Dr. Sarah Mitchell',
+    circleBg: '#1a3a5c',
+    detail: 'Board Certified Neurosurgeon · 22 yrs',
+  },
+  {
+    initials: 'JT',
+    name: 'Dr. James Thornton',
+    circleBg: '#16a34a',
+    detail: 'Orthopedic Surgery Specialist · 18 yrs',
+  },
+  {
+    initials: 'RV',
+    name: 'Dr. Rachel Vasquez',
+    circleBg: '#4a5568',
+    detail: 'Emergency Medicine · 15 yrs',
+  },
+]
+
 export default function Hero() {
   return (
-    <section
-      style={{
-        background: '#f0ede8',
-        width: '100%',
-        padding: '100px 40px',
-      }}
-    >
-      <div
-        style={{
-          maxWidth: '1100px',
-          margin: '0 auto',
-          display: 'flex',
-          flexDirection: 'row',
-          alignItems: 'center',
-          gap: '80px',
-        }}
-        className="hero-inner"
-      >
-        {/* Left column */}
-        <div
-          style={{
-            flex: 1,
-            display: 'flex',
-            flexDirection: 'column',
-            alignItems: 'flex-start',
-            textAlign: 'left',
-          }}
-        >
-          <h1
-            style={{
-              fontSize: '64px',
-              fontWeight: 800,
-              color: '#0a0a0a',
-              lineHeight: 1.05,
-              maxWidth: '600px',
-            }}
-          >
-            Stop Wasting Hours Searching for the Right Expert Witness.
+    <section className="bg-page section-padding">
+      <div className="section-container flex max-w-container flex-col items-center gap-12 lg:flex-row lg:items-center lg:gap-0">
+        <div className="flex w-full flex-col items-start text-left lg:w-[55%] lg:max-w-[55%] lg:pr-8">
+          <h1 className="max-w-[600px] text-[clamp(2rem,8vw,48px)] font-extrabold leading-[1.08] tracking-[-0.03em] text-primary md:text-[48px]">
+            Stop Wasting Hours Searching for the{' '}
+            <span className="whitespace-nowrap">Right Expert Witness.</span>
           </h1>
 
-          <p
-            style={{
-              fontSize: '18px',
-              color: '#4a5568',
-              maxWidth: '480px',
-              marginTop: '20px',
-              lineHeight: 1.7,
-            }}
-          >
+          <p className="mt-4 max-w-[480px] text-[17px] font-normal leading-[1.7] text-secondary">
             The right expert witness, delivered in 48 to 72 hours. No retainer. No hidden fees. Satisfaction guaranteed.
           </p>
 
           <a
             href="#"
-            style={{
-              display: 'inline-block',
-              background: '#0a0a0a',
-              color: '#ffffff',
-              fontSize: '16px',
-              fontWeight: 600,
-              padding: '16px 40px',
-              borderRadius: '6px',
-              textDecoration: 'none',
-              transition: 'opacity 0.2s ease',
-              marginTop: '32px',
-              alignSelf: 'flex-start',
-            }}
-            onMouseEnter={e => (e.currentTarget.style.opacity = '0.85')}
-            onMouseLeave={e => (e.currentTarget.style.opacity = '1')}
+            className="mt-7 inline-flex items-center justify-center rounded-md bg-accent px-12 py-4 text-base font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover hover:shadow-[0_4px_14px_rgba(26,58,92,0.25)]"
           >
             Start Your Expert Search
           </a>
 
-          <p
-            style={{
-              fontSize: '13px',
-              color: '#4a5568',
-              marginTop: '12px',
-              textAlign: 'left',
-            }}
-          >
+          <p className="mt-3 text-[13px] font-normal leading-[1.7] text-secondary">
             No upfront fees. No obligation to retain. Satisfaction guaranteed.
           </p>
         </div>
 
-        {/* Right column — stats card */}
-        <div
-          style={{
-            flex: '0 0 320px',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-          }}
-          className="hero-card-col"
-        >
-          <div
-            style={{
-              background: '#ffffff',
-              border: '1px solid #e2e8f0',
-              borderRadius: '16px',
-              padding: '28px 32px',
-              boxShadow: '0 12px 40px rgba(0,0,0,0.1)',
-              width: '100%',
-            }}
-          >
-            {/* Row 1 */}
-            <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-              <div
-                style={{
-                  width: '10px',
-                  height: '10px',
-                  background: '#22c55e',
-                  borderRadius: '999px',
-                  flexShrink: 0,
-                }}
-              />
-              <span style={{ fontSize: '13px', fontWeight: 500, color: '#4a5568' }}>
-                Active Search in Progress
-              </span>
-            </div>
+        <div className="mt-10 flex w-full flex-col justify-center lg:mt-0 lg:w-[45%] lg:max-w-[45%]">
+          <div className="overflow-hidden rounded-xl border border-card-border bg-white shadow-[0_4px_24px_rgba(0,0,0,0.07)]">
+            <div className="h-[3px] w-full bg-accent" />
+            <div className="p-[28px]">
+              <p className="text-[13px] font-semibold uppercase tracking-[0.05em] text-accent">
+                Expert Candidates — Ready to Opine
+              </p>
+              <p className="mt-0.5 text-[12px] text-secondary">Medical Malpractice · Florida</p>
+              <div className="my-4 border-t border-card-border" />
 
-            {/* Divider */}
-            <div style={{ borderTop: '1px solid #f0ede8', margin: '16px 0' }} />
+              <div>
+                {candidates.map((c, i) => (
+                  <div
+                    key={c.name}
+                    className={`flex items-center py-3 ${i < candidates.length - 1 ? 'border-b border-[#f0f0f0]' : ''}`}
+                  >
+                    <div
+                      className="flex h-9 w-9 flex-shrink-0 items-center justify-center rounded-full text-[13px] font-semibold text-white"
+                      style={{ backgroundColor: c.circleBg }}
+                    >
+                      {c.initials}
+                    </div>
+                    <div className="ml-3 min-w-0 flex-1">
+                      <p className="text-sm font-semibold text-primary">{c.name}</p>
+                      <p className="text-[12px] text-secondary">{c.detail}</p>
+                    </div>
+                    <span className="ml-2 flex-shrink-0 rounded-full border border-guarantee-border bg-guarantee-bg px-2 py-[3px] text-[11px] font-semibold text-guarantee">
+                      Available
+                    </span>
+                  </div>
+                ))}
+              </div>
 
-            {/* Row 2 */}
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-              <span style={{ fontSize: '14px', color: '#4a5568' }}>Avg. Delivery Time</span>
-              <span style={{ fontSize: '16px', fontWeight: 800, color: '#0a0a0a' }}>48-72 hrs</span>
-            </div>
-
-            {/* Row 3 */}
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '12px' }}>
-              <span style={{ fontSize: '14px', color: '#4a5568' }}>Satisfaction Rate</span>
-              <span style={{ fontSize: '16px', fontWeight: 800, color: '#22c55e' }}>100%</span>
-            </div>
-
-            {/* Divider */}
-            <div style={{ borderTop: '1px solid #f0ede8', margin: '16px 0' }} />
-
-            {/* Row 4 */}
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-              <span style={{ fontSize: '14px', color: '#4a5568' }}>Searches Handled</span>
-              <span style={{ fontSize: '14px', fontWeight: 700, color: '#0a0a0a' }}>Founder-led</span>
+              <div className="mb-3.5 mt-4 border-t border-card-border" />
+              <div className="flex flex-wrap items-center justify-between gap-2">
+                <div className="flex items-center gap-1.5">
+                  <ClockIcon />
+                  <span className="text-[12px] font-medium text-secondary">Delivered in 54 hours</span>
+                </div>
+                <span className="text-[12px] font-semibold text-guarantee">3 of 3 available</span>
+              </div>
             </div>
           </div>
         </div>
       </div>
-
-      <style>{`
-        @media (max-width: 768px) {
-          .hero-inner {
-            flex-direction: column !important;
-            gap: 48px !important;
-          }
-          .hero-inner h1 {
-            font-size: 40px !important;
-          }
-          .hero-card-col {
-            flex: none !important;
-            width: 100% !important;
-          }
-        }
-      `}</style>
     </section>
   )
 }

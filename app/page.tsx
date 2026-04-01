@@ -1,8 +1,6 @@
 import Nav from '@/components/Nav'
 import Hero from '@/components/Hero'
 import Testimonials from '@/components/Testimonials'
-import TrustSignals from '@/components/TrustSignals'
-import TrustBar from '@/components/TrustBar'
 import Problem from '@/components/Problem'
 import HowItWorks from '@/components/HowItWorks'
 import ModernApproach from '@/components/ModernApproach'
@@ -75,13 +73,11 @@ export default function Home() {
       <main>
         <Hero />
         <Testimonials />
-        <TrustSignals />
-        <TrustBar />
+        <PracticeAreas />
         <Problem />
         <HowItWorks />
         <ModernApproach />
         <Guarantee />
-        <PracticeAreas />
         <FinalCTA />
       </main>
       <Footer />

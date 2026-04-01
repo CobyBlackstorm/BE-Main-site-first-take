@@ -23,146 +23,30 @@ const steps = [
 
 export default function HowItWorks() {
   return (
-    <section
-      id="how-it-works"
-      style={{
-        background: '#e8e4de',
-        padding: '80px 40px',
-      }}
-    >
-      <div style={{ maxWidth: '1100px', margin: '0 auto' }}>
-        {/* Small label */}
-        <p
-          style={{
-            fontSize: '11px',
-            letterSpacing: '0.12em',
-            color: '#4a5568',
-            textAlign: 'center',
-            textTransform: 'uppercase',
-            fontWeight: 600,
-            marginBottom: '12px',
-          }}
-        >
-          How It Works
-        </p>
+    <section id="how-it-works" className="bg-page section-padding">
+      <div className="section-container max-w-container">
+        <p className="section-label mb-3 text-center">How It Works</p>
 
-        {/* Header */}
-        <h2
-          style={{
-            fontSize: '36px',
-            fontWeight: 800,
-            color: '#0a0a0a',
-            textAlign: 'center',
-            marginBottom: '48px',
-          }}
-        >
+        <h2 className="mb-12 text-center text-[36px] font-bold leading-[1.2] tracking-[-0.02em] text-primary">
           From Request to Introduction in Four Steps
         </h2>
 
-        {/* Cards */}
-        <div
-          style={{
-            display: 'grid',
-            gridTemplateColumns: 'repeat(4, 1fr)',
-            gap: '20px',
-          }}
-          className="how-grid"
-        >
+        <div className="grid grid-cols-1 items-stretch gap-5 md:grid-cols-2 lg:grid-cols-4">
           {steps.map((step) => (
             <div
               key={step.number}
-              className="how-card"
-              style={{
-                background: '#ffffff',
-                border: '1px solid #e2e8f0',
-                borderLeft: '4px solid #1a3a5c',
-                borderRadius: '8px',
-                padding: '36px',
-                minHeight: '220px',
-                boxShadow: '0 2px 12px rgba(0,0,0,0.06)',
-                position: 'relative',
-                overflow: 'hidden',
-                transition: 'transform 0.2s ease, box-shadow 0.2s ease',
-              }}
+              className="flex min-h-0 flex-col overflow-hidden rounded-xl border border-card-border bg-white shadow-[0_2px_12px_rgba(0,0,0,0.06)] transition-all duration-200 ease-in-out hover:-translate-y-0.5 hover:shadow-[0_8px_24px_rgba(0,0,0,0.08)]"
             >
-              {/* Ghost watermark number */}
-              <span
-                style={{
-                  position: 'absolute',
-                  bottom: '-16px',
-                  right: '8px',
-                  fontSize: '120px',
-                  fontWeight: 800,
-                  color: '#1a3a5c',
-                  opacity: 0.04,
-                  lineHeight: 1,
-                  userSelect: 'none',
-                  pointerEvents: 'none',
-                }}
-              >
-                {step.number}
-              </span>
-
-              {/* Large step number */}
-              <p
-                style={{
-                  fontSize: '72px',
-                  fontWeight: 800,
-                  color: '#1a3a5c',
-                  lineHeight: 1,
-                  marginBottom: '20px',
-                }}
-              >
-                {step.number}
-              </p>
-
-              {/* Title */}
-              <p
-                style={{
-                  fontSize: '17px',
-                  fontWeight: 700,
-                  color: '#0a0a0a',
-                  marginBottom: '10px',
-                  lineHeight: 1.3,
-                }}
-              >
-                {step.title}
-              </p>
-
-              {/* Body */}
-              <p
-                style={{
-                  fontSize: '14px',
-                  color: '#4a5568',
-                  lineHeight: 1.7,
-                }}
-              >
-                {step.body}
-              </p>
+              <div className="h-[3px] w-full bg-accent" />
+              <div className="flex flex-1 flex-col p-[28px]">
+                <p className="mb-3 text-[36px] font-extrabold leading-none text-accent">{step.number}</p>
+                <p className="mb-2 text-[15px] font-bold text-primary">{step.title}</p>
+                <p className="text-sm font-normal leading-[1.7] text-secondary">{step.body}</p>
+              </div>
             </div>
           ))}
         </div>
       </div>
-
-      <style>{`
-        .how-card:hover {
-          transform: translateY(-3px);
-          box-shadow: 0 8px 24px rgba(0,0,0,0.1) !important;
-        }
-        @media (max-width: 900px) {
-          .how-grid {
-            grid-template-columns: repeat(2, 1fr) !important;
-          }
-        }
-        @media (max-width: 480px) {
-          section {
-            padding: 60px 20px !important;
-          }
-          .how-grid {
-            grid-template-columns: 1fr !important;
-          }
-        }
-      `}</style>
     </section>
   )
 }

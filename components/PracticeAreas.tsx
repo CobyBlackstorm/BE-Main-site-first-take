@@ -64,39 +64,19 @@ function TickerRow({ items, direction }: { items: string[]; direction: 'left' | 
 
   return (
     <div
-      className="ticker-row"
+      className="ticker-row cursor-default overflow-hidden"
       style={{
-        overflow: 'hidden',
-        width: '100%',
         WebkitMaskImage:
           'linear-gradient(to right, transparent 0px, black 80px, black calc(100% - 80px), transparent 100%)',
         maskImage:
           'linear-gradient(to right, transparent 0px, black 80px, black calc(100% - 80px), transparent 100%)',
-        cursor: 'default',
       }}
     >
-      <div
-        className={animClass}
-        style={{
-          display: 'flex',
-          gap: '12px',
-          width: 'max-content',
-        }}
-      >
+      <div className={`${animClass} flex w-max gap-3`}>
         {doubled.map((item, i) => (
           <span
             key={i}
-            style={{
-              background: '#ffffff',
-              border: '1px solid #e2e8f0',
-              borderRadius: '999px',
-              padding: '8px 20px',
-              fontSize: '14px',
-              fontWeight: 500,
-              color: '#0a0a0a',
-              whiteSpace: 'nowrap',
-              display: 'inline-block',
-            }}
+            className="inline-block whitespace-nowrap rounded-full border border-card-border bg-white px-5 py-2 text-sm font-medium text-primary shadow-none transition-all duration-200 ease-in-out hover:border-accent hover:shadow-card"
           >
             {item}
           </span>
@@ -108,69 +88,23 @@ function TickerRow({ items, direction }: { items: string[]; direction: 'left' | 
 
 export default function PracticeAreas() {
   return (
-    <section
-      style={{
-        background: '#e8e4de',
-        padding: '80px 0',
-      }}
-    >
-      <div style={{ maxWidth: '1100px', margin: '0 auto', padding: '0 40px' }}>
-        {/* Small label */}
-        <p
-          style={{
-            fontSize: '11px',
-            letterSpacing: '0.12em',
-            color: '#4a5568',
-            textAlign: 'center',
-            textTransform: 'uppercase',
-            fontWeight: 600,
-            marginBottom: '12px',
-          }}
-        >
-          Practice Areas
-        </p>
+    <section className="bg-page pt-[60px] md:pt-20">
+      <div className="section-container max-w-container pb-5">
+        <p className="section-label mb-3 text-center">Practice Areas</p>
 
-        {/* Header */}
-        <h2
-          style={{
-            fontSize: '36px',
-            fontWeight: 800,
-            color: '#0a0a0a',
-            textAlign: 'center',
-            marginBottom: '16px',
-          }}
-        >
+        <h2 className="mb-4 text-center text-[36px] font-bold leading-[1.2] tracking-[-0.02em] text-primary">
           Trusted Across Every Area of Litigation
         </h2>
 
-        {/* Subheader */}
-        <p
-          style={{
-            fontSize: '18px',
-            color: '#4a5568',
-            textAlign: 'center',
-            maxWidth: '580px',
-            margin: '0 auto 48px',
-            lineHeight: 1.7,
-          }}
-        >
+        <p className="mx-auto max-w-[580px] text-center text-base font-normal leading-[1.7] text-secondary">
           If your case needs an expert, we can find one. No matter the practice area, the jurisdiction, or how niche the specialty.
         </p>
       </div>
 
-      {/* Tickers — full width */}
-      <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+      <div className="flex flex-col gap-4 pb-[60px] md:pb-[80px]">
         <TickerRow items={row1} direction="left" />
         <TickerRow items={row2} direction="right" />
       </div>
-
-      <style>{`
-        @media (max-width: 768px) {
-          section {
-            padding: 60px 0 !important;
-          }
-        }
-      `}</style>
     </section>
   )
 }
