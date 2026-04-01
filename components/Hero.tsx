@@ -41,7 +41,7 @@ export default function Hero() {
           </h1>
 
           <p className="mt-4 max-w-[480px] text-[17px] font-normal leading-[1.7] text-secondary">
-            The right expert witness, delivered in 48 to 72 hours. No retainer. No hidden fees. Satisfaction guaranteed.
+            The right expert witness, delivered in 48 to 72 hours. No payment until we deliver. No hidden fees. Satisfaction guaranteed.
           </p>
 
           <a
@@ -52,7 +52,7 @@ export default function Hero() {
           </a>
 
           <p className="mt-3 text-[13px] font-normal leading-[1.7] text-secondary">
-            No upfront fees. No obligation to retain. Satisfaction guaranteed.
+            No payment until we deliver. No obligation to retain. Satisfaction guaranteed.
           </p>
         </div>
 

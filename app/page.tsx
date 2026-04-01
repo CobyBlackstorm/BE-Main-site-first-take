@@ -36,7 +36,7 @@ const faqSchema = {
       name: 'How much does expert witness sourcing cost?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Blackstorm Experts charges a single flat rate per search with no retainer and no hidden fees. You only pay when we deliver.',
+        text: 'Blackstorm Experts charges a single flat rate per search with no payment until we deliver and no hidden fees. You only pay when we deliver.',
       },
     },
     {

@@ -41,7 +41,7 @@ export default function Guarantee() {
         </h2>
 
         <p className="mx-auto max-w-[600px] text-[15px] font-normal leading-[1.8] text-secondary">
-          You don&rsquo;t pay unless we deliver an expert introduction you&rsquo;re satisfied with. If the candidates we provide aren&rsquo;t the right fit, we go back out and source more at no additional charge. No retainer. No hidden fees. One flat rate, only when we deliver.
+          You don&rsquo;t pay unless we deliver an expert introduction you&rsquo;re satisfied with. If the candidates we provide aren&rsquo;t the right fit, we go back out and source more at no additional charge. No payment until we deliver. No hidden fees. One flat rate, only when we deliver.
         </p>
 
         <div className="mt-7 flex flex-col flex-wrap items-center justify-center gap-4 sm:flex-row sm:gap-8">

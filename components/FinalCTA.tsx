@@ -1,8 +1,15 @@
 'use client'
 
-export default function FinalCTA() {
+type FinalCTAProps = {
+  /** Tighter vertical padding for specialty pages (40px mobile / 60px desktop). */
+  compact?: boolean
+}
+
+export default function FinalCTA({ compact }: FinalCTAProps) {
+  const paddingClass = compact ? 'py-[40px] md:py-[60px]' : 'py-20 md:py-[80px]'
+
   return (
-    <section className="bg-[#1a3a5c] py-20 md:py-[80px]">
+    <section className={`bg-[#1a3a5c] ${paddingClass}`}>
       <div className="section-container max-w-[700px] text-center">
         <h2 className="mb-4 text-[36px] font-bold leading-[1.2] tracking-[-0.02em] text-white">
           Ready to Find the Right Expert?
@@ -20,7 +27,7 @@ export default function FinalCTA() {
         </a>
 
         <p className="mt-3 text-[13px] font-normal leading-[1.7] text-white/60">
-          No upfront fees. No obligation to retain. Satisfaction guaranteed.
+          No payment until we deliver. No obligation to retain. Satisfaction guaranteed.
         </p>
       </div>
     </section>

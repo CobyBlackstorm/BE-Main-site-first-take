@@ -4,7 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Blackstorm Experts | Expert Witness Search for Litigation Attorneys',
   description:
-    'Blackstorm Experts sources, vets, and delivers qualified expert witnesses to litigation attorneys in 48-72 hours. Flat rate. No retainer. Satisfaction guaranteed.',
+    'Blackstorm Experts sources, vets, and delivers qualified expert witnesses to litigation attorneys in 48-72 hours. Flat rate. No payment until we deliver. Satisfaction guaranteed.',
   metadataBase: new URL('https://www.getblackstorm.com'),
   alternates: {
     canonical: 'https://www.getblackstorm.com',
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Blackstorm Experts | Expert Witness Search for Litigation Attorneys',
     description:
-      'Blackstorm Experts sources, vets, and delivers qualified expert witnesses to litigation attorneys in 48-72 hours. Flat rate. No retainer. Satisfaction guaranteed.',
+      'Blackstorm Experts sources, vets, and delivers qualified expert witnesses to litigation attorneys in 48-72 hours. Flat rate. No payment until we deliver. Satisfaction guaranteed.',
     url: 'https://www.getblackstorm.com',
     siteName: 'Blackstorm Experts',
     type: 'website',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Blackstorm Experts | Expert Witness Search for Litigation Attorneys',
     description:
-      'Blackstorm Experts sources, vets, and delivers qualified expert witnesses to litigation attorneys in 48-72 hours. Flat rate. No retainer. Satisfaction guaranteed.',
+      'Blackstorm Experts sources, vets, and delivers qualified expert witnesses to litigation attorneys in 48-72 hours. Flat rate. No payment until we deliver. Satisfaction guaranteed.',
   },
 }
 
