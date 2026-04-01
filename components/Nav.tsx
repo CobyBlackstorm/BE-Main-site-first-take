@@ -2,8 +2,10 @@
 
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
+import { useSearchModal } from '@/components/SearchModal'
 
 export default function Nav() {
+  const { openSearchModal } = useSearchModal()
   const [menuOpen, setMenuOpen] = useState(false)
 
   useEffect(() => {
@@ -37,6 +39,10 @@ export default function Nav() {
           <a
             href="#"
             className="rounded-md bg-accent px-6 py-2.5 text-sm font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover"
+            onClick={(e) => {
+              e.preventDefault()
+              openSearchModal()
+            }}
           >
             Start Your Search
           </a>
@@ -94,7 +100,11 @@ export default function Nav() {
             </Link>
             <a
               href="#"
-              onClick={() => setMenuOpen(false)}
+              onClick={(e) => {
+                e.preventDefault()
+                setMenuOpen(false)
+                openSearchModal()
+              }}
               className="mt-6 rounded-md bg-accent py-3.5 text-center text-base font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover"
             >
               Start Your Search

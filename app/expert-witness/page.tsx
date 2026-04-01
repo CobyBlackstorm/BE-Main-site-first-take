@@ -48,6 +48,7 @@ export default function ExpertWitnessIndexPage() {
             </p>
             <a
               href="#"
+              data-open-search-modal
               className="mt-7 inline-flex items-center justify-center rounded-md bg-accent px-12 py-4 text-base font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover"
             >
               Start Your Expert Search

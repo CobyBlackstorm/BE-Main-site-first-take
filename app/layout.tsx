@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import './globals.css'
+import { SearchModalProvider } from '@/components/SearchModal'
 
 export const metadata: Metadata = {
   title: 'Blackstorm Experts | Expert Witness Search for Litigation Attorneys',
@@ -36,7 +37,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="font-sans">{children}</body>
+      <body className="font-sans">
+        <SearchModalProvider>{children}</SearchModalProvider>
+      </body>
     </html>
   )
 }

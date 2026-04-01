@@ -21,6 +21,7 @@ export default function FinalCTA({ compact }: FinalCTAProps) {
 
         <a
           href="#"
+          data-open-search-modal
           className="inline-block rounded-md bg-white px-12 py-[18px] text-base font-semibold text-primary transition-colors duration-200 ease-in-out hover:bg-white/90"
         >
           Start Your Expert Search
