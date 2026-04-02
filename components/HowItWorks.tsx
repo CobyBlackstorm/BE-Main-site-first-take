@@ -39,8 +39,10 @@ export default function HowItWorks() {
             >
               <div className="h-[3px] w-full bg-accent" />
               <div className="flex flex-1 flex-col p-[28px]">
-                <p className="mb-3 text-[36px] font-extrabold leading-none text-accent">{step.number}</p>
-                <p className="mb-2 text-[15px] font-bold text-primary">{step.title}</p>
+                <div className="mb-2 flex items-center gap-3">
+                  <p className="flex-shrink-0 text-[36px] font-extrabold leading-none text-accent">{step.number}</p>
+                  <p className="text-[15px] font-bold text-primary">{step.title}</p>
+                </div>
                 <p className="text-sm font-normal leading-[1.7] text-secondary">{step.body}</p>
               </div>
             </div>

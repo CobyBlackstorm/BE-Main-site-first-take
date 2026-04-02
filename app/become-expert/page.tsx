@@ -72,7 +72,7 @@ export default function BecomeExpertPage() {
                   key={step.number}
                   className="rounded-lg border border-card-border bg-white p-[28px] shadow-[0_2px_12px_rgba(0,0,0,0.06)]"
                 >
-                  <div className="flex items-baseline gap-3">
+                  <div className="flex items-center gap-3">
                     <p className="flex-shrink-0 text-[36px] font-extrabold leading-none text-accent">{step.number}</p>
                     <p className="text-[16px] font-bold text-[#1a1a1a]">{step.title}</p>
                   </div>

@@ -3,7 +3,7 @@
 import { useState, type FormEvent } from 'react'
 
 const WEBHOOK_URL =
-  'https://blackstormexperts.app.n8n.cloud/webhook-test/ef9f174c-99a2-4e6b-ae24-819e597aa0ba'
+  'https://blackstormexperts.app.n8n.cloud/webhook/ef9f174c-99a2-4e6b-ae24-819e597aa0ba'
 
 export default function BecomeExpertForm() {
   const [name, setName] = useState('')
