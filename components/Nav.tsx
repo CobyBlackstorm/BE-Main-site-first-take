@@ -38,9 +38,35 @@ export default function Nav() {
         </Link>
 
         <div className="hidden items-center gap-8 md:flex">
-          <Link href="/expert-witness" className={linkClass}>
-            Expert Witnesses
-          </Link>
+          <div className="group relative">
+            <button type="button" className={`${linkClass} inline-flex items-center`}>
+              Expert Witnesses
+              <svg
+                width="10"
+                height="10"
+                viewBox="0 0 16 16"
+                fill="none"
+                aria-hidden
+                className="ml-1 align-middle text-[#4a5568] transition-transform duration-200 ease-out group-hover:rotate-180"
+              >
+                <path d="M4 6 L8 10 L12 6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
+            </button>
+            <div className="pointer-events-none invisible absolute left-0 top-full z-50 mt-2 min-w-[200px] translate-y-1 rounded-[8px] border border-[#e2e8f0] bg-white py-2 opacity-0 shadow-[0_4px_16px_rgba(0,0,0,0.08)] transition-all duration-200 ease-out group-hover:pointer-events-auto group-hover:visible group-hover:translate-y-0 group-hover:opacity-100">
+              <Link
+                href="/expert-witness"
+                className="block px-5 py-2.5 text-[14px] font-medium text-[#1a1a1a] transition-colors hover:bg-[#f5f4f0]"
+              >
+                Expert Directory
+              </Link>
+              <Link
+                href="/become-expert"
+                className="block px-5 py-2.5 text-[14px] font-medium text-[#1a1a1a] transition-colors hover:bg-[#f5f4f0]"
+              >
+                Become an Expert
+              </Link>
+            </div>
+          </div>
           <Link href="/about" className={linkClass}>
             About
           </Link>
@@ -103,7 +129,14 @@ export default function Nav() {
               className="border-b border-card-border py-4 text-left text-lg font-medium text-secondary"
               onClick={() => setMenuOpen(false)}
             >
-              Expert Witnesses
+              Expert Directory
+            </Link>
+            <Link
+              href="/become-expert"
+              className="border-b border-card-border py-4 text-left text-lg font-medium text-secondary"
+              onClick={() => setMenuOpen(false)}
+            >
+              Become an Expert
             </Link>
             <Link
               href="/about"
