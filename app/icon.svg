@@ -1,21 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Blackstorm favicon">
-  <rect width="64" height="64" fill="#000000" />
-
-  <!-- Larger cloud, lifted to keep bolt visible -->
-  <path
-    d="M14.5 22.8
-       C14.5 18.4 18.1 14.8 22.5 14.8
-       C24 14.8 25.4 15.2 26.6 16
-       C28.8 12.7 32.5 10.5 36.8 10.5
-       C42.7 10.5 47.6 15.1 48.2 20.8
-       C52 21.7 54.8 25.1 54.8 29.3
-       C54.8 33.7 51.2 37.2 46.8 37.2
-       H22.5
-       C18.1 37.2 14.5 33.6 14.5 29.2
-       Z"
-    fill="#ffffff"
-  />
-
-  <!-- Rebalanced lightning bolt -->
-  <path d="M34 27 L24 44 H31 L28 56 L42 40 H34 L38 27 Z" fill="#ffffff" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Black background -->
+  <rect width="32" height="32" rx="4" fill="#000000"/>
+  <!-- Cloud: three bumps merging into flat bottom -->
+  <path d="M6 20 L6 18 A4 4 0 0 1 10 14 A5 5 0 0 1 20 12 A4 4 0 0 1 26 16 A3 3 0 0 1 26 20 Z" fill="white"/>
+  <!-- Lightning bolt dropping from cloud bottom -->
+  <path d="M17 20 L13 26 L17 26 L15 31 L21 24 L17 24 Z" fill="white"/>
 </svg>
