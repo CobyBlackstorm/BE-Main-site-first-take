@@ -26,6 +26,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: specialty.metaTitle,
     description: specialty.metaDescription,
+    alternates: {
+      canonical: `https://www.blackstormexperts.com/expert-witness/${params.specialty}`,
+    },
   }
 }
 
