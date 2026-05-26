@@ -7,9 +7,9 @@ export const metadata: Metadata = {
   title: 'Blackstorm Experts | Expert Witness Search for Litigation Attorneys',
   description:
     'Blackstorm Experts sources, vets, and delivers qualified expert witnesses to litigation attorneys in 48-72 hours. Flat rate. No payment until we deliver. Satisfaction guaranteed.',
-  metadataBase: new URL('https://www.blackstormexperts.com'),
+  metadataBase: new URL('https://blackstormexperts.com'),
   alternates: {
-    canonical: 'https://www.blackstormexperts.com',
+    canonical: 'https://blackstormexperts.com',
   },
   robots: {
     index: true,
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: 'Blackstorm Experts | Expert Witness Search for Litigation Attorneys',
     description:
       'Blackstorm Experts sources, vets, and delivers qualified expert witnesses to litigation attorneys in 48-72 hours. Flat rate. No payment until we deliver. Satisfaction guaranteed.',
-    url: 'https://www.blackstormexperts.com',
+    url: 'https://blackstormexperts.com',
     siteName: 'Blackstorm Experts',
     type: 'website',
   },
