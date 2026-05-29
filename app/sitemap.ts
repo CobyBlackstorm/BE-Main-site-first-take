@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next'
 import { getAllSpecialtySlugs } from '@/lib/expertData'
 
-const BASE = 'https://www.blackstormexperts.com'
+const BASE = 'https://blackstormexperts.com'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticEntries: MetadataRoute.Sitemap = [
