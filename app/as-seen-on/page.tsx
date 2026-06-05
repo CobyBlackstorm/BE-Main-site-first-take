@@ -4,7 +4,7 @@ import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: 'As Seen On | Blackstorm Experts',
-  description: 'Blackstorm Experts as featured on Product Hunt, LinkedIn, Trustpilot, Hotfrog, and Dang.ai.',
+  description: 'Blackstorm Experts as featured on Product Hunt, LinkedIn, Trustpilot, Hotfrog, Dang.ai, and Indie Hackers.',
 }
 
 type Platform = {
@@ -62,6 +62,17 @@ const platforms: Platform[] = [
       alt: 'Blackstorm Experts on Hotfrog',
       width: 150,
       height: 41,
+    },
+  },
+  {
+    name: 'Indie Hackers',
+    href: 'https://www.indiehackers.com/product/blackstorm-experts',
+    rel: 'noopener noreferrer',
+    badge: {
+      src: '/logos/indiehackers.svg',
+      alt: 'Blackstorm Experts on Indie Hackers',
+      width: 56,
+      height: 56,
     },
   },
   {
