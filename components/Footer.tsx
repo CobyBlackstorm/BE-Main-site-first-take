@@ -20,16 +20,16 @@ export default function Footer() {
             <a href="#" className={`mt-1 ${muted} hover:text-white`}>
               Become an Expert Witness
             </a>
+            <Link href="/as-seen-on" className={`mt-1 ${muted} hover:text-white`}>
+              As Seen On...
+            </Link>
           </div>
         </div>
 
-        <div className="mt-10 flex flex-col items-center justify-between gap-2 border-t border-white/10 pt-5 md:flex-row">
+        <div className="mt-10 border-t border-white/10 pt-5">
           <p className="text-center text-[13px] text-white/50 md:text-left">
             &copy; 2026 Blackstorm Experts. All rights reserved.
           </p>
-          <Link href="https://www.getblackstorm.com" className="text-[13px] text-white/50 hover:text-white">
-            getblackstorm.com
-          </Link>
         </div>
       </div>
     </footer>
