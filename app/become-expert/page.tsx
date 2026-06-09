@@ -35,13 +35,6 @@ const steps = [
   },
 ]
 
-const benefits = [
-  'Direct introductions to attorneys who need your expertise',
-  'No marketing or business development required',
-  'You set your own rates — we never mark them up',
-  'Simple process — we handle the matchmaking',
-]
-
 export default function BecomeExpertPage() {
   return (
     <>
@@ -96,23 +89,6 @@ export default function BecomeExpertPage() {
               Blackstorm works with you — not just for you. We connect you with the right attorneys, and for experts who want to
               grow, we&apos;re ready to help take you further. You&apos;re never just a name on a list here.
             </p>
-          </div>
-        </section>
-
-        <section className="bg-[#eceae4] py-[60px]">
-          <div className="section-container max-w-[700px]">
-            <h2 className="mb-8 text-center text-[28px] font-bold text-[#1a1a1a]">What You Get</h2>
-            <div className="mx-auto max-w-[480px] space-y-4">
-              {benefits.map((benefit) => (
-                <div key={benefit} className="flex w-full items-start gap-3 text-left">
-                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden className="mt-1 flex-shrink-0">
-                    <circle cx="8" cy="8" r="8" fill="#16a34a" />
-                    <path d="M4.2 8.4 L6.8 10.6 L11.8 5.6" stroke="white" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
-                  </svg>
-                  <p className="text-[16px] font-semibold text-[#1a1a1a]">{benefit}</p>
-                </div>
-              ))}
-            </div>
           </div>
         </section>
 
