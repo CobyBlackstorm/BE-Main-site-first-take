@@ -92,7 +92,7 @@ export default function BecomeExpertPage() {
           </div>
         </section>
 
-        <section id="expert-form" className="bg-page py-[60px]">
+        <section id="expert-form" className="bg-muted py-[60px]">
           <div className="section-container max-w-[520px]">
             <h2 className="mb-2 text-center text-[24px] font-bold text-[#1a1a1a]">Submit Your Information</h2>
             <p className="mb-6 text-center text-[14px] text-[#4a5568]">

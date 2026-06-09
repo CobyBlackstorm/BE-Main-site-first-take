@@ -16,12 +16,17 @@ const LOOKING_FOR_OPTIONS = [
 
 const JUST_JOIN_NETWORK = 'Just join the network'
 
-const pillButtonClass = (selected: boolean) =>
-  `cursor-pointer rounded-full border px-4 py-2.5 text-[14px] font-medium leading-tight transition-all duration-200 ease-in-out ${
-    selected
-      ? 'border-accent bg-accent text-white shadow-[0_2px_8px_rgba(26,58,92,0.18)]'
-      : 'border-[#e2e8f0] bg-[#f8fafc] text-[#4a5568] hover:border-accent/50 hover:bg-white'
-  }`
+const pillUnselectedClass =
+  'inline-flex cursor-pointer items-center rounded-full border border-[#e2e8f0] bg-white px-4 py-2.5 text-[14px] font-medium leading-tight text-[#4a5568] transition-all duration-200 ease-in-out hover:border-[#1a3a5c]/50 hover:bg-[#f8fafc]'
+
+const pillSelectedStyle = {
+  backgroundColor: '#1a3a5c',
+  borderColor: '#1a3a5c',
+  color: '#ffffff',
+  boxShadow: '0 2px 8px rgba(26, 58, 92, 0.18)',
+} as const
+
+const srOnlyClass = 'sr-only'
 
 const fieldLabelClass = 'mb-3 block text-[14px] font-semibold leading-snug text-[#1a1a1a]'
 
@@ -44,59 +49,66 @@ function FormField({ label, htmlFor, children }: { label: string; htmlFor: strin
 
 function PillSelector<T extends string>({
   legend,
+  name,
   options,
   value,
   onChange,
 }: {
   legend: string
+  name: string
   options: readonly T[]
   value: T | ''
   onChange: (value: T) => void
 }) {
+  const labelId = `${name}-label`
+
   return (
-    <fieldset className="border-0 p-0">
-      <legend className={fieldLabelClass}>{legend}</legend>
-      <input
-        tabIndex={-1}
-        value={value}
-        readOnly
-        required
-        aria-hidden
-        className="pointer-events-none absolute h-0 w-0 overflow-hidden opacity-0"
-        onChange={() => undefined}
-      />
-      <div className="flex flex-wrap gap-2" role="radiogroup" aria-label={legend}>
+    <div>
+      <p id={labelId} className={fieldLabelClass}>
+        {legend}
+      </p>
+      <div className="flex flex-wrap gap-2" role="radiogroup" aria-labelledby={labelId}>
         {options.map((option) => {
           const selected = value === option
 
           return (
-            <button
+            <label
               key={option}
-              type="button"
-              aria-pressed={selected}
-              onClick={() => onChange(option)}
-              className={pillButtonClass(selected)}
+              className={pillUnselectedClass}
+              style={selected ? pillSelectedStyle : undefined}
             >
+              <input
+                type="radio"
+                name={name}
+                value={option}
+                checked={selected}
+                onChange={() => onChange(option)}
+                className={srOnlyClass}
+              />
               {option}
-            </button>
+            </label>
           )
         })}
       </div>
-    </fieldset>
+    </div>
   )
 }
 
 function MultiPillSelector({
   legend,
+  name,
   options,
   value,
   onChange,
 }: {
   legend: string
+  name: string
   options: readonly string[]
   value: string[]
   onChange: (value: string[]) => void
 }) {
+  const labelId = `${name}-label`
+
   const toggleOption = (option: string) => {
     if (value.includes(option)) {
       onChange(value.filter((item) => item !== option))
@@ -112,26 +124,34 @@ function MultiPillSelector({
   }
 
   return (
-    <fieldset className="border-0 p-0">
-      <legend className={fieldLabelClass}>{legend}</legend>
-      <div className="flex flex-wrap gap-2" role="group" aria-label={legend}>
+    <div>
+      <p id={labelId} className={fieldLabelClass}>
+        {legend}
+      </p>
+      <div className="flex flex-wrap gap-2" role="group" aria-labelledby={labelId}>
         {options.map((option) => {
           const selected = value.includes(option)
 
           return (
-            <button
+            <label
               key={option}
-              type="button"
-              aria-pressed={selected}
-              onClick={() => toggleOption(option)}
-              className={pillButtonClass(selected)}
+              className={pillUnselectedClass}
+              style={selected ? pillSelectedStyle : undefined}
             >
+              <input
+                type="checkbox"
+                name={name}
+                value={option}
+                checked={selected}
+                onChange={() => toggleOption(option)}
+                className={srOnlyClass}
+              />
               {option}
-            </button>
+            </label>
           )
         })}
       </div>
-    </fieldset>
+    </div>
   )
 }
 
@@ -226,7 +246,7 @@ export default function BecomeExpertForm() {
               type="email"
               required
               autoComplete="email"
-              placeholder="you@lawfirm.com"
+              placeholder="you@email.com"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               className={fieldClass}
@@ -249,7 +269,6 @@ export default function BecomeExpertForm() {
             <input
               id="expert-specialty"
               type="text"
-              required
               placeholder="e.g. Orthopedic Surgery, Forensic Economics"
               value={specialty}
               onChange={(e) => setSpecialty(e.target.value)}
@@ -261,7 +280,6 @@ export default function BecomeExpertForm() {
             <input
               id="expert-years"
               type="number"
-              required
               min="0"
               placeholder="15"
               value={yearsExperience}
@@ -277,16 +295,16 @@ export default function BecomeExpertForm() {
         <div className="space-y-5">
           <PillSelector
             legend="Have you served as an expert witness before?"
+            name="priorExperience"
             options={PRIOR_EXPERIENCE_OPTIONS}
             value={priorExperience}
-            onChange={setPriorExperience}
+            onChange={(option) => setPriorExperience(option)}
           />
 
           <FormField label="Roughly how many cases are you currently working?" htmlFor="expert-caseload">
             <input
               id="expert-caseload"
               type="text"
-              required
               placeholder="e.g. 2"
               value={currentCaseload}
               onChange={(e) => setCurrentCaseload(e.target.value)}
@@ -296,6 +314,7 @@ export default function BecomeExpertForm() {
 
           <MultiPillSelector
             legend="What are you looking for?"
+            name="lookingFor"
             options={LOOKING_FOR_OPTIONS}
             value={lookingForSelections}
             onChange={setLookingForSelections}
