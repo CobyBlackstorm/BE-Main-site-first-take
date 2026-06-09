@@ -7,6 +7,12 @@ export const metadata: Metadata = {
   title: 'Become an Expert Witness | Blackstorm Experts',
   description:
     "Join Blackstorm Experts' network. We connect qualified expert witnesses with litigation attorneys nationwide. No marketing required — we bring the cases to you.",
+  alternates: {
+    canonical: '/become-expert',
+  },
+  openGraph: {
+    url: '/become-expert',
+  },
 }
 
 const steps = [

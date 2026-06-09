@@ -9,25 +9,19 @@ export const metadata: Metadata = {
     'Blackstorm Experts sources, vets, and delivers qualified expert witnesses to litigation attorneys in 48-72 hours. Flat rate. No payment until we deliver. Satisfaction guaranteed.',
   metadataBase: new URL('https://blackstormexperts.com'),
   alternates: {
-    canonical: 'https://blackstormexperts.com',
+    canonical: '/',
   },
   robots: {
     index: true,
     follow: true,
   },
   openGraph: {
-    title: 'Blackstorm Experts | Expert Witness Search for Litigation Attorneys',
-    description:
-      'Blackstorm Experts sources, vets, and delivers qualified expert witnesses to litigation attorneys in 48-72 hours. Flat rate. No payment until we deliver. Satisfaction guaranteed.',
-    url: 'https://blackstormexperts.com',
+    url: '/',
     siteName: 'Blackstorm Experts',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Blackstorm Experts | Expert Witness Search for Litigation Attorneys',
-    description:
-      'Blackstorm Experts sources, vets, and delivers qualified expert witnesses to litigation attorneys in 48-72 hours. Flat rate. No payment until we deliver. Satisfaction guaranteed.',
   },
 }
 

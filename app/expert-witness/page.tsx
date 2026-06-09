@@ -8,6 +8,12 @@ export const metadata: Metadata = {
   title: 'Expert Witness Specialties | Blackstorm Experts',
   description:
     'Browse expert witness specialties. Blackstorm sources qualified experts for litigation attorneys in 48–72 hours. Flat rate, satisfaction guaranteed.',
+  alternates: {
+    canonical: '/expert-witness',
+  },
+  openGraph: {
+    url: '/expert-witness',
+  },
 }
 
 export default function ExpertWitnessIndexPage() {

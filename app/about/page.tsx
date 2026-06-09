@@ -10,6 +10,12 @@ export const metadata: Metadata = {
   title: 'About Blackstorm Experts | Expert Witness Search for Litigation Attorneys',
   description:
     'Blackstorm Experts was founded to give litigation attorneys a faster, simpler way to find qualified expert witnesses. Every search is handled personally by founder Coby Weiss.',
+  alternates: {
+    canonical: '/about',
+  },
+  openGraph: {
+    url: '/about',
+  },
 }
 
 export default function AboutPage() {

@@ -27,7 +27,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: specialty.metaTitle,
     description: specialty.metaDescription,
     alternates: {
-      canonical: `https://blackstormexperts.com/expert-witness/${params.specialty}`,
+      canonical: `/expert-witness/${params.specialty}`,
+    },
+    openGraph: {
+      url: `/expert-witness/${params.specialty}`,
     },
   }
 }

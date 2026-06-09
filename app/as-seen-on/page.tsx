@@ -5,6 +5,12 @@ import Footer from '@/components/Footer'
 export const metadata: Metadata = {
   title: 'As Seen On | Blackstorm Experts',
   description: 'Blackstorm Experts as featured on Product Hunt, LinkedIn, Trustpilot, Hotfrog, Dang.ai, and Indie Hackers.',
+  alternates: {
+    canonical: '/as-seen-on',
+  },
+  openGraph: {
+    url: '/as-seen-on',
+  },
 }
 
 type Platform = {
