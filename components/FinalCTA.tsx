@@ -24,7 +24,7 @@ export default function FinalCTA({ compact }: FinalCTAProps) {
           data-open-search-modal
           className="inline-block rounded-md bg-white px-12 py-[18px] text-base font-semibold text-primary transition-colors duration-200 ease-in-out hover:bg-white/90"
         >
-          Start Your Expert Search
+          Request an Expert
         </a>
 
         <p className="mt-3 text-[13px] font-normal leading-[1.7] text-white/60">

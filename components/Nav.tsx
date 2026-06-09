@@ -5,17 +5,36 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { useSearchModal } from '@/components/SearchModal'
 
+const moreLinks = [
+  { label: 'Expert Directory', href: '/expert-witness' },
+  { label: 'About', href: '/about' },
+  { label: 'Blog', href: '/blog' },
+]
+
 export default function Nav() {
   const { openSearchModal } = useSearchModal()
   const [menuOpen, setMenuOpen] = useState(false)
-  const [expertDropdownOpen, setExpertDropdownOpen] = useState(false)
-  const expertDropdownCloseTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const [moreDropdownOpen, setMoreDropdownOpen] = useState(false)
+  const moreDropdownCloseTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
 
-  const clearExpertDropdownCloseTimer = () => {
-    if (expertDropdownCloseTimerRef.current) {
-      clearTimeout(expertDropdownCloseTimerRef.current)
-      expertDropdownCloseTimerRef.current = null
+  const clearMoreDropdownCloseTimer = () => {
+    if (moreDropdownCloseTimerRef.current) {
+      clearTimeout(moreDropdownCloseTimerRef.current)
+      moreDropdownCloseTimerRef.current = null
     }
+  }
+
+  const openMoreDropdown = () => {
+    clearMoreDropdownCloseTimer()
+    setMoreDropdownOpen(true)
+  }
+
+  const closeMoreDropdown = () => {
+    clearMoreDropdownCloseTimer()
+    moreDropdownCloseTimerRef.current = setTimeout(() => {
+      setMoreDropdownOpen(false)
+      moreDropdownCloseTimerRef.current = null
+    }, 150)
   }
 
   useEffect(() => {
@@ -31,14 +50,17 @@ export default function Nav() {
 
   useEffect(() => {
     return () => {
-      if (expertDropdownCloseTimerRef.current) {
-        clearTimeout(expertDropdownCloseTimerRef.current)
+      if (moreDropdownCloseTimerRef.current) {
+        clearTimeout(moreDropdownCloseTimerRef.current)
       }
     }
   }, [])
 
-  const linkClass =
-    'text-sm font-medium text-secondary transition-colors duration-200 ease-in-out hover:text-primary'
+  const moreTriggerClass =
+    'inline-flex items-center gap-1.5 py-2.5 text-sm font-medium leading-none text-secondary transition-colors duration-200 ease-in-out hover:text-primary'
+
+  const dropdownItemClass =
+    'block whitespace-nowrap px-4 py-2.5 text-sm font-medium leading-none text-primary transition-colors duration-200 hover:bg-[#f5f4f0] hover:text-accent'
 
   return (
     <nav className="sticky top-0 z-50 bg-[#f5f4f0] shadow-[0_1px_3px_rgba(0,0,0,0.04)]">
@@ -54,68 +76,61 @@ export default function Nav() {
           />
         </Link>
 
-        <div className="hidden items-center gap-8 md:flex">
-          <div
-            className="relative pb-2"
-            onMouseEnter={() => {
-              clearExpertDropdownCloseTimer()
-              setExpertDropdownOpen(true)
-            }}
-            onMouseLeave={() => {
-              clearExpertDropdownCloseTimer()
-              expertDropdownCloseTimerRef.current = setTimeout(() => {
-                setExpertDropdownOpen(false)
-                expertDropdownCloseTimerRef.current = null
-              }, 150)
+        <div className="hidden items-center gap-4 md:flex">
+          <a
+            href="#"
+            className="rounded-md bg-accent px-6 py-2.5 text-sm font-semibold leading-none text-white transition-all duration-200 ease-in-out hover:bg-accent-hover"
+            onClick={(e) => {
+              e.preventDefault()
+              openSearchModal()
             }}
           >
-            <button type="button" className={`${linkClass} inline-flex items-center`}>
-              Expert Witnesses
+            Request an Expert
+          </a>
+
+          <Link
+            href="/become-expert"
+            className="rounded-md border border-accent bg-transparent px-5 py-2.5 text-sm font-semibold leading-none text-accent transition-all duration-200 ease-in-out hover:bg-accent/5"
+          >
+            For Experts
+          </Link>
+
+          <div className="relative flex items-center" onMouseEnter={openMoreDropdown} onMouseLeave={closeMoreDropdown}>
+            <button
+              type="button"
+              className={moreTriggerClass}
+              aria-expanded={moreDropdownOpen}
+              aria-haspopup="true"
+              onClick={() => setMoreDropdownOpen((open) => !open)}
+            >
+              More
               <svg
                 width="10"
                 height="10"
                 viewBox="0 0 16 16"
                 fill="none"
                 aria-hidden
-                className={`ml-1 align-middle text-[#4a5568] transition-transform duration-200 ease-out ${expertDropdownOpen ? 'rotate-180' : ''}`}
+                className={`text-secondary transition-transform duration-200 ease-out ${moreDropdownOpen ? 'rotate-180' : ''}`}
               >
                 <path d="M4 6 L8 10 L12 6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
               </svg>
             </button>
             <div
-              className={`absolute left-0 top-full z-50 min-w-[200px] rounded-[8px] border border-[#e2e8f0] bg-white py-2 shadow-[0_4px_16px_rgba(0,0,0,0.08)] transition-all duration-200 ease-out ${
-                expertDropdownOpen
+              className={`absolute right-0 top-full z-50 pt-2 transition-all duration-200 ease-out ${
+                moreDropdownOpen
                   ? 'pointer-events-auto visible translate-y-0 opacity-100'
                   : 'pointer-events-none invisible translate-y-1 opacity-0'
               }`}
             >
-              <Link
-                href="/expert-witness"
-                className="block px-5 py-2.5 text-[14px] font-medium text-[#1a1a1a] transition-colors hover:bg-[#f5f4f0]"
-              >
-                Expert Directory
-              </Link>
-              <Link
-                href="/become-expert"
-                className="block px-5 py-2.5 text-[14px] font-medium text-[#1a1a1a] transition-colors hover:bg-[#f5f4f0]"
-              >
-                Become an Expert
-              </Link>
+              <div className="min-w-[188px] overflow-hidden rounded-lg border border-card-border bg-white py-1.5 shadow-[0_4px_16px_rgba(0,0,0,0.08)]">
+                {moreLinks.map((item) => (
+                  <Link key={item.href} href={item.href} className={dropdownItemClass}>
+                    {item.label}
+                  </Link>
+                ))}
+              </div>
             </div>
           </div>
-          <Link href="/about" className={linkClass}>
-            About
-          </Link>
-          <a
-            href="#"
-            className="rounded-md bg-accent px-6 py-2.5 text-sm font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover"
-            onClick={(e) => {
-              e.preventDefault()
-              openSearchModal()
-            }}
-          >
-            Start Your Search
-          </a>
         </div>
 
         <button
@@ -160,27 +175,16 @@ export default function Nav() {
             </button>
           </div>
           <div className="flex flex-1 flex-col justify-center gap-2 px-8 pb-12">
-            <Link
-              href="/expert-witness"
-              className="border-b border-card-border py-4 text-left text-lg font-medium text-secondary"
-              onClick={() => setMenuOpen(false)}
-            >
-              Expert Directory
-            </Link>
-            <Link
-              href="/become-expert"
-              className="border-b border-card-border py-4 text-left text-lg font-medium text-secondary"
-              onClick={() => setMenuOpen(false)}
-            >
-              Become an Expert
-            </Link>
-            <Link
-              href="/about"
-              className="border-b border-card-border py-4 text-left text-lg font-medium text-secondary"
-              onClick={() => setMenuOpen(false)}
-            >
-              About
-            </Link>
+            {moreLinks.map((item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                className="border-b border-card-border py-4 text-left text-lg font-medium text-secondary"
+                onClick={() => setMenuOpen(false)}
+              >
+                {item.label}
+              </Link>
+            ))}
             <a
               href="#"
               onClick={(e) => {
@@ -188,10 +192,17 @@ export default function Nav() {
                 setMenuOpen(false)
                 openSearchModal()
               }}
-              className="mt-6 rounded-md bg-accent py-3.5 text-center text-base font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover"
+              className="mt-4 rounded-md bg-accent py-3.5 text-center text-base font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover"
             >
-              Start Your Search
+              Request an Expert
             </a>
+            <Link
+              href="/become-expert"
+              className="mt-3 rounded-md border border-accent py-3.5 text-center text-base font-semibold text-accent transition-all duration-200 ease-in-out hover:bg-accent/5"
+              onClick={() => setMenuOpen(false)}
+            >
+              For Experts
+            </Link>
           </div>
         </div>
       )}

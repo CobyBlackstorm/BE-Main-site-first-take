@@ -41,7 +41,7 @@ export default function Hero() {
           </h1>
 
           <p className="mt-6 max-w-[480px] text-lg font-normal leading-[1.65] text-[#4B5563]">
-            The right expert witness, delivered in 48 to 72 hours. No payment until we deliver. No hidden fees. No obligation to retain. Satisfaction guaranteed.
+            The right expert witness, delivered in 48 to 72 hours. No payment until we deliver. No obligation to retain. Satisfaction guaranteed.
           </p>
 
           <a
@@ -49,7 +49,7 @@ export default function Hero() {
             data-open-search-modal
             className="mt-8 inline-flex w-auto whitespace-nowrap items-center justify-center rounded-md bg-accent px-12 py-4 text-base font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover hover:shadow-[0_4px_14px_rgba(26,58,92,0.25)]"
           >
-            Start Your Expert Search
+            Request an Expert
           </a>
         </div>
 

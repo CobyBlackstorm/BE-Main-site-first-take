@@ -106,7 +106,7 @@ function SearchModalDialog() {
         ) : (
           <>
             <h2 id={titleId} className="mb-2 text-[24px] font-bold text-[#1a1a1a]">
-              Start Your Expert Search
+              Request an Expert
             </h2>
             <p className="mb-6 text-[14px] text-[#4a5568]">
               Fill out the form below and we&apos;ll be in touch within 24 hours.

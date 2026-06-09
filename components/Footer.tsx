@@ -17,9 +17,9 @@ export default function Footer() {
           <div className="flex flex-col items-center text-center md:items-end md:text-right">
             <p className={muted}>352-256-1603</p>
             <p className={`mt-1 ${muted}`}>info@blackstormexperts.com</p>
-            <a href="#" className={`mt-1 ${muted} hover:text-white`}>
+            <Link href="/become-expert" className={`mt-1 ${muted} hover:text-white`}>
               Become an Expert Witness
-            </a>
+            </Link>
             <Link href="/as-seen-on" className={`mt-1 ${muted} hover:text-white`}>
               As Seen On...
             </Link>

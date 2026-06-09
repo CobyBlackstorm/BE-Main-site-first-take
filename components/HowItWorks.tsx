@@ -17,7 +17,7 @@ const steps = [
   {
     number: '4',
     title: 'You Choose Who to Retain',
-    body: 'Review your options and retain who you want directly. We never mark up their rates. If no one fits, we keep searching at no extra charge.',
+    body: 'Review your options and retain who you want directly. If no one fits, we keep searching at no extra charge.',
   },
 ]
 
@@ -47,6 +47,16 @@ export default function HowItWorks() {
               </div>
             </div>
           ))}
+        </div>
+
+        <div className="mt-12 flex justify-center">
+          <a
+            href="#"
+            data-open-search-modal
+            className="inline-flex items-center justify-center rounded-md bg-accent px-12 py-4 text-base font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover hover:shadow-[0_4px_14px_rgba(26,58,92,0.25)]"
+          >
+            Request an Expert
+          </a>
         </div>
       </div>
     </section>

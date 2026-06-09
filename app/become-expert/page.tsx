@@ -31,8 +31,7 @@ const steps = [
   {
     number: '3',
     title: 'You Get Retained Directly',
-    description:
-      'The attorney retains you directly. We never mark up your rates. You set your own fees and manage the engagement on your terms.',
+    description: 'The attorney retains you directly. You set your own fees and manage the engagement on your terms.',
   },
 ]
 
@@ -55,16 +54,15 @@ export default function BecomeExpertPage() {
               Become an Expert Witness with Blackstorm
             </h1>
             <p className="mx-auto mt-4 max-w-[600px] text-[17px] leading-[1.7] text-[#4a5568]">
-              We connect qualified professionals with litigation attorneys who need expert testimony. No marketing, no chasing leads
-              — we bring the cases to you.
+              Whether you&apos;re just entering the expert world, actively taking cases, or buried in more than you can manage,
+              we&apos;d love to connect.
             </p>
             <a
               href="#expert-form"
               className="mt-7 inline-flex items-center justify-center rounded-md bg-accent px-12 py-4 text-base font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover"
             >
-              Submit Your Profile
+              Join the Network
             </a>
-            <p className="mt-3 text-[13px] text-[#4a5568]">We&apos;ll follow up within 48 hours.</p>
           </div>
         </section>
 
@@ -90,8 +88,19 @@ export default function BecomeExpertPage() {
         </section>
 
         <section className="bg-page py-[60px]">
+          <div className="section-container max-w-[700px] text-center">
+            <p className="mb-3 text-[12px] font-semibold uppercase tracking-[0.1em] text-accent">Why Blackstorm</p>
+            <h2 className="mb-6 text-[28px] font-bold text-[#1a1a1a]">Wherever You Are, We Meet You There</h2>
+            <p className="mx-auto max-w-[640px] text-[16px] leading-[1.75] text-[#4a5568]">
+              Whether you&apos;re landing your first case, building toward a steady stream of work, or managing a full caseload,
+              Blackstorm works with you — not just for you. We connect you with the right attorneys, and for experts who want to
+              grow, we&apos;re ready to help take you further. You&apos;re never just a name on a list here.
+            </p>
+          </div>
+        </section>
+
+        <section className="bg-[#eceae4] py-[60px]">
           <div className="section-container max-w-[700px]">
-            <p className="mb-3 text-center text-[12px] font-semibold uppercase tracking-[0.1em] text-accent">Why Join Blackstorm</p>
             <h2 className="mb-8 text-center text-[28px] font-bold text-[#1a1a1a]">What You Get</h2>
             <div className="mx-auto max-w-[480px] space-y-4">
               {benefits.map((benefit) => (
@@ -107,7 +116,7 @@ export default function BecomeExpertPage() {
           </div>
         </section>
 
-        <section id="expert-form" className="bg-[#eceae4] py-[60px]">
+        <section id="expert-form" className="bg-page py-[60px]">
           <div className="section-container max-w-[520px]">
             <h2 className="mb-2 text-center text-[24px] font-bold text-[#1a1a1a]">Submit Your Information</h2>
             <p className="mb-6 text-center text-[14px] text-[#4a5568]">

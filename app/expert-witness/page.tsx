@@ -57,7 +57,7 @@ export default function ExpertWitnessIndexPage() {
               data-open-search-modal
               className="mt-7 inline-flex items-center justify-center rounded-md bg-accent px-12 py-4 text-base font-semibold text-white transition-all duration-200 ease-in-out hover:bg-accent-hover"
             >
-              Start Your Expert Search
+              Request an Expert
             </a>
             <p className="mt-3 text-[13px] text-[#4a5568]">
               No payment until we deliver. No obligation to retain. Satisfaction guaranteed.

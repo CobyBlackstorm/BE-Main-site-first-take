@@ -11,6 +11,9 @@ export default function BecomeExpertForm() {
   const [phone, setPhone] = useState('')
   const [specialty, setSpecialty] = useState('')
   const [yearsExperience, setYearsExperience] = useState('')
+  const [priorExperience, setPriorExperience] = useState('')
+  const [currentCaseload, setCurrentCaseload] = useState('')
+  const [lookingFor, setLookingFor] = useState('')
   const [background, setBackground] = useState('')
   const [submitting, setSubmitting] = useState(false)
   const [success, setSuccess] = useState(false)
@@ -35,6 +38,9 @@ export default function BecomeExpertForm() {
           phone,
           specialty,
           yearsExperience,
+          priorExperience,
+          currentCaseload,
+          lookingFor,
           background,
         }),
       })
@@ -100,8 +106,8 @@ export default function BecomeExpertForm() {
       <input
         type="text"
         required
-        placeholder="e.g., Orthopedic Surgery, Forensic Economics"
-        aria-label="Area of Expertise"
+        placeholder="Specialty / Area of Expertise"
+        aria-label="Specialty / Area of Expertise"
         value={specialty}
         onChange={(e) => setSpecialty(e.target.value)}
         className={fieldClass}
@@ -116,6 +122,44 @@ export default function BecomeExpertForm() {
         onChange={(e) => setYearsExperience(e.target.value)}
         className={fieldClass}
       />
+      <select
+        required
+        aria-label="Have you served as an expert witness before?"
+        value={priorExperience}
+        onChange={(e) => setPriorExperience(e.target.value)}
+        className={`${fieldClass} bg-white text-[#4a5568]`}
+      >
+        <option value="" disabled>
+          Have you served as an expert witness before?
+        </option>
+        <option value="None">None</option>
+        <option value="Some">Some</option>
+        <option value="Extensive">Extensive</option>
+      </select>
+      <input
+        type="text"
+        required
+        placeholder="Roughly how many cases are you currently working?"
+        aria-label="Roughly how many cases are you currently working?"
+        value={currentCaseload}
+        onChange={(e) => setCurrentCaseload(e.target.value)}
+        className={fieldClass}
+      />
+      <select
+        required
+        aria-label="What are you looking for?"
+        value={lookingFor}
+        onChange={(e) => setLookingFor(e.target.value)}
+        className={`${fieldClass} bg-white text-[#4a5568]`}
+      >
+        <option value="" disabled>
+          What are you looking for?
+        </option>
+        <option value="More cases">More cases</option>
+        <option value="Build my presence">Build my presence</option>
+        <option value="Help managing my caseload">Help managing my caseload</option>
+        <option value="Just join the network">Just join the network</option>
+      </select>
       <textarea
         rows={4}
         placeholder="Tell us about your credentials, specialties, and any prior expert witness experience."
@@ -129,7 +173,7 @@ export default function BecomeExpertForm() {
         disabled={submitting}
         className="w-full rounded-md border-0 bg-[#1a3a5c] py-[14px] text-[16px] font-semibold text-white transition-colors duration-200 ease-in-out hover:bg-[#152d47] disabled:cursor-not-allowed disabled:opacity-80"
       >
-        {submitting ? 'Submitting...' : 'Submit Your Profile'}
+        {submitting ? 'Submitting...' : 'Join Now'}
       </button>
       {error && (
         <p className="mt-3 text-[14px] text-[#dc2626]" role="alert">
