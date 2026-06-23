@@ -5,6 +5,8 @@ import Nav from '@/components/Nav'
 import Footer from '@/components/Footer'
 import FinalCTA from '@/components/FinalCTA'
 import ExpertTrustIcons from '@/components/ExpertTrustIcons'
+import RelatedArticles from '@/components/RelatedArticles'
+import { getBlogPostsBySpecialty } from '@/lib/blog'
 import { getSpecialtyBySlug, getAllSpecialtySlugs, type ExpertSpecialty } from '@/lib/expertData'
 
 type Props = {
@@ -60,6 +62,8 @@ export default function ExpertSpecialtyPage({ params }: Props) {
     notFound()
   }
 
+  const relatedPosts = getBlogPostsBySpecialty(params.specialty)
+
   return (
     <>
       <Nav />
@@ -68,7 +72,8 @@ export default function ExpertSpecialtyPage({ params }: Props) {
         <HeroSection data={data} />
         <CombinedPillsSection data={data} />
         <ContentSection data={data} />
-        <ExpertTrustIcons />
+        <RelatedArticles posts={relatedPosts} />
+        <ExpertTrustIcons background={relatedPosts.length > 0 ? 'page' : 'muted'} />
         <FinalCTA compact />
       </main>
       <Footer />

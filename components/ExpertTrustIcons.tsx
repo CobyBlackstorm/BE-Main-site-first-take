@@ -43,9 +43,15 @@ const trustItems = [
   },
 ]
 
-export default function ExpertTrustIcons() {
+type ExpertTrustIconsProps = {
+  background?: 'page' | 'muted'
+}
+
+export default function ExpertTrustIcons({ background = 'muted' }: ExpertTrustIconsProps) {
+  const backgroundClass = background === 'page' ? 'bg-page' : 'bg-muted'
+
   return (
-    <section className="bg-muted py-[40px] md:py-[60px]">
+    <section className={`${backgroundClass} py-[40px] md:py-[60px]`}>
       <div className="section-container max-w-container">
         <div className="grid grid-cols-2 gap-10 gap-y-12 md:grid-cols-4 md:gap-8">
           {trustItems.map((item, i) => (

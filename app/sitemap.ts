@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next'
+import { getAllBlogPosts } from '@/lib/blog'
 import { getAllSpecialtySlugs } from '@/lib/expertData'
 
 const BASE = 'https://blackstormexperts.com'
@@ -50,5 +51,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }))
 
-  return [...staticEntries, ...specialtyEntries]
+  const blogEntries: MetadataRoute.Sitemap = getAllBlogPosts().map((post) => ({
+    url: `${BASE}/blog/${post.slug}`,
+    lastModified: post.date ? new Date(post.date) : new Date(),
+    changeFrequency: 'monthly',
+    priority: 0.6,
+  }))
+
+  return [...staticEntries, ...specialtyEntries, ...blogEntries]
 }
