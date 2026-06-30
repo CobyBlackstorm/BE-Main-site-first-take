@@ -35,7 +35,11 @@ function parseBlogFile(filename: string): BlogPost {
       ? [String(data.specialty)]
       : []
 
-  const keywords = Array.isArray(data.keywords) ? data.keywords.map(String) : []
+  const keywords = Array.isArray(data.keywords)
+    ? data.keywords.map(String)
+    : typeof data.keywords === 'string'
+      ? data.keywords.split(',').map((k) => k.trim()).filter(Boolean)
+      : []
 
   return {
     slug,

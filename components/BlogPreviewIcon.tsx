@@ -51,11 +51,126 @@ function MedicalIcon({ size }: { size: number }) {
   )
 }
 
+function OrthopedicIcon({ size }: { size: number }) {
+  const props = getIconProps(size)
+  return (
+    <svg {...props}>
+      <circle cx="12" cy="5.5" r="2.5" />
+      <path d="M11.25 8v8.25" />
+      <path d="M12.75 8v8.25" />
+      <path d="M8.75 16.25c0 2.1 1.45 3.75 3.25 3.75s3.25-1.65 3.25-3.75" />
+      <path d="M9.25 16.25h5.5" />
+    </svg>
+  )
+}
+
+function CardiologyIcon({ size }: { size: number }) {
+  const props = getIconProps(size)
+  return (
+    <svg {...props}>
+      <path d="M12 20s-6-4.2-6-9.5a3.5 3.5 0 0 1 6-2.2A3.5 3.5 0 0 1 18 10.5C18 15.8 12 20 12 20z" />
+      <path d="M4 14h3l1.5-2 2 3 2-4 1.5 3H20" />
+    </svg>
+  )
+}
+
+function OncologyIcon({ size }: { size: number }) {
+  const props = getIconProps(size)
+  return (
+    <svg {...props}>
+      <circle cx="12" cy="12" r="6.5" />
+      <circle cx="9.5" cy="10.5" r="1.2" />
+      <circle cx="14.5" cy="11.5" r="1.2" />
+      <circle cx="11" cy="14.5" r="1.2" />
+      <circle cx="13.5" cy="14" r="0.9" />
+    </svg>
+  )
+}
+
+function RadiologyIcon({ size }: { size: number }) {
+  const props = getIconProps(size)
+  return (
+    <svg {...props}>
+      <rect x="5" y="4" width="14" height="16" rx="2" />
+      <circle cx="12" cy="11" r="3.5" />
+      <path d="M12 7.5v7" />
+      <path d="M8.5 11h7" />
+      <circle cx="14.5" cy="15.5" r="1.2" />
+    </svg>
+  )
+}
+
 function EngineeringIcon({ size }: { size: number }) {
   const props = getIconProps(size)
   return (
     <svg {...props}>
       <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z" />
+    </svg>
+  )
+}
+
+function CivilEngineeringIcon({ size }: { size: number }) {
+  const props = getIconProps(size)
+  return (
+    <svg {...props}>
+      <path d="M4 18h16" />
+      <path d="M4 18l8-9 8 9" />
+      <path d="M8 18v-3" />
+      <path d="M16 18v-3" />
+      <path d="M12 9v9" />
+    </svg>
+  )
+}
+
+function ElectricalIcon({ size }: { size: number }) {
+  const props = getIconProps(size)
+  return (
+    <svg {...props}>
+      <path d="M13 2 3 14h7l-1 8 10-12h-7l1-8z" />
+    </svg>
+  )
+}
+
+function WrongfulDeathIcon({ size }: { size: number }) {
+  const props = getIconProps(size)
+  return (
+    <svg {...props}>
+      <path d="M12 3v18" />
+      <path d="M5 7h14" />
+      <path d="M7 7l-2.5 7h5L7 7z" />
+      <path d="M17 7l-2.5 7h5L17 7z" />
+    </svg>
+  )
+}
+
+function BiomechanicsIcon({ size }: { size: number }) {
+  const props = getIconProps(size)
+  return (
+    <svg {...props}>
+      <path d="M3 12h5" />
+      <path d="M6.5 9.5 8.5 12 6.5 14.5" />
+      <circle cx="14.5" cy="7.5" r="2" />
+      <path d="M14.5 9.5v5.5" />
+      <path d="M12 11.5h5" />
+      <path d="M13 15l-1.75 4" />
+      <path d="M16 15l1.75 4" />
+    </svg>
+  )
+}
+
+function ProductLiabilityIcon({ size }: { size: number }) {
+  const props = getIconProps(size)
+  return (
+    <svg {...props}>
+      <circle cx="12" cy="12" r="3" />
+      <path d="M12 3v2.2" />
+      <path d="M12 18.8V21" />
+      <path d="M3 12h2.2" />
+      <path d="M18.8 12H21" />
+      <path d="M5.6 5.6l1.6 1.6" />
+      <path d="M16.8 16.8l1.6 1.6" />
+      <path d="M18.4 5.6l-1.6 1.6" />
+      <path d="M7.2 16.8l-1.6 1.6" />
     </svg>
   )
 }
@@ -113,29 +228,28 @@ function FireIcon({ size }: { size: number }) {
 
 const MEDICAL_SLUGS = new Set([
   'anesthesiology',
-  'cardiology',
   'emergency-medicine',
   'family-medicine',
   'internal-medicine',
   'neurology',
   'neurosurgery',
   'obstetrics-gynecology',
-  'oncology',
-  'orthopedic-surgery',
   'pathology',
   'pediatrics',
   'psychiatry',
-  'radiology',
   'surgery',
 ])
 
 const ENGINEERING_SLUGS = new Set([
-  'biomechanics',
-  'civil-engineering',
-  'electrical-engineering',
   'mechanical-engineering',
   'structural-engineering',
 ])
+
+const CIVIL_ENGINEERING_SLUGS = new Set(['civil-engineering'])
+
+const BIOMECHANICS_SLUGS = new Set(['biomechanics'])
+
+const ELECTRICAL_SLUGS = new Set(['electrical-engineering'])
 
 const VEHICLE_SLUGS = new Set(['accident-reconstruction', 'automotive', 'transportation'])
 
@@ -145,11 +259,32 @@ const LIFE_CARE_SLUGS = new Set(['life-care-planning'])
 
 const FIRE_SLUGS = new Set(['fire-investigation'])
 
+const WRONGFUL_DEATH_SLUGS = new Set(['wrongful-death'])
+
+const PRODUCT_LIABILITY_SLUGS = new Set(['products-liability-engineering'])
+
+const ORTHOPEDIC_SLUGS = new Set(['orthopedic-surgery'])
+
+const CARDIOLOGY_SLUGS = new Set(['cardiology'])
+
+const ONCOLOGY_SLUGS = new Set(['oncology'])
+
+const RADIOLOGY_SLUGS = new Set(['radiology'])
+
 function getIconForSpecialty(slug: string | undefined, size: number) {
   if (!slug) return <DocumentIcon size={size} />
+  if (PRODUCT_LIABILITY_SLUGS.has(slug)) return <ProductLiabilityIcon size={size} />
+  if (ORTHOPEDIC_SLUGS.has(slug)) return <OrthopedicIcon size={size} />
+  if (CARDIOLOGY_SLUGS.has(slug)) return <CardiologyIcon size={size} />
+  if (ONCOLOGY_SLUGS.has(slug)) return <OncologyIcon size={size} />
+  if (RADIOLOGY_SLUGS.has(slug)) return <RadiologyIcon size={size} />
+  if (WRONGFUL_DEATH_SLUGS.has(slug)) return <WrongfulDeathIcon size={size} />
   if (FIRE_SLUGS.has(slug)) return <FireIcon size={size} />
   if (LIFE_CARE_SLUGS.has(slug)) return <LifeCareIcon size={size} />
   if (FINANCIAL_SLUGS.has(slug)) return <AccountingIcon size={size} />
+  if (ELECTRICAL_SLUGS.has(slug)) return <ElectricalIcon size={size} />
+  if (CIVIL_ENGINEERING_SLUGS.has(slug)) return <CivilEngineeringIcon size={size} />
+  if (BIOMECHANICS_SLUGS.has(slug)) return <BiomechanicsIcon size={size} />
   if (VEHICLE_SLUGS.has(slug)) return <VehicleIcon size={size} />
   if (MEDICAL_SLUGS.has(slug)) return <MedicalIcon size={size} />
   if (ENGINEERING_SLUGS.has(slug)) return <EngineeringIcon size={size} />
