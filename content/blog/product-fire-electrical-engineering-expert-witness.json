@@ -1,0 +1,101 @@
+{
+  "slug": "product-fire-electrical-engineering-expert-witness",
+  "title": "When a Product Catches Fire: The Role of an Electrical Engineering Expert Witness",
+  "date": "2026-07-02",
+  "description": "In product liability cases involving electrical failure, fire, or shock, an electrical engineering expert witness identifies the cause and assigns responsibility. Here's what they do and when a case needs one.",
+  "keywords": [
+    "electrical engineering expert witness product liability",
+    "product fire expert witness",
+    "electrical failure expert witness",
+    "electrocution expert witness",
+    "electrical fire origin expert",
+    "defective electrical product expert witness",
+    "electrical shock expert witness",
+    "product liability electrical fire",
+    "forensic electrical engineer",
+    "electrical failure analysis expert"
+  ],
+  "specialties": [
+    "electrical-engineering",
+    "products-liability-engineering",
+    "fire-investigation"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A space heater ignites overnight. A phone charger overheats and burns a hand. A piece of industrial equipment shocks the worker operating it. When a product fails electrically and someone gets hurt, the case almost always comes down to a single, technical question: what actually went wrong, and whose fault was it? Answering that question is the job of an electrical engineering expert witness, and in product liability litigation, the answer usually decides the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "Liability in these matters is rarely obvious. A burned-out device is often destroyed by the very event in dispute, leaving a charred shell and a lot of competing theories. Was it a design defect? A manufacturing flaw? Misuse by the consumer? A failure in the building's wiring rather than the product itself? Attorneys can't answer that from the photos. An electrical engineer can, and can explain it to a jury in language they'll follow."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What an electrical engineering expert witness actually does"
+    },
+    {
+      "type": "paragraph",
+      "text": "The core work is failure analysis: reconstructing how and why an electrical product or system failed. That breaks into a few distinct tasks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Determining the cause of failure. Using the physical evidence, schematics, and testing, the expert traces the failure to its origin. Did a component overheat because it was underspecified for the load? Did insulation break down? Did a solder joint fail? The goal is to move from \"it burned\" to \"it burned because of this specific defect.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Distinguishing defect from misuse. This is where cases are won and lost. The defense will argue the consumer overloaded the outlet, used the wrong adapter, or ignored a warning. The plaintiff will argue the product was unsafe as designed. An electrical engineer evaluates whether the failure is consistent with a genuine defect or with foreseeable, or unforeseeable, user behavior."
+    },
+    {
+      "type": "paragraph",
+      "text": "Design and standards review. Electrical products are governed by codes and standards such as the National Electrical Code, UL listings, and IEEE standards. An expert assesses whether the product met the applicable standards, and whether meeting them, or failing to, contributed to the injury."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fire origin and cause in electrical fires. Many product liability cases are also fire cases. When a fire is suspected to have an electrical origin, an electrical engineer works to confirm or rule out the electrical system as the ignition source, often alongside a fire investigator."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shock and electrocution analysis. In injury cases involving electric shock, the expert evaluates whether proper grounding, insulation, and protective devices were present and functioning, and whether their absence caused the injury."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why these cases fail without the right expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Electrical failure cases are unusually hostile to non-experts. The evidence is technical, often partially destroyed, and easy to misread. An attorney who tries to argue causation from a burn pattern and a product manual is walking into a cross-examination they can't win, because the other side will have an engineer and they won't."
+    },
+    {
+      "type": "paragraph",
+      "text": "The credibility gap is the whole issue. A qualified electrical engineering expert witness produces conclusions grounded in testing, accepted engineering principles, and the relevant standards, and can defend each one on the stand. That's what turns a theory about what happened into an opinion a court will accept. Just as important, the expert can dismantle the opposing theory. A strong defense electrical engineer can show that a claimed \"defect\" is actually ordinary wear, improper installation, or user modification, which can collapse a plaintiff's case entirely."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When a case needs an electrical engineering expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every electrical mishap justifies an expert, but the threshold is lower than many attorneys assume. The cases that call for one share common features: a serious injury or significant property damage, a product whose failure mode is disputed, a fire with a possible electrical origin, an electrocution or shock injury, or any matter where causation will be contested by the other side. If the opposing party is likely to retain an engineer, you need one too, and ideally earlier than they do."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early involvement matters more here than in most case types, for one concrete reason: evidence preservation. The failed product, the scene, and the surrounding electrical system degrade, get repaired, or get discarded fast. An expert brought in early can direct proper preservation and inspection of the evidence before it's lost, which is often the difference between a provable case and a dead one."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The bottom line"
+    },
+    {
+      "type": "paragraph",
+      "text": "In a product liability case built on electrical failure, the injury is visible but the cause is not. An electrical engineering expert witness supplies the missing link, connecting the defect to the harm with analysis a jury can trust and cross-examination can't easily break. Retain the right engineer, bring them in before the evidence disappears, and the hardest part of the case becomes its strongest."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're handling a product liability or fire case that turns on electrical failure, Blackstorm Experts can connect you with a vetted electrical engineering expert witness in 48 to 72 hours, on either side of the case."
+    }
+  ]
+}

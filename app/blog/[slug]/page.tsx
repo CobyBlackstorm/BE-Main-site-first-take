@@ -4,8 +4,10 @@ import type { Metadata } from 'next'
 import Nav from '@/components/Nav'
 import Footer from '@/components/Footer'
 import BlogMarkdown from '@/components/BlogMarkdown'
+import BlogRichText from '@/components/BlogRichText'
 import BlogTagPills from '@/components/BlogTagPills'
-import { getAllBlogSlugs, getBlogPostBySlug } from '@/lib/blog'
+import RelatedArticles from '@/components/RelatedArticles'
+import { getAllBlogSlugs, getBlogPostBySlug, getRelatedBlogPosts } from '@/lib/blog'
 
 type Props = {
   params: { slug: string }
@@ -42,6 +44,8 @@ export default function BlogPostPage({ params }: Props) {
     notFound()
   }
 
+  const relatedPosts = getRelatedBlogPosts(params.slug)
+
   return (
     <>
       <Nav />
@@ -67,7 +71,11 @@ export default function BlogPostPage({ params }: Props) {
                 </h1>
               </header>
 
-              <BlogMarkdown content={post.content} />
+              {post.blocks && post.blocks.length > 0 ? (
+                <BlogRichText blocks={post.blocks} />
+              ) : (
+                <BlogMarkdown content={post.content} />
+              )}
 
               {post.specialties.length > 0 ? (
                 <footer className="mt-12 border-t border-divider pt-8">
@@ -78,6 +86,7 @@ export default function BlogPostPage({ params }: Props) {
             </div>
           </div>
         </article>
+        <RelatedArticles posts={relatedPosts} title="Related Blogs" />
       </main>
       <Footer />
     </>
