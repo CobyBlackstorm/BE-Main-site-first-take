@@ -1,0 +1,132 @@
+{
+  "slug": "life-care-plan-calculation-future-medical-costs",
+  "title": "Life Care Plan Calculation: How Future Medical Costs Are Actually Projected",
+  "date": "2026-07-20",
+  "description": "A life care plan is a line-item projection of future medical costs. Here's how unit cost, frequency, duration, life expectancy, and present value actually build the number.",
+  "keywords": [
+    "life care plan calculation",
+    "future medical cost projection",
+    "life care plan methodology",
+    "life expectancy life care plan",
+    "present value life care plan",
+    "life care plan unit cost",
+    "IALCP standards life care planning",
+    "forensic economist life care plan",
+    "catastrophic injury future costs",
+    "life care plan cost research"
+  ],
+  "specialties": [
+    "life-care-planning",
+    "forensic-economics",
+    "personal-injury"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Attorneys receive life care plans with a total at the bottom and often no clear sense of how that number was built. Understanding the methodology matters, because every input in the calculation is a place where the plan can be attacked or defended."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The structure underneath the number"
+    },
+    {
+      "type": "paragraph",
+      "text": "A life care plan is not an estimate. It is a line-item projection, and each line has four components: the item or service, its unit cost, its frequency, and its duration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Multiply frequency by duration by unit cost across every line, and you have the plan. The total is only as sound as those inputs."
+    },
+    {
+      "type": "paragraph",
+      "text": "The item. Each service, medication, piece of equipment, or accommodation included in the plan should trace to a recommendation in the medical record. Life care planners are not physicians and do not prescribe. Their role is to translate physician recommendations into a costed projection."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unit cost. What the item costs in the plaintiff's geographic market. Sources include published fee databases, direct vendor quotes, regional survey data, and the plaintiff's own historical charges. Which source was used, and whether it reflects the right market, is a standard point of dispute."
+    },
+    {
+      "type": "paragraph",
+      "text": "Frequency. How often the service occurs or the equipment is replaced. Therapy sessions per week, physician visits per year, wheelchair replacement every five years. Frequency assumptions should be supported by clinical recommendation or manufacturer specification, not planner judgment alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration. How many years the item continues. Usually life expectancy, though some items run for a defined period."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Life expectancy drives everything"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because duration multiplies every recurring cost, the life expectancy figure has more leverage on the total than any other single input."
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard actuarial tables give population averages. Many catastrophic injuries reduce life expectancy, and some plans adjust downward using published disability-specific data, particularly for spinal cord injury and traumatic brain injury."
+    },
+    {
+      "type": "paragraph",
+      "text": "The adjustment is contested territory. Plaintiff-side planners often argue that improvements in care mean historical disability mortality data understates current expectancy. Defense experts often argue the opposite. In larger cases, a separate life expectancy expert may be retained specifically for this question rather than leaving it to the life care planner."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Present value is a separate calculation"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the point attorneys most often miss. A life care plan produces future costs in future dollars. Converting that stream to a present value requires economic analysis: a discount rate, a medical inflation rate, and a schedule of when each cost occurs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Life care planners generally do not perform this calculation. A forensic economist does. If your plan total is presented without present value analysis, it is not yet in a form a jury should see as a damages figure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relationship between medical cost inflation and the discount rate matters enormously over a forty-year horizon. Medical inflation has historically outpaced general inflation, and whether the economist accounts for that separately is a live methodological question."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Standards and methodology"
+    },
+    {
+      "type": "paragraph",
+      "text": "Life care planning has published standards of practice through the International Academy of Life Care Planners. The consensus methodology emphasizes that recommendations must be supported by the medical record, that costs must be researched and documented rather than estimated, and that the planner should conduct a clinical interview and, where possible, a home assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask any planner whether they followed those standards, whether they interviewed the plaintiff, whether they conducted a home evaluation, and whether they consulted the treating providers. A plan built entirely from records review is weaker than one grounded in direct assessment, and opposing counsel will develop that on cross."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where calculations break down"
+    },
+    {
+      "type": "paragraph",
+      "text": "Costs sourced from national averages rather than the plaintiff's market. Replacement intervals shorter than manufacturer specification supports. Items included without physician recommendation. Duplication between categories, such as facility placement billed alongside in-home services that placement would replace. Failure to account for services the plaintiff would have required regardless of the injury. Growth or development assumptions in pediatric plans that do not account for changing needs over time."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to ask for"
+    },
+    {
+      "type": "paragraph",
+      "text": "Request the planner's cost research documentation, not just the summary. A defensible plan can show, line by line, where every number came from. If that backup does not exist, the plan will not survive a competent rebuttal."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Finding the right expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Blackstorm Experts sources vetted life care planners and forensic economists for plaintiff and defense counsel, typically within 48 to 72 hours."
+    }
+  ]
+}

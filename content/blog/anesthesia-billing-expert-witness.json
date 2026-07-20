@@ -1,0 +1,107 @@
+{
+  "slug": "anesthesia-billing-expert-witness",
+  "title": "Anesthesia Billing Expert Witness: When Charges Become a Separate Fight",
+  "date": "2026-07-20",
+  "description": "Anesthesia billing runs on a unit-based formula that can be contested at every input. Here's what an anesthesia billing expert witness proves and when personal injury cases need one.",
+  "keywords": [
+    "anesthesia billing expert witness",
+    "anesthesia coding expert witness",
+    "ASA Relative Value Guide expert",
+    "CANPC expert witness",
+    "medical direction billing expert",
+    "anesthesia time units expert",
+    "conversion factor reasonableness",
+    "letter of protection anesthesia billing",
+    "personal injury anesthesia charges",
+    "CRNA medical direction billing"
+  ],
+  "specialties": [
+    "anesthesiology",
+    "personal-injury",
+    "orthopedic-surgery"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Anesthesia is billed differently from every other medical service, and that difference is where disputes start. Rather than a flat charge per procedure, anesthesia billing runs on a unit-based formula: base units assigned to the procedure, plus time units, plus modifying units, multiplied by a conversion factor. Each of those inputs can be wrong, and each is contestable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What the expert testifies to"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether the units are correct. Base units come from the ASA Relative Value Guide and are fixed by procedure. Time units depend on documented start and stop times. Modifying units apply for patient physical status and qualifying circumstances. An expert verifies each against the record."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether the time is supported. Anesthesia time runs from when the provider begins preparing the patient to when they are no longer in personal attendance. Billed time that exceeds documented time, overlaps with another case by the same provider, or rounds aggressively is the most common problem in anesthesia billing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether the conversion factor is reasonable. This is the dollar multiplier, and it varies widely between commercial rates, negotiated rates, and self-pay retail rates. A conversion factor several times the regional norm is where reasonableness fights happen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether supervision was properly billed. Anesthesiologists frequently supervise CRNAs across multiple rooms. Medical direction requires the physician to perform specific documented steps and limits how many concurrent cases can be billed at the higher rate. Billing medical direction while supervising too many rooms, or without documenting the required steps, inflates the charge."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why this comes up in personal injury"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most anesthesia billing disputes in litigation involve surgery treated under a letter of protection, where charges are billed at full retail with no negotiated adjustment. Defense counsel challenges those amounts as exceeding reasonable value; plaintiff counsel defends them as the charged rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The billed-versus-paid distinction and how your jurisdiction handles the collateral source rule will determine how much of this analysis matters. In some states the paid amount controls and the fight is narrow. In others the charged amount is admissible and the reasonableness dispute is the whole case on specials."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Common problems experts find"
+    },
+    {
+      "type": "paragraph",
+      "text": "Time units billed beyond the documented anesthesia record. Concurrent cases where the same provider's time overlaps. Physical status modifiers applied without supporting documentation of the patient's condition. Qualifying circumstances units billed routinely rather than when actually indicated. Separate billing for services included in the base unit value, such as routine monitoring."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Credentials that matter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Certified Professional Coder (CPC) through AAPC is baseline. For anesthesia specifically, the CANPC (Certified Anesthesia and Pain Management Coder) credential signals real subspecialty depth, and it is the one worth asking about. CPMA certification adds auditing credibility."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask directly about anesthesia volume. Anesthesia is unusual enough that general coding experience does not transfer. Someone who audits surgical and E/M coding may have limited exposure to unit-based methodology, medical direction rules, or the ASA guide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask about their conversion factor data sources. If they cannot explain where their benchmark rates come from and how the sample was constructed, that opinion will not hold up."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When to bring one in"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before your damages presentation is final if you are plaintiff-side, so you know whether the bills are defensible. Early in discovery if you are defense-side, so you can target document requests at the anesthesia record, provider schedules, and concurrent case logs."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Finding the right expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Anesthesia billing experts with testimony history are a narrow pool. Blackstorm Experts sources vetted medical billing and coding experts for plaintiff and defense counsel, typically within 48 to 72 hours."
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "pharmacology-expert-witness",
+  "title": "Pharmacology Expert Witness: When to Hire One and What to Look For",
+  "date": "2026-07-20",
+  "description": "Pharmacology cases turn on drug mechanism, interactions, dosing, and labeling. Here's when to hire a pharmacology expert witness and how to match credentials to the case type.",
+  "keywords": [
+    "pharmacology expert witness",
+    "pharmacokinetics expert witness",
+    "drug interaction expert witness",
+    "pharmacist standard of care expert",
+    "pharmaceutical product liability expert",
+    "forensic toxicology expert witness",
+    "medication error expert witness",
+    "ABFT toxicology expert",
+    "CYP450 drug interaction expert",
+    "package insert failure to warn"
+  ],
+  "specialties": [
+    "pharmacology",
+    "toxicology",
+    "medical-malpractice"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pharmacology cases turn on what a drug does in the body, what it does in combination with other drugs, and whether the people responsible for prescribing, dispensing, or labeling it met their obligations. That covers three distinct fact patterns, and they do not all call for the same expert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The three case types"
+    },
+    {
+      "type": "paragraph",
+      "text": "Medication error and standard of care. Wrong drug, wrong dose, wrong route, wrong patient, or a dangerous interaction that should have been caught. The defendant is a prescriber, a pharmacist, or a facility. The question is whether the error occurred and whether it caused the harm."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pharmaceutical product liability. The drug performed as designed but the design or the warning was inadequate. Failure to warn, design defect, and inadequate post-market surveillance. The defendant is the manufacturer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Toxicology and causation. Whether a substance was present at a level capable of causing the claimed effect. Impairment, overdose, poisoning, and drug-facilitated assault. This is often a forensic toxicologist rather than a pharmacologist, and confusing the two costs time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Identify which one you have before you start searching. The credentials diverge."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What a pharmacology expert testifies to"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pharmacokinetics. Absorption, distribution, metabolism, and elimination. How much drug reached the target, how long it stayed, and what the concentration was at the relevant time. Back-extrapolation from a post-incident blood level to the level at the time of an event is standard pharmacokinetic work and a common source of dispute."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pharmacodynamics. What the drug does at that concentration. Whether a level was therapeutic, subtherapeutic, or toxic, and what effects would be expected."
+    },
+    {
+      "type": "paragraph",
+      "text": "Drug interactions. Whether combined medications produced an effect neither would alone. CYP450 enzyme interactions are the usual mechanism and a frequent basis for prescriber and pharmacist liability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dosing appropriateness. Whether the dose was correct for the patient's weight, age, renal and hepatic function, and concurrent medications. Renal dosing errors in elderly patients are a recurring pattern."
+    },
+    {
+      "type": "paragraph",
+      "text": "Labeling and warnings. Whether the package insert adequately communicated known risks, when the manufacturer knew of a risk, and whether labeling was updated appropriately."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pharmacist standard of care is its own question"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the claim is against a pharmacy, you generally need a pharmacist expert rather than a PhD pharmacologist. The issues are duty to counsel, duty to detect and resolve interactions flagged by dispensing software, verification procedures, and whether the pharmacy's workflow and staffing made accurate dispensing possible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pharmacy-specific claims also frequently involve automated dispensing systems and whether alert overrides were appropriate. Alert fatigue is a live defense and requires an expert who understands how those systems function in practice."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Credentials that matter"
+    },
+    {
+      "type": "paragraph",
+      "text": "For pharmacokinetics and drug mechanism testimony, a PhD in pharmacology or clinical pharmacology, often with academic appointment and publication history."
+    },
+    {
+      "type": "paragraph",
+      "text": "For pharmacist standard of care, a PharmD with active practice in the relevant setting, retail versus hospital versus long-term care, since the standards differ meaningfully."
+    },
+    {
+      "type": "paragraph",
+      "text": "For prescribing standard of care, a physician in the same specialty as the defendant, not a pharmacologist. This trips up cases regularly. A pharmacologist can explain what the drug does; only a same-specialty physician can testify to what a reasonable prescriber should have done."
+    },
+    {
+      "type": "paragraph",
+      "text": "For toxicology and impairment, board certification through ABFT (American Board of Forensic Toxicology) or DABT for general toxicology."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where these opinions get challenged"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pharmacology testimony draws Daubert scrutiny most often on causation. Extrapolating from animal data or in vitro studies to human effect, back-extrapolating concentrations across long intervals, and asserting general causation for an association that the literature does not support are all common grounds for exclusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask candidates directly whether any opinion has been excluded and on what basis. In product liability especially, the general causation fight is often dispositive, and you want someone who has already been through it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When to bring one in"
+    },
+    {
+      "type": "paragraph",
+      "text": "Early, because pharmacology cases depend on records that require targeted requests: complete medication administration records, pharmacy dispensing logs and override records, laboratory values including renal and hepatic function, and in product cases the manufacturer's adverse event reporting and internal safety data."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Finding the right expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Blackstorm Experts sources vetted pharmacology, pharmacy, and toxicology experts for plaintiff and defense counsel, typically within 48 to 72 hours."
+    }
+  ]
+}

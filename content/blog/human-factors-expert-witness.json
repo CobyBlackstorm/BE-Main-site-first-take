@@ -1,0 +1,135 @@
+{
+  "slug": "human-factors-expert-witness",
+  "title": "Human Factors Expert Witness: When to Hire One and What to Look For",
+  "date": "2026-07-20",
+  "description": "When a case turns on whether someone should have seen a hazard, understood a warning, or reacted in time, that is a human factors question. Here's when to hire one and what to look for.",
+  "keywords": [
+    "human factors expert witness",
+    "perception reaction time expert",
+    "warning adequacy expert witness",
+    "conspicuity expert witness",
+    "slip trip fall human factors",
+    "product warning human factors expert",
+    "accident reconstruction vs human factors",
+    "CHFP CPE expert witness",
+    "expectancy human factors litigation",
+    "driver perception response time expert"
+  ],
+  "specialties": [
+    "human-factors",
+    "accident-reconstruction",
+    "products-liability-engineering"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Human factors is the discipline that explains why a person did what they did. Not their character, not their attentiveness on that particular day, but how a reasonable person perceives, decides, and acts under the conditions that actually existed. When a case turns on whether someone should have seen a hazard, understood a warning, or reacted in time, that is a human factors question."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys often reach for an engineer or an accident reconstructionist and get a partial answer. Reconstruction tells you what happened physically. Human factors tells you whether the person could reasonably have avoided it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What a human factors expert testifies to"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perception and conspicuity. Whether a hazard was detectable given lighting, contrast, viewing angle, speed, and visual clutter. A dark obstacle on a dark surface at night is not merely harder to see, it is measurably outside the range of reliable detection, and that can be quantified."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reaction time. How long a person needs to perceive a hazard, decide, and act. Perception-response time under real conditions is well studied, and the difference between 0.75 seconds and 1.5 seconds often decides whether an accident was avoidable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Warnings and instructions. Whether a warning was adequate in placement, wording, salience, and comprehensibility for the intended user. A warning buried in a manual, printed in low contrast, or written above the reading level of the user population may be legally insufficient even though it technically exists."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expectancy. People act on what they expect to encounter. A step where none is anticipated, a door that opens the wrong way, or a control that operates opposite to convention creates predictable errors regardless of how careful the user is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Task and workload analysis. Whether a worker or operator was assigned a task that exceeded reasonable cognitive or physical capacity given time pressure, competing demands, or environmental conditions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where these cases come up"
+    },
+    {
+      "type": "paragraph",
+      "text": "Premises liability. Slip, trip, and fall cases where the question is whether a hazard was reasonably detectable. Stair geometry, transition strips, floor contrast, and lighting all fall here."
+    },
+    {
+      "type": "paragraph",
+      "text": "Motor vehicle and trucking. Whether a driver could have perceived and avoided a hazard, whether signage was adequate, and whether roadway design created predictable errors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Product liability. Warning adequacy, foreseeable misuse, and whether a design invited error. Human factors testimony is often paired with engineering testimony in these cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "Workplace and industrial. Whether procedures, training, or equipment design set a worker up to fail."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical device and healthcare. Use-error analysis, alarm fatigue, and interface design in clinical settings."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How human factors differs from accident reconstruction"
+    },
+    {
+      "type": "paragraph",
+      "text": "This distinction matters when you are staffing a case. An accident reconstructionist calculates speeds, forces, positions, and timing. A human factors expert takes that reconstruction and evaluates whether the human in it behaved as a reasonable person would under those conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "In many cases you want both, and they should coordinate. The reconstruction establishes that the driver had 2.1 seconds to react. The human factors expert explains whether 2.1 seconds was enough given what was visible, expected, and demanded of the driver."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some experts do both. Verify that claim carefully. Dual competence exists but is less common than resumes suggest."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Credentials that matter"
+    },
+    {
+      "type": "paragraph",
+      "text": "A PhD in human factors, experimental psychology, cognitive psychology, or industrial engineering with a human factors focus is the typical foundation. Certification as a Certified Human Factors Professional (CHFP) or Certified Professional Ergonomist (CPE) through BCPE adds weight."
+    },
+    {
+      "type": "paragraph",
+      "text": "More important than the credential is whether their research and applied background matches your case. A human factors expert whose career is in aviation cockpit design is not automatically the right person for a stairway fall. Ask what they have published, what populations they have studied, and how many cases of your type they have worked."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask about Daubert history specifically. Human factors testimony draws challenges when it drifts toward common sense conclusions a jury could reach without an expert. The strongest experts ground their opinions in published research and measurable thresholds rather than general assertions about what people notice."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When to bring one in"
+    },
+    {
+      "type": "paragraph",
+      "text": "Early enough to influence discovery. Human factors opinions often depend on site conditions, lighting measurements, and photographs taken from the actual eye height and viewing angle of the person involved. Those measurements are far more persuasive when taken before the scene changes and under conditions matching the incident."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Finding the right expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Human factors is a smaller discipline than the number of listings suggests, and subspecialty fit matters more than in most fields. Blackstorm Experts sources vetted human factors experts for plaintiff and defense counsel, typically within 48 to 72 hours."
+    }
+  ]
+}

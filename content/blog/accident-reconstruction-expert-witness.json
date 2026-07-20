@@ -1,0 +1,148 @@
+{
+  "slug": "accident-reconstruction-expert-witness",
+  "title": "Accident Reconstruction Expert Witness: When to Hire One and What to Look For",
+  "date": "2026-07-20",
+  "description": "Accident reconstruction answers the physical questions in a collision case: speed, impact geometry, and avoidability. Here's when to hire one and what credentials matter.",
+  "keywords": [
+    "accident reconstruction expert witness",
+    "ACTAR expert witness",
+    "event data recorder expert",
+    "EDR download expert witness",
+    "collision reconstruction expert",
+    "trucking accident reconstruction",
+    "pedestrian bicycle reconstruction expert",
+    "low speed impact reconstruction",
+    "PC-Crash HVE expert witness",
+    "speed determination expert witness"
+  ],
+  "specialties": [
+    "accident-reconstruction",
+    "human-factors",
+    "biomechanics"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Accident reconstruction answers the physical questions in a collision case. How fast was each vehicle traveling? Where did impact occur? Who had time to stop? Did the physical evidence match the driver's account or contradict it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "These are questions a jury cannot resolve from photographs and testimony alone, and they are frequently the questions the case turns on."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What a reconstructionist actually does"
+    },
+    {
+      "type": "paragraph",
+      "text": "Speed determination. Calculated from crush damage, skid and yaw marks, post-impact travel distance, and momentum analysis. Modern work increasingly draws on event data recorder downloads, which can provide pre-impact speed, braking, throttle position, and steering input in the seconds before a crash."
+    },
+    {
+      "type": "paragraph",
+      "text": "Impact geometry. Where the vehicles were positioned at contact, the angle of impact, and the sequence of events in a multi-vehicle collision. This often determines lane position and who crossed into whom."
+    },
+    {
+      "type": "paragraph",
+      "text": "Avoidability. Whether a driver had the time and distance to perceive a hazard and stop or steer clear. This is where reconstruction hands off to human factors analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Occupant kinematics. How occupants moved during the collision, which informs whether an injury pattern is consistent with the described mechanism. This overlaps with biomechanics."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Event data recorders changed this field"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most vehicles built in the last fifteen years store crash data. Imaging that data requires specific hardware and training, and the download must be done correctly to be admissible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Two practical points. First, EDR data can be lost when a vehicle is repaired, salvaged, or has its battery disconnected. Preserve the vehicle and image the module early. Second, ask any candidate whether they are trained and equipped to perform the download themselves, or whether they rely on someone else. Both arrangements work, but you need to know which you are getting and who will testify to the data's integrity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Commercial vehicles add another layer. Engine control modules, electronic logging devices, telematics, and dash cameras all generate data with their own preservation timelines and spoliation exposure."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Case types and the expertise each requires"
+    },
+    {
+      "type": "paragraph",
+      "text": "Passenger vehicle collisions. The core discipline. Speed, impact, avoidability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trucking. Adds vehicle dynamics specific to heavy vehicles, braking distances under load, trailer behavior, and FMCSA regulatory context. A reconstructionist without commercial vehicle experience will struggle here."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pedestrian and bicycle. Throw distance analysis, pedestrian conspicuity, and different injury mechanics. Frequently paired with human factors testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "Motorcycle. Distinct dynamics, different evidence patterns, and specialized knowledge of rider behavior and braking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Low-speed impact. Contested cases where the defense argues the forces were too low to cause the claimed injury. This is as much biomechanics as reconstruction, and you often need both."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask candidates which of these they work regularly. The field looks more interchangeable than it is."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Credentials that matter"
+    },
+    {
+      "type": "paragraph",
+      "text": "ACTAR accreditation (Accreditation Commission for Traffic Accident Reconstruction) is the recognized independent credential and a reasonable baseline. Many strong reconstructionists come from law enforcement backgrounds with extensive training and casework, and some hold engineering degrees or PE licensure. Engineering credentials carry additional weight when the case involves vehicle design or component failure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask about software. HVE, PC-Crash, and similar simulation tools are common, and opposing counsel will ask how inputs were selected and validated. An expert who cannot explain their assumptions independent of the software output is vulnerable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask about Daubert history. Reconstruction opinions draw challenges most often when the physical evidence is thin and the expert has extrapolated aggressively."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preserve evidence immediately"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vehicles get repaired or salvaged. Roadway evidence washes away within days. Skid marks fade. Surveillance footage from nearby businesses is typically overwritten in one to four weeks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Retain the reconstructionist early enough to direct a scene inspection, request vehicle preservation, and identify third-party video before it is gone. Much of the strongest reconstruction evidence has a short shelf life, and no expert can recover it later."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When to bring one in"
+    },
+    {
+      "type": "paragraph",
+      "text": "Immediately in any case with disputed liability, significant damages, or a fatality. Reconstruction is one of the few expert disciplines where waiting actively destroys the evidence base."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Finding the right expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Blackstorm Experts sources vetted accident reconstruction experts for plaintiff and defense counsel, typically within 48 to 72 hours."
+    }
+  ]
+}
