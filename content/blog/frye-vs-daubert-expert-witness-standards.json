@@ -1,0 +1,148 @@
+{
+  "slug": "frye-vs-daubert-expert-witness-standards",
+  "title": "Frye vs. Daubert: What the Split Means When You're Choosing an Expert",
+  "date": "2026-07-21",
+  "description": "Frye asks about general acceptance, Daubert asks about reliability. Here's how the standard in your venue changes which expert you should retain.",
+  "keywords": [
+    "Frye vs Daubert",
+    "Daubert Rule 702 expert witness",
+    "Frye general acceptance standard",
+    "expert witness reliability",
+    "novel methodology Daubert Frye",
+    "experience-based expert testimony",
+    "multi-jurisdiction expert standards",
+    "expert witness screening Daubert",
+    "state evidence rules expert witness",
+    "choosing expert witness by venue"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "fire-investigation"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Most states follow Daubert. A minority still apply Frye or a state-specific variant, and a few have their own frameworks that resemble neither cleanly. Federal courts apply Rule 702."
+    },
+    {
+      "type": "paragraph",
+      "text": "The doctrinal difference is well covered elsewhere. What matters practically is how the standard in your venue changes which expert you should retain and what you should screen for."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Short Version of the Difference"
+    },
+    {
+      "type": "paragraph",
+      "text": "Frye asks whether the methodology has gained general acceptance in the relevant scientific community. The inquiry is about consensus, and the judge is essentially asking what the field thinks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daubert and Rule 702 ask whether the testimony rests on reliable principles and methods reliably applied to the facts. General acceptance is one consideration among several, alongside testability, peer review, and known error rates. The judge evaluates reliability directly rather than deferring to the field."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is real overlap. An expert using well-established methodology is fine either way. The differences surface at the edges."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where the Standard Actually Changes Your Choice"
+    },
+    {
+      "type": "paragraph",
+      "text": "Novel or emerging methodology. This is the sharpest split. A technique that is scientifically sound but new enough that the field has not converged on it faces a harder path under Frye, where the question is acceptance, than under Daubert, where the question is reliability. In a Frye jurisdiction, prefer the expert using the established method even if a newer one is arguably better."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experience-based testimony. Many disciplines rely on trained judgment rather than formal published methodology. Rule 702 accommodates experience-based expertise, but the expert still has to explain how experience produces the conclusion. Under Frye, the general-acceptance framing fits awkwardly with experience-based fields. In either case, an expert who can articulate their process does better than one who says they just know."
+    },
+    {
+      "type": "paragraph",
+      "text": "Application to the facts. Rule 702's requirement that the method be reliably applied gives opposing counsel a line of attack even when the methodology itself is unimpeachable. In Daubert jurisdictions, an expert's care in documenting how they applied their method matters as much as the method."
+    },
+    {
+      "type": "paragraph",
+      "text": "Which challenges get filed. In Daubert jurisdictions, expect a challenge as a matter of course in significant cases. Screening the expert's prior exclusion history matters more there."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to Screen for Regardless"
+    },
+    {
+      "type": "paragraph",
+      "text": "The venue changes emphasis, not the fundamentals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the methodology published, standardized, or generally accepted in the field? Strong under both standards."
+    },
+    {
+      "type": "paragraph",
+      "text": "Has the expert used this method outside litigation? Methodology developed for a case is vulnerable everywhere."
+    },
+    {
+      "type": "paragraph",
+      "text": "Does the expert's qualification match the specific opinion? Fit is a problem under any framework."
+    },
+    {
+      "type": "paragraph",
+      "text": "Has the expert been excluded before, and on what basis? Always worth knowing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Can they explain their process clearly to a non-specialist? A judge evaluating either standard has to understand it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Multi-Jurisdiction Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cases that could be filed or removed to different venues create a practical wrinkle. An expert whose methodology is comfortable under one standard may be exposed under another."
+    },
+    {
+      "type": "paragraph",
+      "text": "When venue is genuinely uncertain, the conservative choice is an expert whose methodology holds up under the stricter reading, which usually means established, published, widely used methods and an expert who has applied them professionally outside of litigation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A Note on Verifying the Standard"
+    },
+    {
+      "type": "paragraph",
+      "text": "State standards change. Legislatures amend evidence rules and courts adopt or reject federal approaches, sometimes reversing course. Any list of Frye and Daubert states published more than a year or two ago should be treated as a starting point rather than an answer. Confirm the current standard in your venue directly."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What This Means at Retention"
+    },
+    {
+      "type": "paragraph",
+      "text": "The standard tells you how much weight to put on general acceptance versus demonstrated reliability, but the screening work is largely the same. Established methodology, professional use outside litigation, clean fit between qualification and opinion, and a testimony record without exclusions is the profile that survives either framework."
+    },
+    {
+      "type": "paragraph",
+      "text": "Confirming those things before an attorney evaluates a candidate is what a sourcing service does. That is the gap Blackstorm Experts fills: describe the case, the venue, and the opinion you need supported, and we return two to three vetted candidates with CVs, fee schedules, and testimony history, typically within 48 to 72 hours."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "paragraph",
+      "text": "Frye asks about acceptance in the field, Daubert asks about reliability directly. The gap matters most for novel methodology and for experience-based testimony. Screen for established methods, professional use outside litigation, and clean fit regardless of venue, and confirm your jurisdiction's current standard rather than relying on a published list."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a case that needs a vetted expert, start a search with Blackstorm Experts and we will get you matched candidates fast."
+    }
+  ]
+}

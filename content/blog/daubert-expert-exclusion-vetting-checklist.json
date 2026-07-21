@@ -1,0 +1,191 @@
+{
+  "slug": "daubert-expert-exclusion-vetting-checklist",
+  "title": "What Gets an Expert Excluded Under Daubert: A Vetting Checklist for Attorneys",
+  "date": "2026-07-21",
+  "description": "Most Daubert exclusions are visible before retention. Here's a practical vetting checklist covering methodology, fit, and the expert's own record.",
+  "keywords": [
+    "Daubert expert exclusion",
+    "Daubert vetting checklist",
+    "expert witness Rule 702",
+    "expert witness methodology challenge",
+    "expert witness fit Daubert",
+    "prior Daubert exclusion expert",
+    "expert witness testimony ratio",
+    "vetting expert witnesses",
+    "expert witness retention checklist",
+    "Daubert challenge prevention"
+  ],
+  "specialties": [
+    "fire-investigation",
+    "accident-reconstruction",
+    "premises-liability-security"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Most articles about Daubert explain the standard. This one assumes you already know it and addresses the practical question underneath: how do you tell, before you retain someone, whether they will survive a challenge?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Exclusion rarely comes as a surprise to anyone who screened the expert carefully. The vulnerabilities are visible in a CV, a prior transcript, and a twenty-minute phone call. Attorneys who get burned usually skipped one of the three."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Methodology Is Where Most Experts Lose"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rule 702 asks whether the testimony rests on reliable principles and methods, reliably applied. In practice, challenges cluster around a handful of recurring problems."
+    },
+    {
+      "type": "paragraph",
+      "text": "No identifiable methodology at all. The expert reaches a conclusion grounded in experience without describing a process anyone could follow or test. Experience-based testimony is admissible, but the expert still has to explain how experience leads to this conclusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "A standard exists and the expert ignored it. Many fields have published methodology, whether that is NFPA 921 in fire investigation, AASHTO in roadway design, or specialty-specific clinical guidelines. Deviation without explanation is the easiest cross-examination in litigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conclusions reached by elimination alone. Ruling out alternatives without affirmative support for the remaining hypothesis is a documented vulnerability across several disciplines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Methodology developed for the litigation. Analysis an expert built specifically for your case, never used professionally, and never subjected to outside review is exactly what Daubert's reliability factors were written to catch."
+    },
+    {
+      "type": "paragraph",
+      "text": "The vetting question is simple: ask the expert to walk you through their method before they have seen your facts. If they cannot describe a process independent of the conclusion, that is your answer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fit Is the Underrated Ground"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert can be extraordinarily qualified and still get excluded because their expertise does not match the specific opinion offered. Courts call this fit, and it is a quieter failure mode than methodology because the CV looks impressive right up until the motion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Common versions:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adjacent specialty. A general surgeon opining on the standard of care for a specific subspecialty procedure. A civil engineer opining on an electrical failure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Credential without recent practice. An expert board certified decades ago who has not practiced in the relevant area since. Currency matters more in fast-moving fields."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opinion beyond the discipline. An accident reconstructionist offering a medical causation opinion, or a treating physician opining on industry standards."
+    },
+    {
+      "type": "paragraph",
+      "text": "The single-expert stretch. Attorneys trying to keep costs down sometimes ask one expert to cover ground that genuinely requires two. If the case involves both premises security protocol and property management, those are different disciplines, and one expert usually cannot carry both."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fit problems are the easiest to prevent and the most expensive to discover late, because the fix is retaining a second expert on a compressed timeline."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Expert's Own Record"
+    },
+    {
+      "type": "paragraph",
+      "text": "The third category has nothing to do with your case. It is the expert's history, and it is discoverable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before retaining, confirm:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Prior exclusions. Has this expert been excluded or limited before, and on what grounds? A prior Daubert ruling against them in a similar case is the first thing opposing counsel will find."
+    },
+    {
+      "type": "paragraph",
+      "text": "Testimony ratio. An expert who has testified almost exclusively for one side over many years invites a bias attack. It is not disqualifying, but you should know it before the deposition, not during."
+    },
+    {
+      "type": "paragraph",
+      "text": "Volume of testifying work. An expert whose income comes overwhelmingly from litigation rather than practice is a familiar cross-examination target."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consistency across cases. Prior transcripts and published reports sometimes contain positions that contradict what the expert is prepared to say for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask directly. A credible expert answers these questions without defensiveness, and the ones who bristle are telling you something."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to Ask Before You Retain"
+    },
+    {
+      "type": "paragraph",
+      "text": "A focused call covers most of it:"
+    },
+    {
+      "type": "paragraph",
+      "text": "What method will you use, and where is it published or accepted?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What is the boundary of your opinion in this case, and what falls outside it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have you ever been excluded or had testimony limited? What happened?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What is your plaintiff-defense split over your testifying career?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are you currently retained in any matter that could create a conflict here?"
+    },
+    {
+      "type": "paragraph",
+      "text": "None of these take long. All of them surface problems that are far more expensive to find after disclosure."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where Timing Makes It Worse"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most exclusion problems trace back to a retention made under deadline pressure. The expert was available, the CV looked right, and there was no time to pull prior transcripts or check the testimony record."
+    },
+    {
+      "type": "paragraph",
+      "text": "That pressure is real, but it is also the argument for starting the search earlier than feels necessary. Vetting takes time that disclosure deadlines rarely leave. Building in that time, or having someone else do the screening, is what separates a clean disclosure from a motion you have to defend."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the gap Blackstorm Experts fills: describe the case and the opinion you need supported, and we return two to three vetted, conflict-checked candidates with CVs, fee schedules, and testimony history, typically within 48 to 72 hours."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "paragraph",
+      "text": "Daubert challenges succeed on three things: methodology the expert cannot defend, expertise that does not match the opinion, and a record the expert did not disclose. All three are findable before retention. The attorneys who get surprised are almost always the ones who retained fast and vetted later."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a case that needs a vetted expert, start a search with Blackstorm Experts and we will get you matched candidates fast."
+    }
+  ]
+}
