@@ -1,0 +1,127 @@
+{
+  "slug": "testifying-vs-consulting-expert",
+  "title": "Testifying vs Consulting Expert",
+  "metaTitle": "Testifying vs Consulting Expert: Discovery and Strategy",
+  "date": "2026-07-23",
+  "description": "How testifying and consulting experts differ in discovery exposure, when to use each, and how to convert a consulting expert without waiving protection.",
+  "keywords": [
+    "testifying vs consulting expert",
+    "consulting expert discovery",
+    "testifying expert Rule 26",
+    "consulting expert protection",
+    "convert consulting expert to testifying",
+    "Rule 26(b)(4) expert communications",
+    "consulting expert exceptional circumstances",
+    "designated expert discovery",
+    "expert witness consulting strategy",
+    "non-testifying expert"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "products-liability-engineering"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The distinction between a testifying and a consulting expert is a discovery distinction, and it is one of the few structural choices in litigation that materially changes what the other side gets to see. Getting it wrong is expensive and usually irreversible. For the broader role of experts in litigation, see what is an expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The discovery difference"
+    },
+    {
+      "type": "paragraph",
+      "text": "A testifying expert is disclosed under Rule 26(a)(2), and the disclosure carries a report containing all opinions, the basis for them, the facts and data considered, exhibits, qualifications, prior testimony over the past four years, and compensation. The expert is deposable and the report is the roadmap opposing counsel will use. Those disclosure contents are covered in the Rule 26 pre-retention checklist."
+    },
+    {
+      "type": "paragraph",
+      "text": "A consulting expert retained in anticipation of litigation and not expected to testify is generally beyond discovery. Facts known and opinions held by that expert are discoverable only on a showing of exceptional circumstances, meaning the other side cannot practicably obtain equivalent information by other means. That standard is rarely met."
+    },
+    {
+      "type": "paragraph",
+      "text": "The distinction turns on designation and expected role, not on job title. An expert who has not been designated but is plainly being groomed to testify does not get consulting protection simply because the designation has not been filed yet."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is protected and what is not"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rule 26(b)(4) protects draft reports and most communications between counsel and a testifying expert, with three exceptions. Communications about compensation, facts or data provided by counsel that the expert considered, and assumptions supplied by counsel that the expert relied on are all discoverable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those exceptions are narrower than they sound, but they matter in practice. If counsel tells the expert to assume a set of facts and the expert builds the opinion on that assumption, the instruction is fair game and it will be explored at deposition. Expert witness deposition preparation should account for that exposure from the start."
+    },
+    {
+      "type": "paragraph",
+      "text": "For consulting experts, the protection is broader but not absolute. Exceptional circumstances can include destroyed evidence the consulting expert examined, or a situation where the consultant had unique access that cannot be replicated."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When to use a consulting expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use one when you do not yet know what the opinion will be. An expert who reviews the file and concludes the facts do not support your theory is valuable information and a catastrophic disclosure. Retaining as a consultant first means you learn it privately."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use one to evaluate the opposing expert. A consultant can pick apart methodology, identify the weaknesses to target in deposition, and help draft the Daubert motion without ever being disclosed. Those methodology challenges sit under Federal Rule of Evidence 702."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use one on technical issues where you need to understand the subject to work the case up, even if the testimony will come from someone else. The person who teaches you the engineering does not have to be the person who explains it to the jury."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use one when the budget is tight. Consulting work is generally cheaper per hour, involves no report, and avoids deposition costs entirely."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Converting a consulting expert to a testifying expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "This happens routinely and it is permitted, but the protection does not survive the conversion. Once designated, the expert's opinions, the facts and data considered, and the required report contents become discoverable, and prior work on the case can be explored to the extent it bears on the disclosed opinions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The risk to manage is the record built during the consulting phase. Preliminary views that changed, analyses that were abandoned, and early drafts can all become material for cross-examination once the expert is designated, and draft protection under Rule 26(b)(4)(B) does not necessarily reach work performed in a different role."
+    },
+    {
+      "type": "paragraph",
+      "text": "If conversion is a realistic possibility, run the consulting phase as though the expert may be designated later. Keep the analysis clean, avoid generating documents you would not want disclosed, and be deliberate about what facts and assumptions you supply."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Practical structuring"
+    },
+    {
+      "type": "paragraph",
+      "text": "Retain in the consulting role by default when the opinion is unknown. Designate only after you have seen the analysis and decided it helps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep the roles separate where the case supports it. Using one expert as a dedicated consultant and a different expert as the testifying witness preserves the protection cleanly and avoids the conversion problem entirely."
+    },
+    {
+      "type": "paragraph",
+      "text": "Put the role in the engagement letter. The designation should be explicit, along with what happens if the role changes, so the expert understands the discovery posture of their own work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Watch the local rules. Some states depart from the federal framework on expert discovery, and a few permit broader discovery of consulting experts than Rule 26 allows."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need a vetted expert for either role, start an expert witness search with Blackstorm Experts and we will get you matched candidates fast."
+    }
+  ]
+}

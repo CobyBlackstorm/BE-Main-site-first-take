@@ -1,0 +1,157 @@
+{
+  "slug": "subpoena-duces-tecum",
+  "title": "Subpoena Duces Tecum",
+  "metaTitle": "Subpoena Duces Tecum: Requirements, Service, and Objections",
+  "date": "2026-07-23",
+  "description": "What a subpoena duces tecum is, how it differs from a standard subpoena, service and notice requirements, and how to respond or object.",
+  "keywords": [
+    "subpoena duces tecum",
+    "subpoena duces tecum meaning",
+    "Rule 45 subpoena",
+    "subpoena for documents",
+    "third party subpoena",
+    "motion to quash subpoena",
+    "subpoena notice requirement",
+    "expert witness subpoena",
+    "subpoena duces tecum objections",
+    "subpoena ad testificandum"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "premises-liability-security"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A subpoena duces tecum commands a person or entity to produce documents, records, or tangible things. The phrase is Latin for bring with you, and it distinguishes this form of subpoena from one that commands only testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "In federal practice both forms are issued under Federal Rule of Civil Procedure 45, and a single subpoena can command both testimony and production. State practice varies, but the structure is broadly similar across jurisdictions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How it differs from a standard subpoena"
+    },
+    {
+      "type": "paragraph",
+      "text": "A standard subpoena ad testificandum compels a person to appear and testify, whether at a deposition, hearing, or trial. A subpoena duces tecum compels production of specified materials, and it can be directed at an entity that has no individual witness to offer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The practical difference matters most with third parties. A subpoena duces tecum is the primary tool for obtaining records from non-parties, including hospitals, employers, banks, insurers, and phone carriers, none of whom are subject to ordinary discovery requests because they are not parties to the case."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What it can command"
+    },
+    {
+      "type": "paragraph",
+      "text": "The subpoena must describe the materials with reasonable particularity. Requests for all documents relating to the incident are routinely quashed or narrowed, because the recipient cannot determine what falls inside the request."
+    },
+    {
+      "type": "paragraph",
+      "text": "Common targets include medical records, employment and personnel files, financial and banking records, insurance claim files, maintenance and inspection logs, surveillance footage, electronic communications, and internal policies or procedures. In cases involving expert testimony, a subpoena duces tecum is also used to obtain an expert's file, prior reports, testimony history, and billing records ahead of a deposition. Those materials feed directly into expert witness deposition preparation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Issuance and service requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under Rule 45, a subpoena issues from the court where the action is pending, and an attorney authorized to practice in that court may issue and sign it. Service must be made on each person named, and the rule requires tendering fees for one day's attendance and mileage when the subpoena commands attendance."
+    },
+    {
+      "type": "paragraph",
+      "text": "The notice requirement is the one most often missed. Before serving a subpoena that commands production of documents or inspection of premises, a notice and a copy must be served on each party. Failure to give that notice is a common basis for a motion to quash, and it is an easy mistake when a subpoena goes out under deadline pressure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Geographic limits also apply. Rule 45 restricts where compliance can be required, generally within 100 miles of where the person resides, is employed, or regularly transacts business, with additional provisions for parties and officers."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Responding to a subpoena duces tecum"
+    },
+    {
+      "type": "paragraph",
+      "text": "The recipient generally has fourteen days from service, or until the time specified for compliance if earlier, to serve written objections. Serving objections suspends the obligation to produce until the issuing party obtains an order compelling production."
+    },
+    {
+      "type": "paragraph",
+      "text": "Objections commonly rest on undue burden, overbreadth, lack of relevance to the claims or defenses, privilege, confidentiality, or the availability of the same material from a party through ordinary discovery. Privilege objections require a log describing the withheld materials in enough detail to allow the requesting party to assess the claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the material is sensitive but discoverable, a protective order is usually a better path than an outright fight over production. Many disputes over medical, personnel, and financial records resolve through an agreed confidentiality order rather than motion practice."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Motions to quash and modify"
+    },
+    {
+      "type": "paragraph",
+      "text": "The court must quash or modify a subpoena that fails to allow a reasonable time to comply, requires compliance beyond the geographic limits, requires disclosure of privileged material with no exception or waiver, or subjects a person to undue burden. The court may also quash or modify a subpoena requiring disclosure of trade secrets or confidential commercial information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Timing is important. A motion to quash should be filed before the compliance date, and a recipient who simply ignores a subpoena risks contempt rather than preserving an objection."
+    },
+    {
+      "type": "paragraph",
+      "text": "The party issuing the subpoena carries an affirmative obligation to avoid imposing undue burden or expense, and courts can impose sanctions for failing to do so. This is worth remembering when the temptation is to subpoena everything from everyone."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Subpoenas directed at expert witnesses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Subpoenas to testifying experts raise their own set of issues. Rule 26 protects draft reports and most communications between counsel and a testifying expert, with limited exceptions covering compensation, facts or data provided by counsel that the expert considered, and assumptions supplied by counsel that the expert relied on. Those protections track the same disclosure framework covered in the Rule 26 pre-retention checklist."
+    },
+    {
+      "type": "paragraph",
+      "text": "A subpoena duces tecum to an expert should be drafted with those protections in mind, since a request for the expert's entire file will draw an objection covering protected drafts and communications. The materials that are reliably obtainable include the final report, the facts and data considered, compensation records, prior testimony lists, and publications."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consulting experts who are not designated to testify are generally beyond reach absent exceptional circumstances, which is one reason the consulting expert designation is used strategically. When the subpoena is aimed at testing whether the witness is actually qualified to offer the opinion, the analysis overlaps with qualifying an expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Practical drafting notes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Define the time period. An unbounded date range is the fastest way to draw a burden objection."
+    },
+    {
+      "type": "paragraph",
+      "text": "Describe categories by subject matter rather than by legal conclusion. Asking for all documents showing negligence is not a description a records custodian can act on, while asking for maintenance logs for a specific unit during a defined period is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Address format for electronic records in the subpoena itself, since a production delivered as unsearchable image files can cost more to review than the material is worth."
+    },
+    {
+      "type": "paragraph",
+      "text": "Build in realistic time. Hospital and corporate records departments frequently take weeks, and a subpoena with a ten day compliance window on a large records request invites an objection you will lose time fighting."
+    },
+    {
+      "type": "paragraph",
+      "text": "Serve the required notice on the other parties before service, and keep proof of it."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need a testifying expert whose file and disclosure will hold up under this kind of discovery, start an expert witness search with Blackstorm Experts and we will get you matched candidates fast."
+    }
+  ]
+}

@@ -13,6 +13,8 @@ type Props = {
   params: { slug: string }
 }
 
+const BASE = 'https://blackstormexperts.com'
+
 export function generateStaticParams() {
   return getAllBlogSlugs().map((slug) => ({ slug }))
 }
@@ -23,8 +25,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return { title: 'Not Found | Blackstorm Experts' }
   }
 
+  const pageTitle = post.metaTitle ?? post.title
+
   return {
-    title: `${post.title} | Blackstorm Experts`,
+    title: post.metaTitle ?? `${post.title} | Blackstorm Experts`,
     description: post.excerpt || undefined,
     keywords: post.keywords.length > 0 ? post.keywords : undefined,
     alternates: {
@@ -32,8 +36,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     openGraph: {
       url: `/blog/${params.slug}`,
-      title: post.title,
+      title: pageTitle,
       description: post.excerpt || undefined,
+      type: 'article',
     },
   }
 }
@@ -45,9 +50,53 @@ export default function BlogPostPage({ params }: Props) {
   }
 
   const relatedPosts = getRelatedBlogPosts(params.slug)
+  const pageTitle = post.metaTitle ?? post.title
+
+  const articleSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: pageTitle,
+    description: post.excerpt,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: {
+      '@type': 'Organization',
+      name: 'Blackstorm Experts',
+      url: BASE,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Blackstorm Experts',
+      url: BASE,
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${BASE}/blog/${post.slug}`,
+    },
+  }
+
+  const faqSchema =
+    post.faqs && post.faqs.length > 0
+      ? {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: post.faqs.map((faq) => ({
+            '@type': 'Question',
+            name: faq.question,
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: faq.answer,
+            },
+          })),
+        }
+      : null
 
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      {faqSchema ? (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      ) : null}
       <Nav />
       <main>
         <article className="bg-page pb-[60px] pt-[48px] md:pb-20 md:pt-[68px]">

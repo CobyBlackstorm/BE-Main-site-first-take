@@ -1,0 +1,145 @@
+{
+  "slug": "federal-rule-of-evidence-702",
+  "title": "Federal Rule of Evidence 702",
+  "metaTitle": "Federal Rule of Evidence 702: Expert Testimony Standards",
+  "date": "2026-07-23",
+  "description": "What Rule 702 requires for expert testimony, how the 2023 amendment changed the analysis, and how Rules 702 and 703 work together.",
+  "keywords": [
+    "Federal Rule of Evidence 702",
+    "Rule 702 expert testimony",
+    "Rule 702 2023 amendment",
+    "Rule 702 reliability",
+    "Rule 703 expert basis",
+    "expert witness helpfulness",
+    "expert witness qualification Rule 702",
+    "Kumho Tire experience based testimony",
+    "Rule 702 preponderance standard",
+    "expert witness admissibility"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "accident-reconstruction"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Rule 702 governs when a witness qualified as an expert may offer opinion testimony in federal court. It is the rule the Daubert standard interprets, and it is the operative text in any admissibility fight, so the analysis should start with the rule rather than with the case law built on top of it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What the rule requires"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rule 702 permits a witness qualified by knowledge, skill, experience, training, or education to testify in the form of an opinion if the proponent demonstrates that it is more likely than not that four conditions are met."
+    },
+    {
+      "type": "paragraph",
+      "text": "The testimony must help the trier of fact understand the evidence or determine a fact in issue. It must be based on sufficient facts or data. It must be the product of reliable principles and methods. And the expert's opinion must reflect a reliable application of those principles and methods to the facts of the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each condition is independent. An expert can be well qualified, using an accepted methodology, and still be excluded because the opinion outruns the facts in the record or because the method was misapplied to those facts."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qualification"
+    },
+    {
+      "type": "paragraph",
+      "text": "The qualification prong is broader than most challenges assume. A witness can qualify through experience alone, without academic credentials, which is why Kumho Tire extended the gatekeeping analysis to technical and experience-based testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "The productive challenge is almost never that the witness lacks credentials generally. It is that the credentials do not match the specific opinion offered. A board-certified surgeon is not automatically qualified to opine on hospital administrative policy, and an accident reconstructionist is not automatically qualified to opine on biomechanical injury causation. Courts regularly admit an expert for some opinions and exclude the same expert on others for exactly this reason. For how that analysis works in practice, see qualifying an expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The helpfulness requirement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Testimony must assist the trier of fact, which excludes opinions on matters within ordinary understanding and opinions that are really legal conclusions. An expert may testify about the standard of care and whether conduct met it, but testimony that a party was negligent or that a contract was breached generally crosses into the court's territory."
+    },
+    {
+      "type": "paragraph",
+      "text": "This prong also reaches testimony that simply repackages the evidence. An expert who summarizes records without applying any specialized analysis is offering narration rather than opinion."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The 2023 amendment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rule 702 was amended effective December 1, 2023. The amendment made two things explicit that had been inconsistently applied."
+    },
+    {
+      "type": "paragraph",
+      "text": "First, it clarified that the proponent must demonstrate admissibility by a preponderance of the evidence. Many courts had been treating reliability as a question of weight for the jury, admitting testimony and leaving the reliability dispute to cross-examination. The committee note is direct that this was incorrect and that the gatekeeping determination belongs to the court."
+    },
+    {
+      "type": "paragraph",
+      "text": "Second, it emphasized that the reliable-application requirement is part of the admissibility analysis, not a weight question. An expert who overstates conclusions beyond what the methodology supports is subject to exclusion of the overstated opinion, even where the underlying method is sound."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are litigating an expert challenge, the amendment is worth citing directly. Older opinions in your jurisdiction may reflect the more permissive approach the amendment was intended to correct. Challenges are typically raised through a motion in limine."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How Rule 703 fits"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rule 703 addresses the basis of the opinion rather than its reliability. An expert may rely on facts or data that would themselves be inadmissible, provided experts in the field would reasonably rely on that kind of material."
+    },
+    {
+      "type": "paragraph",
+      "text": "The limitation is on disclosure. If the underlying material is inadmissible, the proponent may disclose it to the jury only if its probative value in helping the jury evaluate the opinion substantially outweighs its prejudicial effect. That is a reversed Rule 403 balance, and it is stricter than the ordinary standard."
+    },
+    {
+      "type": "paragraph",
+      "text": "In practice this comes up when an expert relies on out-of-court statements, other experts' reports, or industry data. The opinion may be admissible while the underlying material stays out, and counsel who plans to walk the expert through the inadmissible basis in front of the jury should expect an objection."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Related rules worth knowing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rule 701 governs lay opinion and limits it to opinions rationally based on the witness's perception and not resting on specialized knowledge. Treating physicians are the recurring problem here, since testimony about diagnosis and treatment may be permissible as lay or non-retained expert testimony while causation opinions usually require Rule 702 treatment and disclosure under the Rule 26 pre-retention checklist."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rule 704 permits opinions on ultimate issues in most civil cases, subject to the helpfulness limit discussed above. Rule 705 permits an expert to state an opinion without first disclosing the underlying facts, though the expert may be required to disclose them on cross-examination."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Applying the rule at retention"
+    },
+    {
+      "type": "paragraph",
+      "text": "The practical use of Rule 702 is not at the motion stage. It is at retention, when the choices that determine admissibility are still open."
+    },
+    {
+      "type": "paragraph",
+      "text": "Match the expert to the specific opinion rather than to the general subject area, since qualification challenges succeed on the gap between the two. Confirm the expert uses an established methodology and can name it, cite it, and explain why it applies to these facts. Verify that the facts and data the opinion will rest on actually exist in the record, because an opinion built on assumptions the evidence does not support fails the sufficient-facts prong regardless of how sound the method is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Review prior testimony and any exclusion history before you retain. An expert who has been excluded on methodology grounds in a similar case will face that record in every subsequent challenge, and it is far cheaper to find out at retention than after disclosure."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need a vetted expert whose opinions will satisfy Rule 702, start an expert witness search with Blackstorm Experts and we will get you matched candidates fast."
+    }
+  ]
+}

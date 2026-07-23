@@ -1,13 +1,14 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
-import type { BlogBlock, BlogPostJson } from '@/lib/blogTypes'
+import type { BlogBlock, BlogFaq, BlogPostJson } from '@/lib/blogTypes'
 
 const BLOG_DIR = path.join(process.cwd(), 'content/blog')
 
 export type BlogPost = {
   slug: string
   title: string
+  metaTitle?: string
   date: string
   dateFormatted: string
   excerpt: string
@@ -15,6 +16,7 @@ export type BlogPost = {
   specialties: string[]
   content: string
   blocks?: BlogBlock[]
+  faqs?: BlogFaq[]
 }
 
 function formatBlogDate(dateStr: string): string {
@@ -74,6 +76,7 @@ function parseBlogJsonFile(filename: string): BlogPost {
   return {
     slug: data.slug,
     title: data.title,
+    metaTitle: data.metaTitle,
     date: data.date,
     dateFormatted: data.date ? formatBlogDate(data.date) : '',
     excerpt: data.description,
@@ -81,6 +84,7 @@ function parseBlogJsonFile(filename: string): BlogPost {
     specialties: data.specialties,
     content: '',
     blocks: data.blocks,
+    faqs: data.faqs,
   }
 }
 
@@ -149,5 +153,6 @@ export function getRelatedBlogPosts(slug: string): BlogPost[] {
 
       return new Date(b.post.date).getTime() - new Date(a.post.date).getTime()
     })
+    .slice(0, 5)
     .map(({ post }) => post)
 }

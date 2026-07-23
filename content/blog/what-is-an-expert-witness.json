@@ -1,0 +1,136 @@
+{
+  "slug": "what-is-an-expert-witness",
+  "title": "What Is an Expert Witness?",
+  "metaTitle": "What Is an Expert Witness? Roles, Types, and Requirements",
+  "date": "2026-07-23",
+  "description": "What an expert witness does, how testifying and consulting experts differ, qualification requirements, and when a case actually needs one.",
+  "keywords": [
+    "what is an expert witness",
+    "expert witness definition",
+    "expert witness requirements",
+    "testifying vs consulting expert",
+    "types of expert witnesses",
+    "when do you need an expert witness",
+    "expert witness qualification",
+    "Rule 702 expert witness",
+    "expert witness roles",
+    "retained expert witness"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "accident-reconstruction"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "An expert witness is a person permitted to offer opinion testimony because their specialized knowledge will help the trier of fact understand the evidence or determine a fact in issue. Ordinary witnesses testify to what they perceived. Experts are the exception, allowed to draw conclusions and explain what the facts mean."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What makes someone an expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under Federal Rule of Evidence 702 and its state analogues, a witness may qualify through knowledge, skill, experience, training, or education. No single credential is required, and experience alone can qualify a witness, which is why equipment operators, tradespeople, and industry veterans are regularly qualified alongside physicians and engineers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Qualification is always specific to the opinion offered rather than to the field generally. A cardiologist qualified to testify about myocardial infarction management may not be qualified to testify about emergency department triage protocols, even though both fall within medicine broadly. Courts frequently admit an expert as to some opinions and exclude the same witness as to others. For how that analysis works in practice, see qualifying an expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Testifying experts and consulting experts"
+    },
+    {
+      "type": "paragraph",
+      "text": "A testifying expert is designated, disclosed to the other side, subject to deposition, and expected to testify at trial. Their opinions, the facts and data they considered, and their compensation are all discoverable."
+    },
+    {
+      "type": "paragraph",
+      "text": "A consulting expert is retained to advise counsel without being designated. Their work is generally protected from discovery absent exceptional circumstances, which makes the consulting role useful for testing a theory before committing to it. An expert who reviews the case and concludes the facts do not support your position is a valuable consulting expert and a disastrous testifying one."
+    },
+    {
+      "type": "paragraph",
+      "text": "Many engagements start as consulting and convert to testifying once counsel knows what the opinion will be. The discovery and strategy differences are covered in testifying vs consulting expert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What an expert actually does"
+    },
+    {
+      "type": "paragraph",
+      "text": "The visible work is testimony, but most of an expert's time goes elsewhere. They review records and discovery, form an opinion, and in federal court and many state courts prepare a written report meeting the disclosure requirements."
+    },
+    {
+      "type": "paragraph",
+      "text": "They also help counsel understand the technical issues, identify what additional discovery is needed, and evaluate the opposing expert's methodology. On many cases the expert's most valuable contribution comes early, when their read on the medicine or the engineering shapes how the case is worked up."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deposition and trial testimony come last, and by then the substance was fixed months earlier."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Common types of expert witness"
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical experts address standard of care, causation, and damages in malpractice and injury cases. This includes physicians across every specialty, nurses, and allied health professionals, along with life care planners and medical billing analysts who quantify future care and cost."
+    },
+    {
+      "type": "paragraph",
+      "text": "Engineering and technical experts cover accident reconstruction, biomechanics, human factors, product design and failure, fire origin and cause, construction defect, and premises safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "Financial experts include forensic accountants, economists, and business valuation specialists, who address damages, lost earnings, and financial misconduct."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry and standard of care experts opine on practices in fields ranging from trucking and DOT compliance to nursing home operations, security, employment practices, and professional services. Browse the full list of expert witness specialties for the disciplines we source most often."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When a case needs one"
+    },
+    {
+      "type": "paragraph",
+      "text": "A case needs an expert when an element of the claim or defense requires specialized knowledge the jury does not have. In most jurisdictions, medical malpractice requires expert testimony on the standard of care as a matter of law, and many states additionally require an affidavit or certificate of merit before the case can proceed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert testimony is also generally required to establish causation in complex injury cases, to prove damages requiring calculation, and to establish industry standards. It is not required, and often not permitted, on matters within ordinary understanding."
+    },
+    {
+      "type": "paragraph",
+      "text": "The related question is how many. Over-designation is a common budget mistake, and a case with three experts covering overlapping ground usually would have been better served by two."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What makes a good one"
+    },
+    {
+      "type": "paragraph",
+      "text": "Credentials get an expert admitted. They do not make the expert effective."
+    },
+    {
+      "type": "paragraph",
+      "text": "The qualities that matter in practice are the ability to explain a technical subject to a lay jury without condescension, consistency between the report and the testimony, a clean prior record without exclusions or contradicted testimony, and active current work in the field. An expert whose income comes primarily from testimony is a recurring target on cross, and juries respond to it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Availability matters more than most attorneys anticipate. An expert who cannot commit to the trial calendar is a problem you discover late, which is why availability should be confirmed at retention rather than assumed."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need a vetted expert for a pending matter, start an expert witness search with Blackstorm Experts and we will get you matched candidates fast."
+    }
+  ]
+}

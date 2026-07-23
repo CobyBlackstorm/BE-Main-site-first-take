@@ -4,7 +4,23 @@ import { SPECIALTIES } from '@/lib/expertData'
 type TextSegment =
   | { kind: 'text'; value: string }
   | { kind: 'specialty'; value: string; slug: string }
+  | { kind: 'page'; value: string; href: string }
   | { kind: 'search'; value: string }
+
+const PAGE_PHRASES: { phrase: string; href: string }[] = [
+  { phrase: 'expert witness fee structures', href: '/blog/expert-witness-fees-cost-structure' },
+  { phrase: 'Rule 26 pre-retention checklist', href: '/blog/rule-26-expert-disclosure-pre-retention-checklist' },
+  { phrase: 'expert witness deposition preparation', href: '/blog/expert-witness-deposition-preparation' },
+  { phrase: 'Federal Rule of Evidence 702', href: '/blog/federal-rule-of-evidence-702' },
+  { phrase: 'testifying vs consulting expert', href: '/blog/testifying-vs-consulting-expert' },
+  { phrase: 'what is an expert witness', href: '/blog/what-is-an-expert-witness' },
+  { phrase: 'expert witness specialties', href: '/expert-witness' },
+  { phrase: 'motion in limine', href: '/blog/motion-in-limine-exclude-expert-testimony' },
+  { phrase: 'Frye vs. Daubert', href: '/blog/frye-vs-daubert-expert-witness-standards' },
+  { phrase: 'Daubert standard', href: '/blog/daubert-standard' },
+  { phrase: 'qualifying an expert witness', href: '/blog/qualifying-an-expert-witness' },
+  { phrase: 'expert witness search', href: '/expert-witness-search' },
+].sort((a, b) => b.phrase.length - a.phrase.length)
 
 const SPECIALTY_PHRASES: { phrase: string; slug: string }[] = [
   { phrase: 'life care planner expert witness', slug: 'life-care-planning' },
@@ -151,8 +167,36 @@ const SEARCH_PHRASES = [
 function findNextMatch(text: string, fromIndex: number) {
   let bestMatch: { index: number; length: number; segment: TextSegment } | null = null
 
+  const lowerText = text.toLowerCase()
+
+  for (const { phrase, href } of PAGE_PHRASES) {
+    const index = lowerText.indexOf(phrase, fromIndex)
+    if (index === -1) continue
+
+    const before = index === 0 ? '' : text[index - 1]
+    const after = text[index + phrase.length] ?? ''
+    const isWordBoundary = (char: string) => !char || !/[a-z0-9]/i.test(char)
+
+    if (!isWordBoundary(before) || !isWordBoundary(after)) {
+      continue
+    }
+
+    const candidate = {
+      index,
+      length: phrase.length,
+      segment: {
+        kind: 'page' as const,
+        value: text.slice(index, index + phrase.length),
+        href,
+      },
+    }
+
+    if (!bestMatch || candidate.index < bestMatch.index) {
+      bestMatch = candidate
+    }
+  }
+
   for (const { phrase, slug } of SPECIALTY_PHRASES) {
-    const lowerText = text.toLowerCase()
     const index = lowerText.indexOf(phrase, fromIndex)
     if (index === -1) continue
 
@@ -236,6 +280,14 @@ export function renderLinkedText(text: string) {
         <a key={index} href="#" data-open-search-modal className={linkClass}>
           {segment.value}
         </a>
+      )
+    }
+
+    if (segment.kind === 'page') {
+      return (
+        <Link key={index} href={segment.href} className={linkClass}>
+          {segment.value}
+        </Link>
       )
     }
 

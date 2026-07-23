@@ -9,6 +9,9 @@ export default function BlogRichText({ blocks }: BlogRichTextProps) {
   return (
     <div className="blog-prose text-[17px] leading-[1.85] text-primary">
       {blocks.map((block, index) => {
+        const next = blocks[index + 1]
+        const prev = blocks[index - 1]
+
         if (block.type === 'heading') {
           if (block.level === 3) {
             return (
@@ -30,8 +33,23 @@ export default function BlogRichText({ blocks }: BlogRichTextProps) {
           )
         }
 
+        if (block.type === 'listItem') {
+          const isLastInList = next?.type !== 'listItem'
+          return (
+            <p
+              key={index}
+              className={`text-[17px] leading-[1.7] text-primary ${
+                prev?.type !== 'listItem' ? 'mt-1' : ''
+              } ${isLastInList ? 'mb-6' : 'mb-2.5'}`}
+            >
+              {renderLinkedText(block.text)}
+            </p>
+          )
+        }
+
+        const beforeList = next?.type === 'listItem'
         return (
-          <p key={index} className="mb-6 last:mb-0">
+          <p key={index} className={beforeList ? 'mb-3' : 'mb-6 last:mb-0'}>
             {renderLinkedText(block.text)}
           </p>
         )
