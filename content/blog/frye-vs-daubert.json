@@ -1,0 +1,127 @@
+{
+  "slug": "frye-vs-daubert",
+  "title": "Frye vs Daubert: What It Means for Your Expert",
+  "metaTitle": "Frye vs Daubert: What It Means for Your Expert | Blackstorm Experts",
+  "date": "2026-08-03",
+  "description": "The difference between the Frye and Daubert standards, which states apply which, and how the standard shapes expert selection.",
+  "keywords": [
+    "Frye vs Daubert",
+    "Frye standard expert witness",
+    "Daubert standard expert witness",
+    "which states apply Frye",
+    "Daubert Rule 702",
+    "Kumho Tire expert testimony",
+    "Joiner analytical gap",
+    "expert witness admissibility standard",
+    "Rule 702 2023 amendment",
+    "Frye general acceptance"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "fire-investigation"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The admissibility standard governing your case determines what kind of expert you need, what their report has to establish, and where the attack will come from. Retaining an expert without knowing which standard applies is a common and avoidable error, particularly in firms that practice across state lines."
+    },
+    {
+      "type": "paragraph",
+      "text": "The two standards ask different questions. Frye asks whether the methodology is generally accepted in the relevant scientific community. Daubert asks whether the methodology is reliable, and treats general acceptance as one factor among several rather than the whole inquiry."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Frye"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Frye standard originates in a 1923 decision of the D.C. Court of Appeals concerning an early lie detector test. The court held that expert testimony based on a scientific technique is admissible only when the technique has gained general acceptance in its field."
+    },
+    {
+      "type": "paragraph",
+      "text": "The inquiry is comparatively narrow. The question is not whether the court finds the methodology sound, but whether the relevant scientific community has accepted it. Courts applying Frye look to publications, professional standards, and testimony about the state of the field rather than evaluating the science directly."
+    },
+    {
+      "type": "paragraph",
+      "text": "The practical consequence is that Frye favors established methodology and disfavors anything novel, regardless of how well supported the novel approach may be. An expert using a technique that is scientifically defensible but not yet widely adopted faces a harder path under Frye than under Daubert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Daubert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Daubert v. Merrell Dow Pharmaceuticals, decided by the Supreme Court in 1993, held that the Federal Rules of Evidence superseded Frye in federal court and assigned trial judges a gatekeeping role over expert testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Court identified factors relevant to reliability: whether the theory or technique can be and has been tested, whether it has been subjected to peer review and publication, the known or potential error rate, the existence and maintenance of standards controlling the technique's operation, and general acceptance. These are factors, not a checklist, and courts apply them flexibly depending on the nature of the testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "Two later decisions round out the framework. General Electric v. Joiner addressed the standard of appellate review and made clear that a court may exclude testimony where the analytical gap between the data and the opinion is too great. Kumho Tire v. Carmichael extended the gatekeeping function beyond scientific testimony to technical and other specialized knowledge, which is why engineers, accountants, and vocational experts face Daubert scrutiny the same as scientists."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relevant federal rule is Federal Rule of Evidence 702, which was amended in 2023 to clarify that the proponent bears the burden of establishing admissibility by a preponderance and that the expert's opinion must reflect a reliable application of the methodology to the facts. That amendment has produced noticeably more rigorous application in federal court, and it is worth knowing about before you assume prior practice still holds."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Which standard applies where"
+    },
+    {
+      "type": "paragraph",
+      "text": "All federal courts apply Daubert. Most states have adopted it or something closely modeled on it."
+    },
+    {
+      "type": "paragraph",
+      "text": "A minority of states continue to apply Frye or a variant. That group has changed over time as legislatures and courts have shifted, and several states have moved between the standards in recent years, sometimes more than once. Florida in particular has changed direction more than once in the last decade."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the landscape moves, confirm the current standard in your jurisdiction rather than relying on what was true when you last handled a case there. Some states also apply different standards to different categories of evidence, and a few apply a hybrid."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What the difference means for expert selection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under Frye, the priority is an expert using orthodox methodology. General acceptance is the battleground, so an expert who can point to established professional standards, widely used protocols, and mainstream literature is in a strong position. Novel approaches are a liability even when they are well supported."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under Daubert, the priority shifts toward an expert who can articulate and defend their process. General acceptance still helps, but reliability of application is where cases are now won and lost, particularly after the 2023 amendment. An expert who applied an accepted methodology carelessly can be excluded under Daubert in circumstances where Frye would have admitted the testimony. How to compare expert witness fees and qualifications should treat that reliability posture as part of the fit analysis, not as an afterthought."
+    },
+    {
+      "type": "paragraph",
+      "text": "The practical instruction for both is the same in one respect. The report should make the methodology explicit rather than leaving it implied. An expert who states what standard they applied, what data they relied on, and how they moved from one to the other has substantially reduced their exposure under either regime. For how qualification attaches to the specific opinion rather than the CV generally, see qualifying an expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where challenges succeed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Analytical gap is the most productive line under Daubert. The data may be sound and the methodology accepted, and the opinion may still rest on inferential leaps the evidence does not support. Joiner is the authority."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unreliable application is the second, and the 2023 amendment strengthened it. The expert used a valid method incorrectly, skipped steps, or applied it to facts it was not designed for."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scope is the third and it applies under both standards. An expert qualified in one area offering opinions in an adjacent one they are not qualified for is vulnerable regardless of methodology."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under Frye, the successful challenges are narrower and concentrate almost entirely on whether the technique itself is accepted. Those challenges are typically raised through a motion in limine."
+    }
+  ]
+}

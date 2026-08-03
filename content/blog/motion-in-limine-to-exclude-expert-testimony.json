@@ -1,0 +1,135 @@
+{
+  "slug": "motion-in-limine-to-exclude-expert-testimony",
+  "title": "Motion in Limine to Exclude Expert Testimony",
+  "metaTitle": "Motion in Limine to Exclude Expert Testimony | Blackstorm Experts",
+  "date": "2026-08-03",
+  "description": "When to move to exclude an expert, which grounds actually succeed, and what to do when your own expert is challenged.",
+  "keywords": [
+    "motion in limine to exclude expert testimony",
+    "exclude expert witness",
+    "Daubert motion in limine",
+    "analytical gap expert testimony",
+    "Rule 702 exclusion",
+    "expert witness partial exclusion",
+    "motion in limine expert grounds",
+    "challenge opposing expert",
+    "defend expert against Daubert",
+    "expert witness scope exclusion"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "life-care-planning"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A motion in limine to exclude expert testimony is often the highest leverage motion in a case. Removing the opposing side's causation expert or damages expert can end the matter outright, and even partial exclusion narrows what the jury hears in ways that shape the trial substantially."
+    },
+    {
+      "type": "paragraph",
+      "text": "These motions also fail routinely, usually because they are aimed at weight rather than admissibility. Understanding which grounds courts actually act on, and which they treat as cross examination material, is the difference between a motion worth filing and one that signals your theory of the case to opposing counsel for nothing."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Timing and mechanics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The motion is typically filed after expert discovery closes and before trial, on the schedule set in the case management order. Many courts set a specific deadline for Daubert motions separate from other motions in limine, and missing it can waive the challenge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Filing early enough to permit a hearing matters. Where the challenge is substantive, courts frequently want testimony rather than deciding on papers, and a motion filed on the eve of trial may be deferred or denied on timing alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "The record you build in the expert's deposition is the record the motion rests on. Concessions on methodology, gaps in support, and admissions about scope are what make these motions work, which means the motion is effectively drafted at the deposition rather than afterward. That is why expert witness deposition preparation should treat exclusion grounds as an objective, not just information gathering."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Grounds that succeed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lack of qualification in the specific area is the most straightforward. The expert is qualified generally but not on the issue before the court. A physician board certified in one specialty offering opinions squarely within another, or an engineer whose background is in an unrelated discipline, is genuinely vulnerable. Courts grant these where the mismatch is clear. For how that analysis works, see qualifying an expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unreliable methodology succeeds where the expert cannot articulate a process, applied a recognized method incorrectly, or used an approach developed for litigation rather than in the ordinary course of the field. The 2023 amendment to Federal Rule of Evidence 702 strengthened this ground materially by clarifying that the proponent must show the opinion reflects a reliable application of the methodology to the facts, and federal courts have applied it more rigorously since."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analytical gap is the ground courts articulate most often when excluding otherwise qualified experts. The data supports something, the opinion asserts something further, and nothing bridges them. Joiner is the authority and the language courts use is that the opinion is connected to the data only by the ipse dixit of the expert. Whether that reliability fight is framed under Frye vs Daubert depends on the venue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opinions outside scope succeed as partial exclusions frequently. A life care planner offering causation opinions, a treating physician offering opinions beyond the course of treatment, or a damages expert opining on liability are all common and are usually limited rather than excluded entirely. The life care planner version of that boundary is covered in what does a life care planner testify to."
+    },
+    {
+      "type": "paragraph",
+      "text": "Failure to disclose properly under the applicable rule is procedural but effective. An expert whose report omits opinions later offered, or whose disclosure does not meet the rule's requirements, can be limited to what was disclosed. Those disclosure contents are covered in the Rule 26 pre-retention checklist."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Grounds that usually fail"
+    },
+    {
+      "type": "paragraph",
+      "text": "Disagreement with the expert's conclusion is not a basis for exclusion. Courts say this repeatedly and it remains the most common reason motions are denied."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reliance on facts you dispute goes to weight. If the expert assumed a version of events supported by some evidence in the record, the assumption is a cross examination issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Incomplete record review is weight, not admissibility, unless the omission is so fundamental that the methodology itself fails."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bias, including a lopsided plaintiff or defense testimony history and the size of the expert's fee, is classic cross examination material and courts will say so."
+    },
+    {
+      "type": "paragraph",
+      "text": "The failure mode to avoid is a motion that catalogs everything you dislike about the expert. Courts read those as weight arguments dressed as admissibility arguments, and the strong ground gets buried among the weak ones. Lead with the ground most likely to succeed and consider omitting the marginal ones entirely."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Partial exclusion is often the realistic goal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete exclusion of a qualified expert is uncommon. Limiting what they may testify to is not."
+    },
+    {
+      "type": "paragraph",
+      "text": "Framing the motion in the alternative, seeking exclusion and in the alternative limitation to specific opinions, gives the court a path it is more comfortable taking. A ruling that the opposing damages expert may not opine on causation, or that the engineer may not testify about human factors, can accomplish most of what you needed."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When your own expert is challenged"
+    },
+    {
+      "type": "paragraph",
+      "text": "The response begins well before the motion. An expert whose report states the methodology explicitly, identifies the data relied on, and shows the reasoning connecting them is substantially harder to exclude than one whose report states conclusions."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a challenge is filed, evaluate honestly whether the strongest ground has merit. Where an opinion genuinely exceeds what the expert can support, withdrawing that opinion voluntarily is usually better than defending it and losing, because a granted motion produces an order and a record that follows the expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the challenge is a weight argument, say so directly and cite the ruling language courts use. Most of these motions are denied and the response does not need to be elaborate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the ground is scope, offering a limitation yourself frequently resolves the motion without a ruling."
+    }
+  ]
+}

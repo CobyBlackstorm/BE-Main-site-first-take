@@ -128,7 +128,10 @@ export function getAllBlogSlugs(): string[] {
 }
 
 export function getBlogPostsBySpecialty(specialtySlug: string): BlogPost[] {
-  return getAllBlogPosts().filter((post) => post.specialties.includes(specialtySlug))
+  return getAllBlogPosts()
+    .filter((post) => post.specialties.includes(specialtySlug))
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+    .slice(0, 5)
 }
 
 export function getRelatedBlogPosts(slug: string): BlogPost[] {

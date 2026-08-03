@@ -1,0 +1,130 @@
+{
+  "slug": "what-does-a-life-care-planner-testify-to",
+  "title": "What Does a Life Care Planner Testify To?",
+  "metaTitle": "What Does a Life Care Planner Testify To? | Blackstorm Experts",
+  "date": "2026-08-03",
+  "description": "The scope and limits of life care planner testimony, where the role ends, and how the boundary gets tested at deposition.",
+  "keywords": [
+    "what does a life care planner testify to",
+    "life care planner testimony scope",
+    "life care planner deposition",
+    "life care planner medical necessity",
+    "life care planner causation",
+    "life care planner vs economist",
+    "life care planner cross examination",
+    "life care plan scope of opinion",
+    "rebuttal life care planner testimony",
+    "life care planner qualifications"
+  ],
+  "specialties": [
+    "life-care-planning",
+    "personal-injury",
+    "forensic-economics"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The scope of life care planner testimony is narrower than most people assume, and the difference between what a planner can say and what they cannot is where a substantial portion of these cases is won or lost."
+    },
+    {
+      "type": "paragraph",
+      "text": "A planner testifies to what care an injured person will need, how often, for how long, and what it will cost. They do not testify to whether the injury caused the need for that care, and they do not decide what treatment is appropriate. Those determinations belong to physicians. The planner takes the medical recommendations that already exist and builds a cost structure around them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Understanding that boundary matters whether you are offering the expert or attacking one, because a planner who steps across it has given opposing counsel the most productive line of cross available in the case. For the broader role and what to evaluate before retention, see life care planner expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is within scope"
+    },
+    {
+      "type": "paragraph",
+      "text": "The planner testifies to the contents of the plan itself. That means identifying each projected care item, explaining what it is and why it appears, stating the frequency and duration assigned to it, and giving the cost basis for the figure attached to it."
+    },
+    {
+      "type": "paragraph",
+      "text": "They testify to methodology. How they reviewed the records, who they consulted, how they determined which items belonged in the plan, what cost sources they relied on, and how they handled items where the record was incomplete. This is often the longest portion of the testimony and it is where a plan either holds together or comes apart. Cost methodology specifically is covered in life care plan cost calculation expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "They testify to the standards of life care planning practice, including the certification requirements, the general process the field follows, and what a defensible plan requires."
+    },
+    {
+      "type": "paragraph",
+      "text": "In rebuttal posture, they testify to the deficiencies in an opposing plan, item by item, with a stated reason for each. That role is covered in life care plan rebuttal expert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is outside scope"
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical causation is the clearest boundary. A life care planner cannot testify that the accident caused the client's condition. That is a physician opinion and a planner who offers it will be challenged, usually successfully."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical necessity is the subtler one. The planner does not decide that the client needs a particular surgery or therapy. They document that a physician recommended it. When a planner testifies that a client needs care nobody prescribed, they have made a treatment determination they are not qualified to make. This is the most common way plans get partially struck. For how that gap is framed as a qualification problem, see qualifying an expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prognosis belongs to the treating physicians. The planner relies on it, and where the record is unclear on prognosis, the plan should identify what assumption was made and where it came from."
+    },
+    {
+      "type": "paragraph",
+      "text": "Life expectancy is generally outside scope for the planner as an independent opinion. They apply an assumption and should be able to say where it came from, but establishing a reduced life expectancy requires medical testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "Present value is the economist's territory. The planner produces costs in current dollars. Applying growth and discount rates is a separate discipline, and a planner who has already inflated their figures creates a double counting problem when the forensic economist runs the calculation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vocational loss overlaps but is distinct. Some planners hold rehabilitation counselor credentials and can address it, but many firms keep it as a separate expert so that an attack on one opinion does not damage the other."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How the boundary gets tested"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most productive cross examination of a life care planner is not about the numbers. It is about authority."
+    },
+    {
+      "type": "paragraph",
+      "text": "The question sequence is straightforward. Which physician recommended this item. Where in the record does that appear. If it does not appear, who determined the client needs it. If the answer is the planner, the item is exposed, and every other unsupported item in the plan is now suspect by association."
+    },
+    {
+      "type": "paragraph",
+      "text": "A planner who anticipated this will have documentation for every item, including notes from any physician consultation obtained outside the record. A planner who did not will be reconstructing their reasoning under oath, and the jury will hear the difference. That same item by item approach is the core of how to challenge a life care plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "The second common line concerns items where the planner obtained a recommendation by contacting a treating provider directly. That is legitimate practice, but the contact should be documented, and the provider should be prepared to confirm it if asked. An undocumented phone call is worth little."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preparing your planner"
+    },
+    {
+      "type": "paragraph",
+      "text": "Confirm before the report is finalized that every line traces to a source. This is a document review exercise and it takes a few hours. It is considerably cheaper than discovering the gaps at deposition. Expert witness deposition preparation should treat those source questions as the center of the examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Confirm the planner knows which portions of the opinion belong to other experts and will decline those questions rather than answering helpfully. Experts who want to be useful frequently answer questions outside their expertise, and that instinct causes real damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Confirm the cost figures are in current dollars and that the economist knows it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the record is genuinely silent on an item the planner believes is needed, the correct move is to obtain a physician recommendation before the report issues rather than to include the item and hope it is not examined."
+    }
+  ]
+}
