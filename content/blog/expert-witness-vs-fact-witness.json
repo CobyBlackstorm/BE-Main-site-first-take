@@ -1,0 +1,194 @@
+{
+  "slug": "expert-witness-vs-fact-witness",
+  "title": "Expert Witness vs Fact Witness: The Difference That Determines What Your Witness Can Say",
+  "metaTitle": "Expert Witness vs Fact Witness: The Difference That Determines What Your Witness Can Say",
+  "date": "2026-08-04",
+  "description": "The difference between an expert witness and a fact witness, what each is allowed to testify to, how treating physicians blur the line, and what happens when a witness is used in the wrong role.",
+  "keywords": [
+    "expert witness vs fact witness",
+    "expert witness versus fact witness",
+    "fact witness vs expert witness",
+    "lay witness vs expert witness",
+    "treating physician fact witness",
+    "treating physician expert disclosure",
+    "expert witness opinion testimony",
+    "fact witness testimony limits",
+    "disclose treating physician as expert",
+    "expert witness disclosure deadline"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "accident-reconstruction"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Every witness in a case falls into one of two categories, and the category determines the single most important thing about them: whether they are allowed to give an opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "A fact witness testifies to what they personally observed. An expert witness testifies to conclusions drawn from specialized knowledge. The line between them is not about how qualified the person is. It is about the basis for what they are saying on the stand. For the broader role of retained experts, see what is an expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What a Fact Witness Can Testify To"
+    },
+    {
+      "type": "paragraph",
+      "text": "A fact witness, sometimes called a lay witness, testifies to things they perceived firsthand. What they saw, heard, did, or experienced."
+    },
+    {
+      "type": "paragraph",
+      "text": "The defining limitation is that a fact witness cannot offer opinions that require specialized knowledge. They can say the car was moving fast. They cannot say the car was traveling at fifty-two miles per hour based on skid mark analysis. They can say the floor was wet. They cannot say the flooring material fell below the applicable safety standard."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fact witnesses can give limited opinions, but only ones that any ordinary person could form from the same observation. Speed, distance, whether someone appeared intoxicated, whether a person seemed to be in pain. These are permitted because they are common-sense inferences, not expert conclusions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fact witnesses are not retained and not paid for their testimony. They are subpoenaed or they appear voluntarily, and they testify because of what they happened to witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What an Expert Witness Can Testify To"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert witness testifies to opinions based on knowledge, skill, experience, training, or education. They were not present for the events. They review the evidence after the fact and tell the jury what it means."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert is permitted to do the thing the fact witness cannot: draw a conclusion the jury could not reach on its own. Causation. Standard of care. Damages calculations. Whether a product was defectively designed. Whether a set of symptoms is consistent with a particular mechanism of injury."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts are retained, disclosed, and paid. They are subject to disclosure rules, expert reports in federal court, and admissibility challenges under Daubert or Frye depending on the jurisdiction. None of that applies to a fact witness. The governing federal rule is Federal Rule of Evidence 702."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Practical Differences That Matter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Disclosure. Expert witnesses must be disclosed by a deadline, usually with a written report in federal cases. Fact witnesses appear on witness lists but do not carry the same disclosure burden. Those disclosure contents are covered in the Rule 26 pre-retention checklist."
+    },
+    {
+      "type": "paragraph",
+      "text": "Discovery. An opposing party can depose your expert and probe their methodology, their compensation, their prior testimony, and the materials they reviewed. Fact witness depositions cover what the witness observed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Admissibility challenges. Expert testimony can be excluded entirely if the methodology does not hold up. Fact testimony is challenged on credibility and personal knowledge, not on methodology. Those challenges are typically raised through a motion in limine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compensation. Paying an expert for their time is standard practice. Paying a fact witness for their testimony creates a serious credibility problem and may be improper."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where the Line Gets Blurry: The Treating Physician"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most common place attorneys run into trouble is with a treating physician in a personal injury case."
+    },
+    {
+      "type": "paragraph",
+      "text": "A treating doctor occupies both roles. When they testify about what they observed during treatment, the injuries they saw, the procedures they performed, the course of recovery, they are a fact witness. That testimony comes from personal knowledge gained in the course of care."
+    },
+    {
+      "type": "paragraph",
+      "text": "When that same doctor testifies about whether the accident caused the injury, or what future medical care the patient will need, or whether the injury is permanent, they have crossed into expert opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Courts treat this differently by jurisdiction and the rules have real teeth. In federal court, a treating physician who will offer opinions beyond the course of treatment generally requires disclosure, though the report requirement depends on whether they were retained for the litigation. Attorneys get caught by assuming the treating doctor is automatically a fact witness and then trying to elicit causation testimony at trial without having disclosed them properly."
+    },
+    {
+      "type": "paragraph",
+      "text": "The safe approach is to decide early what you need the treating physician to say. If it is limited to what they observed and did, they are a fact witness. If you need causation or future care opinions, treat them as an expert and disclose accordingly. For how qualification attaches to the specific opinion, see qualifying an expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Other Places the Line Blurs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Employees with specialized roles. A company's own engineer who investigated an incident may have both personal knowledge of the investigation and specialized expertise. The same disclosure question applies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigators and responders. A police officer, fire marshal, or accident investigator observed the scene. Their observations are fact testimony. Their conclusions about cause usually are not."
+    },
+    {
+      "type": "paragraph",
+      "text": "Business owners on damages. An owner testifying about their own lost profits is often permitted broader latitude than a typical lay witness, but the line varies by jurisdiction and by how the opinion is developed."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When a Witness Is Used in the Wrong Role"
+    },
+    {
+      "type": "paragraph",
+      "text": "Two failures show up repeatedly."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first is trying to get expert opinion out of a fact witness. Opposing counsel objects, the testimony is excluded, and the point the case depended on never reaches the jury. If the deadline to disclose an expert has passed, there is no fix."
+    },
+    {
+      "type": "paragraph",
+      "text": "The second is disclosing someone as an expert who is really a fact witness, which invites a challenge to qualifications and methodology they were never going to survive."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both are avoided by asking one question early: does this testimony require specialized knowledge? If yes, that person is an expert and needs to be treated as one from the start."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What This Means for Case Preparation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Map your witnesses by role before the disclosure deadline, not after. For each one, write down the specific testimony you need. Then check whether any of it requires specialized knowledge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where it does, you need a disclosed expert. Sometimes that is the treating physician properly disclosed. Sometimes it means retaining an independent expert because the treating physician will not opine on causation, is not comfortable testifying, or has a relationship with the patient that makes them vulnerable on cross. The consulting versus designated posture is covered in testifying vs consulting expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "That last situation is common in personal injury and medical malpractice. The treating doctor covers the facts of care and a retained expert covers causation, standard of care, and future damages. Two witnesses, two roles, no overlap problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is where Blackstorm Experts fits. Describe the opinion you need supported and we return two to three vetted candidates whose backgrounds match the specific issue, with CVs, fee schedules, and testimony history, typically within 48 to 72 hours."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "paragraph",
+      "text": "A fact witness testifies to what they observed. An expert witness testifies to what the evidence means. The category is determined by whether the testimony requires specialized knowledge, not by how credentialed the witness is."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most common failure is the treating physician who gets asked a causation question without having been disclosed as an expert. Decide the role early, disclose accordingly, and bring in a retained expert when the opinion you need goes beyond what anyone observed."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a case that needs a vetted expert, start a search with Blackstorm Experts and we will get you matched candidates fast."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "slug": "daubert-expert-witness",
+  "title": "Daubert Expert Witness: What the Standard Requires and How Experts Get Excluded",
+  "metaTitle": "Daubert Expert Witness: What the Standard Requires and How Experts Get Excluded",
+  "date": "2026-08-04",
+  "description": "What the Daubert standard requires of expert witnesses, the four reliability factors, how the 2023 amendment to Rule 702 changed the analysis, and what actually gets experts excluded.",
+  "keywords": [
+    "Daubert expert witness",
+    "Daubert standard",
+    "Daubert reliability factors",
+    "Rule 702 2023 amendment",
+    "analytical gap expert testimony",
+    "Daubert exclusion",
+    "expert witness reliability",
+    "Daubert vs Frye",
+    "how experts get excluded Daubert",
+    "screen expert for Daubert"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "fire-investigation"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Daubert is the reason an expert with impeccable credentials can be thrown out of a case. The standard does not ask whether the expert is impressive. It asks whether the method they used to reach their opinion is reliable, and whether they applied it properly to the facts here."
+    },
+    {
+      "type": "paragraph",
+      "text": "That distinction is where most exclusions happen. For how Frye asks a different question, see Frye vs Daubert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What Daubert Actually Requires"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under Daubert, the trial judge acts as a gatekeeper for expert testimony. Before a jury hears an expert opinion, the court has to be satisfied that the testimony rests on a reliable foundation and that it fits the issues in the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "The inquiry breaks into three parts. Is the expert qualified to give this opinion. Is the methodology behind the opinion reliable. Does the opinion actually help the jury resolve a question in dispute."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert can clear the first and fail the second. That is the most common way strong experts get excluded. Qualification itself is covered in qualifying an expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Four Reliability Factors"
+    },
+    {
+      "type": "paragraph",
+      "text": "Daubert identified factors courts consider when assessing methodology. They are not a checklist and no single one is required, but they shape how the analysis runs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether the theory or technique can be and has been tested. A method that produces falsifiable results is treated differently than one that rests on the expert's judgment alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether it has been subjected to peer review and publication. Not dispositive, but a technique that has never been examined by others in the field draws scrutiny."
+    },
+    {
+      "type": "paragraph",
+      "text": "The known or potential error rate, and whether standards exist controlling the technique's operation. This matters most in forensic and scientific disciplines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether the method has general acceptance in the relevant community. This is the old Frye test, which survives under Daubert as one factor rather than the whole inquiry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Courts apply these flexibly. In fields where the expertise is experience-based rather than scientific, such as construction practices or accident investigation, the factors are adapted rather than applied literally."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The 2023 Amendment Changed the Analysis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal Rule of Evidence 702 was amended at the end of 2023, and the change matters more than most attorneys realize."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amendment clarified two things. First, the proponent of the expert must establish admissibility by a preponderance of the evidence. Courts had been inconsistent about this, with some treating reliability questions as going to weight rather than admissibility and letting the jury sort it out."
+    },
+    {
+      "type": "paragraph",
+      "text": "Second, the expert's opinion must reflect a reliable application of the methodology to the facts of the case. This closed a gap where an expert could use an accepted method but overreach in what they concluded from it."
+    },
+    {
+      "type": "paragraph",
+      "text": "The practical effect is that the argument that reliability goes to weight and not admissibility is much weaker than it was. Motions that would have been denied a few years ago are being granted. Those challenges are typically raised through a motion in limine."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where Daubert Applies"
+    },
+    {
+      "type": "paragraph",
+      "text": "Daubert governs in federal court and in the majority of states that have adopted it. A minority still apply Frye, which asks only whether the methodology has general acceptance in the relevant field."
+    },
+    {
+      "type": "paragraph",
+      "text": "The distinction matters when selecting an expert. Frye is a narrower inquiry focused on acceptance, so an expert using a well-established method faces less scrutiny. Daubert examines the application, so an expert can be challenged even when the underlying method is beyond dispute."
+    },
+    {
+      "type": "paragraph",
+      "text": "Check which standard governs before retention, not after. A few states also apply their own hybrid versions, and some apply different standards in criminal and civil cases."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What Actually Gets Experts Excluded"
+    },
+    {
+      "type": "paragraph",
+      "text": "In practice, exclusions cluster around a handful of failures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The analytical gap. The expert has data and a conclusion, but the reasoning connecting them is thin. Courts describe this as the opinion being connected to the data only by the expert's say-so. This is the single most common ground."
+    },
+    {
+      "type": "paragraph",
+      "text": "Methodology developed for litigation. A technique the expert created for this case, or uses only when testifying, is treated with suspicion. Methods used in the expert's regular professional work are far more defensible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Insufficient factual basis. The expert did not review the materials necessary to support the opinion, or relied on assumptions that the record does not support."
+    },
+    {
+      "type": "paragraph",
+      "text": "Overreach beyond the discipline. A qualified expert opining on something outside their field, often as a small piece of a broader opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Failure to account for obvious alternatives. In causation opinions especially, an expert who does not address other plausible causes has a reliability problem."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to Screen for This Before You Retain"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Daubert analysis is easier to pass than to fix, so screening at retention is the leverage point."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask what methodology the expert will use and whether they use it in their regular professional work. If the answer is a technique specific to litigation, that is a flag."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask what materials they need to review to support the opinion, and make sure they get them. Opinions formed on incomplete records are vulnerable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask whether they have ever been excluded or limited under Daubert, and get specifics if so. A prior exclusion is not disqualifying but you need to know what happened and why. Those same issues surface in voir dire expert witness challenges at trial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask how they will address the alternative explanations. An expert who has already thought about the competing causes is a better witness and a harder target."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask them to explain the reasoning from data to conclusion in plain terms. If the chain has a step that comes down to professional judgment with nothing underneath it, that is the analytical gap and opposing counsel will find it. How to compare expert witness fees and qualifications should treat that reliability posture as part of the fit analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "That screening is the gap Blackstorm Experts fills. Describe the case and the opinion you need supported, and we return two to three vetted candidates whose backgrounds match the specific issue, with CVs, fee schedules, and testimony history, typically within 48 to 72 hours."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "paragraph",
+      "text": "Daubert asks whether the method is reliable and whether it was applied properly here, not whether the expert is well credentialed. The most common exclusion ground is the analytical gap between the data and the conclusion, and the 2023 amendment to Rule 702 made those challenges meaningfully stronger by confirming that reliability is an admissibility question the proponent must establish."
+    },
+    {
+      "type": "paragraph",
+      "text": "Screen at retention by asking about methodology, materials reviewed, alternative explanations, and prior exclusions. Those four questions surface most Daubert problems while you can still do something about them."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a case that needs a vetted expert, start a search with Blackstorm Experts and we will get you matched candidates fast."
+    }
+  ]
+}
