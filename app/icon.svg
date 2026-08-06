@@ -1,8 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-  <!-- Black background -->
-  <rect width="32" height="32" rx="4" fill="#000000"/>
-  <!-- Cloud: three bumps merging into flat bottom -->
-  <path d="M6 20 L6 18 A4 4 0 0 1 10 14 A5 5 0 0 1 20 12 A4 4 0 0 1 26 16 A3 3 0 0 1 26 20 Z" fill="white"/>
-  <!-- Lightning bolt dropping from cloud bottom -->
-  <path d="M17 20 L13 26 L17 26 L15 31 L21 24 L17 24 Z" fill="white"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- Full-bleed square so Google's circular crop becomes a solid black disk (no white corner gaps). -->
+  <rect width="48" height="48" fill="#000000"/>
+  <!-- Cloud + bolt sized for the circular safe zone (~80% of diameter). -->
+  <g transform="translate(24 23)">
+    <path
+      fill="#ffffff"
+      d="M-16.5 4.5 V1.8 A6.8 6.8 0 0 1 -9.2 -4.8 A8.6 8.6 0 0 1 7.5 -7.5 A6.8 6.8 0 0 1 17 0.2 A5.2 5.2 0 0 1 17 4.5 Z"
+    />
+    <path
+      fill="#ffffff"
+      d="M1.2 4.5 L-5.2 14.2 H1 L-2.2 21.5 L9.5 11.2 H3.5 L6.2 4.5 Z"
+    />
+  </g>
 </svg>
