@@ -1,5 +1,7 @@
 export type ExpertSpecialty = {
   slug: string
+  /** YYYY-MM-DD; bump when this specialty's page content meaningfully changes. */
+  lastModified: string
   name: string
   metaTitle: string
   metaDescription: string
@@ -13,6 +15,7 @@ export type ExpertSpecialty = {
 export const SPECIALTIES: ExpertSpecialty[] = [
   {
     slug: 'accident-reconstruction',
+    lastModified: '2026-04-01',
     name: 'Accident Reconstruction',
     metaTitle: 'Accident Reconstruction Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -43,6 +46,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'anesthesiology',
+    lastModified: '2026-04-01',
     name: 'Anesthesiology',
     metaTitle: 'Anesthesiology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -74,6 +78,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'biomechanics',
+    lastModified: '2026-04-01',
     name: 'Biomechanics',
     metaTitle: 'Biomechanics Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -104,6 +109,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'cardiology',
+    lastModified: '2026-04-01',
     name: 'Cardiology',
     metaTitle: 'Cardiology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -134,6 +140,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'cardiothoracic-surgery',
+    lastModified: '2026-04-01',
     name: 'Cardiothoracic Surgery',
     metaTitle: 'Cardiothoracic Surgery Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -164,6 +171,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'civil-engineering',
+    lastModified: '2026-04-01',
     name: 'Civil Engineering',
     metaTitle: 'Civil Engineering Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -194,6 +202,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'construction-defect',
+    lastModified: '2026-04-01',
     name: 'Construction Defect',
     metaTitle: 'Construction Defect Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -224,6 +233,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'dental-oral-surgery',
+    lastModified: '2026-04-01',
     name: 'Dental & Oral Surgery',
     metaTitle: 'Dental & Oral Surgery Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -254,6 +264,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'dermatology',
+    lastModified: '2026-04-01',
     name: 'Dermatology',
     metaTitle: 'Dermatology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -284,6 +295,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'electrical-engineering',
+    lastModified: '2026-04-01',
     name: 'Electrical Engineering',
     metaTitle: 'Electrical Engineering Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -314,6 +326,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'emergency-medicine',
+    lastModified: '2026-04-01',
     name: 'Emergency Medicine',
     metaTitle: 'Emergency Medicine Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -344,6 +357,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'employment-hr',
+    lastModified: '2026-04-01',
     name: 'Employment & Human Resources',
     metaTitle: 'Employment & HR Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -374,6 +388,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'endocrinology',
+    lastModified: '2026-04-01',
     name: 'Endocrinology',
     metaTitle: 'Endocrinology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -404,6 +419,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'environmental',
+    lastModified: '2026-04-01',
     name: 'Environmental',
     metaTitle: 'Environmental Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -434,6 +450,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'fire-investigation',
+    lastModified: '2026-04-01',
     name: 'Fire Investigation',
     metaTitle: 'Fire Investigation Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -464,6 +481,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'forensic-accounting',
+    lastModified: '2026-04-01',
     name: 'Forensic Accounting',
     metaTitle: 'Forensic Accounting Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -494,6 +512,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'forensic-economics',
+    lastModified: '2026-04-01',
     name: 'Forensic Economics',
     metaTitle: 'Forensic Economics Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -524,6 +543,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'gastroenterology',
+    lastModified: '2026-04-01',
     name: 'Gastroenterology',
     metaTitle: 'Gastroenterology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -554,6 +574,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'general-surgery',
+    lastModified: '2026-04-01',
     name: 'General Surgery',
     metaTitle: 'General Surgery Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -584,6 +605,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'hematology',
+    lastModified: '2026-04-01',
     name: 'Hematology',
     metaTitle: 'Hematology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -614,6 +636,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'human-factors',
+    lastModified: '2026-04-01',
     name: 'Human Factors',
     metaTitle: 'Human Factors Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -644,6 +667,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'infectious-disease',
+    lastModified: '2026-04-01',
     name: 'Infectious Disease',
     metaTitle: 'Infectious Disease Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -674,6 +698,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'intellectual-property',
+    lastModified: '2026-04-01',
     name: 'Intellectual Property',
     metaTitle: 'Intellectual Property Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -704,6 +729,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'internal-medicine',
+    lastModified: '2026-04-01',
     name: 'Internal Medicine',
     metaTitle: 'Internal Medicine Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -734,6 +760,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'life-care-planning',
+    lastModified: '2026-04-01',
     name: 'Life Care Planning',
     metaTitle: 'Life Care Planning Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -764,6 +791,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'maritime-admiralty',
+    lastModified: '2026-04-01',
     name: 'Maritime & Admiralty',
     metaTitle: 'Maritime Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -794,6 +822,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'medical-device',
+    lastModified: '2026-04-01',
     name: 'Medical Device',
     metaTitle: 'Medical Device Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -824,6 +853,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'medical-malpractice',
+    lastModified: '2026-04-01',
     name: 'Medical Malpractice (Nursing Standard of Care)',
     metaTitle: 'Nursing Standard of Care Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -855,6 +885,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'nephrology',
+    lastModified: '2026-04-01',
     name: 'Nephrology',
     metaTitle: 'Nephrology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -885,6 +916,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'neurology',
+    lastModified: '2026-04-01',
     name: 'Neurology',
     metaTitle: 'Neurology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -916,6 +948,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'nursing-home-elder-abuse',
+    lastModified: '2026-04-01',
     name: 'Nursing Home & Elder Abuse',
     metaTitle: 'Nursing Home & Elder Abuse Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -946,6 +979,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'gynecology-obstetrics',
+    lastModified: '2026-04-01',
     name: 'OB/GYN (Obstetrics & Gynecology)',
     metaTitle: 'OB/GYN Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -976,6 +1010,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'occupational-medicine',
+    lastModified: '2026-04-01',
     name: 'Occupational Medicine',
     metaTitle: 'Occupational Medicine Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1006,6 +1041,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'oncology',
+    lastModified: '2026-04-01',
     name: 'Oncology',
     metaTitle: 'Oncology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1036,6 +1072,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'ophthalmology',
+    lastModified: '2026-04-01',
     name: 'Ophthalmology',
     metaTitle: 'Ophthalmology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1066,6 +1103,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'orthopedic-surgery',
+    lastModified: '2026-04-01',
     name: 'Orthopedic Surgery',
     metaTitle: 'Orthopedic Surgery Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1098,6 +1136,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'pain-management',
+    lastModified: '2026-04-01',
     name: 'Pain Management',
     metaTitle: 'Pain Management Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1128,6 +1167,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'pathology',
+    lastModified: '2026-04-01',
     name: 'Pathology',
     metaTitle: 'Pathology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1158,6 +1198,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'pediatrics',
+    lastModified: '2026-04-01',
     name: 'Pediatrics',
     metaTitle: 'Pediatrics Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1188,6 +1229,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'personal-injury',
+    lastModified: '2026-04-01',
     name: 'Personal Injury',
     metaTitle: 'Personal Injury Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1218,6 +1260,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'pharmacology',
+    lastModified: '2026-04-01',
     name: 'Pharmacology & Pharmacy',
     metaTitle: 'Pharmacology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1248,6 +1291,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'physical-medicine-rehabilitation',
+    lastModified: '2026-04-01',
     name: 'Physical Medicine & Rehabilitation',
     metaTitle: 'PM&R Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1278,6 +1322,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'physical-therapy',
+    lastModified: '2026-04-01',
     name: 'Physical Therapy',
     metaTitle: 'Physical Therapy Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1308,6 +1353,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'plastic-surgery',
+    lastModified: '2026-04-01',
     name: 'Plastic Surgery',
     metaTitle: 'Plastic Surgery Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1338,6 +1384,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'podiatry',
+    lastModified: '2026-04-01',
     name: 'Podiatry',
     metaTitle: 'Podiatry Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1368,6 +1415,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'premises-liability-security',
+    lastModified: '2026-04-01',
     name: 'Premises Liability & Security',
     metaTitle: 'Premises Liability Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1398,6 +1446,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'products-liability-engineering',
+    lastModified: '2026-04-01',
     name: 'Products Liability Engineering',
     metaTitle: 'Products Liability Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1428,6 +1477,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'psychiatry',
+    lastModified: '2026-04-01',
     name: 'Psychiatry',
     metaTitle: 'Psychiatry Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1458,6 +1508,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'pulmonology',
+    lastModified: '2026-04-01',
     name: 'Pulmonology',
     metaTitle: 'Pulmonology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1488,6 +1539,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'radiology',
+    lastModified: '2026-04-01',
     name: 'Radiology',
     metaTitle: 'Radiology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1518,6 +1570,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'real-estate',
+    lastModified: '2026-04-01',
     name: 'Real Estate',
     metaTitle: 'Real Estate Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1548,6 +1601,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'rheumatology',
+    lastModified: '2026-04-01',
     name: 'Rheumatology',
     metaTitle: 'Rheumatology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1578,6 +1632,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'structural-engineering',
+    lastModified: '2026-04-01',
     name: 'Structural Engineering',
     metaTitle: 'Structural Engineering Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1608,6 +1663,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'toxicology',
+    lastModified: '2026-04-01',
     name: 'Toxicology',
     metaTitle: 'Toxicology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1638,6 +1694,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'trucking-transportation',
+    lastModified: '2026-04-01',
     name: 'Trucking & Transportation',
     metaTitle: 'Trucking Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1668,6 +1725,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'urology',
+    lastModified: '2026-04-01',
     name: 'Urology',
     metaTitle: 'Urology Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1698,6 +1756,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'vascular-surgery',
+    lastModified: '2026-04-01',
     name: 'Vascular Surgery',
     metaTitle: 'Vascular Surgery Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1728,6 +1787,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'vocational-rehabilitation',
+    lastModified: '2026-04-01',
     name: 'Vocational Rehabilitation',
     metaTitle: 'Vocational Rehabilitation Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1758,6 +1818,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'workers-compensation',
+    lastModified: '2026-04-01',
     name: 'Workers Compensation',
     metaTitle: 'Workers Compensation Expert Witness | Blackstorm Experts',
     metaDescription:
@@ -1788,6 +1849,7 @@ export const SPECIALTIES: ExpertSpecialty[] = [
   },
   {
     slug: 'wrongful-death',
+    lastModified: '2026-04-01',
     name: 'Wrongful Death',
     metaTitle: 'Wrongful Death Expert Witness | Blackstorm Experts',
     metaDescription:
