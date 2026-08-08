@@ -1,0 +1,497 @@
+{
+  "slug": "what-does-an-expert-witness-do",
+  "title": "What Does an Expert Witness Do?",
+  "metaTitle": "What Does an Expert Witness Do? Roles, Review, and Testimony",
+  "date": "2026-08-08",
+  "description": "Learn what an expert witness does, how experts assist attorneys, what they review, when they testify, and the difference between consulting and testifying experts.",
+  "keywords": [
+    "what does an expert witness do",
+    "expert witness role",
+    "expert witness duties",
+    "consulting vs testifying expert",
+    "expert witness report",
+    "expert witness deposition",
+    "expert witness testimony",
+    "expert witness review evidence",
+    "standard of care expert",
+    "expert witness causation"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "accident-reconstruction"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "An expert witness helps the court understand technical, scientific, medical, financial, or other specialized issues that are outside ordinary knowledge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike a fact witness, an expert witness may offer opinions based on specialized education, training, skill, or experience. Depending on the case, the expert may review records, inspect evidence, perform testing or calculations, prepare a written report, assist attorneys with case strategy, give deposition testimony, and testify at trial. For how that role differs from ordinary witnesses, see expert witness vs fact witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exact role depends on both the expert's discipline and the legal issues in dispute. For a broader definition and when a case needs one, see what is an expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Experts Explain Specialized Issues"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many lawsuits involve questions that cannot be answered reliably through ordinary experience."
+    },
+    {
+      "type": "paragraph",
+      "text": "A medical malpractice case may require a physician to explain whether another physician met the applicable standard of care. A truck accident may require an accident reconstructionist to determine vehicle speed and movement. A construction case may require an engineer to evaluate whether a structural failure resulted from design, construction, maintenance, or another cause."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert's role is to take a specialized issue and explain it in a way that judges, attorneys, and jurors can understand."
+    },
+    {
+      "type": "paragraph",
+      "text": "That does not mean simplifying the issue until important details disappear. A strong expert can explain technical concepts accurately without making the testimony unnecessarily complicated."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Witnesses Review Evidence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most expert work begins long before testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may review medical records, photographs, videos, contracts, engineering drawings, inspection reports, deposition transcripts, financial records, laboratory results, policies, or other evidence relevant to the expert's field."
+    },
+    {
+      "type": "paragraph",
+      "text": "What gets reviewed depends on the assignment."
+    },
+    {
+      "type": "paragraph",
+      "text": "An orthopedic surgeon evaluating an alleged surgical injury needs different materials from a forensic accountant tracing business losses. An electrical engineer investigating a fire needs different evidence from a trucking safety expert reviewing driver qualification and carrier records."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert should focus on the evidence necessary to answer the specific technical question presented."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Experts Form Independent Opinions"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert witness is not supposed to simply repeat the attorney's theory of the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert reviews the relevant evidence and forms opinions within the expert's area of expertise."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes those opinions support the retaining attorney's position. Sometimes the evidence creates significant weaknesses. A useful expert identifies both."
+    },
+    {
+      "type": "paragraph",
+      "text": "That independence matters because expert testimony can be challenged. Opinions that appear result-driven, unsupported, or outside the expert's actual expertise may be less persuasive and more vulnerable to exclusion."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Experts Help Attorneys Understand a Case"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every expert assignment begins with testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys may retain an expert early to determine whether a technical theory is viable at all."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, a medical expert might review a potential malpractice claim and conclude that the care was reasonable. An engineer may determine that a structural defect did not cause the claimed damage. A biomechanical expert may identify problems with an alleged injury mechanism."
+    },
+    {
+      "type": "paragraph",
+      "text": "This early review can help attorneys decide which claims to pursue, which defenses are stronger, what additional evidence is needed, and which other experts may be required."
+    },
+    {
+      "type": "paragraph",
+      "text": "In that role, the expert is often functioning as a consultant even if the expert later becomes a testifying witness. The discovery and strategy differences are covered in testifying vs consulting expert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Witnesses Identify the Standard of Care"
+    },
+    {
+      "type": "paragraph",
+      "text": "In professional negligence cases, experts often help establish the applicable standard of care."
+    },
+    {
+      "type": "paragraph",
+      "text": "A physician may explain what a reasonably competent physician in the same specialty would have done under similar circumstances. An engineer may address accepted professional engineering practice. A trucking safety expert may evaluate commercial transportation practices and applicable regulations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert then compares that standard with the conduct at issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is different from simply saying that the outcome was bad."
+    },
+    {
+      "type": "paragraph",
+      "text": "A complication, injury, or financial loss does not necessarily mean someone violated the standard of care. The expert must evaluate the conduct itself."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Experts Analyze Causation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many cases require more than identifying a mistake."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may also need to determine whether the alleged mistake actually caused the claimed harm."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a delayed diagnosis case, for example, one physician might testify that the diagnosis should have been made earlier. An oncologist may then need to address whether the delay changed the patient's treatment or prognosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "In an accident case, an engineer may determine how the collision occurred while a physician addresses whether the event caused the claimed medical injury."
+    },
+    {
+      "type": "paragraph",
+      "text": "Causation often requires its own expert analysis because proving that something went wrong is not the same as proving that it caused the damages being claimed. When those roles diverge, see when your case needs two expert witnesses."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Experts May Inspect Physical Evidence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some expert assignments require direct inspection."
+    },
+    {
+      "type": "paragraph",
+      "text": "An engineer may visit a building, roadway, machine, electrical system, vehicle, or accident scene. A product expert may inspect a failed component. A flooring expert may evaluate a walking surface. A medical device expert may examine an explanted device."
+    },
+    {
+      "type": "paragraph",
+      "text": "The inspection may include measurements, photography, testing, documentation, or collection of data."
+    },
+    {
+      "type": "paragraph",
+      "text": "Timing can matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "A scene may be repaired, a vehicle may be sold, or equipment may be altered after litigation begins. Preserving evidence early can therefore be important when the physical condition itself is central to the case."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Experts May Perform Testing or Calculations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some opinions require more than document review."
+    },
+    {
+      "type": "paragraph",
+      "text": "An accident reconstructionist may calculate speed or vehicle movement. An engineer may analyze structural loads. A forensic accountant may calculate damages. A toxicologist may evaluate dose and exposure. A biomechanical expert may analyze forces acting on the human body."
+    },
+    {
+      "type": "paragraph",
+      "text": "Testing and calculations should use methods appropriate to the field and the available evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert should also be able to explain the assumptions used."
+    },
+    {
+      "type": "paragraph",
+      "text": "An opinion can appear precise because it contains equations or numerical results while still being unreliable if the underlying inputs are unsupported."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Reports"
+    },
+    {
+      "type": "paragraph",
+      "text": "In many cases, a testifying expert prepares a written report."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exact disclosure requirements depend on the court, jurisdiction, and type of case, but an expert report commonly explains the opinions the expert expects to offer and the basis for those opinions."
+    },
+    {
+      "type": "paragraph",
+      "text": "It may identify the evidence reviewed, methodology used, relevant qualifications, and conclusions reached. Disclosure timing and contents are covered in the Rule 26 pre-retention checklist."
+    },
+    {
+      "type": "paragraph",
+      "text": "A strong report does more than state an ultimate opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "It should allow the reader to understand how the expert moved from the evidence to the conclusion."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Depositions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts are frequently questioned under oath before trial."
+    },
+    {
+      "type": "paragraph",
+      "text": "During a deposition, opposing counsel may explore the expert's qualifications, methodology, assumptions, prior testimony, compensation, publications, and opinions in the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may also be asked about evidence that appears inconsistent with the opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depositions can reveal whether an expert understands the case beyond the written report. Practical preparation points are covered in expert witness deposition preparation."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert who can clearly explain why a conclusion follows from the evidence is generally better positioned than one who relies heavily on memorized language or broad generalizations."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trial Testimony"
+    },
+    {
+      "type": "paragraph",
+      "text": "At trial, the expert presents specialized opinions to the judge or jury."
+    },
+    {
+      "type": "paragraph",
+      "text": "The retaining attorney typically conducts direct examination first. Opposing counsel may then cross-examine the expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may use photographs, diagrams, medical imaging, models, calculations, timelines, or other demonstrative material to help explain the opinion. Related courtroom issues are covered in expert testimony in court."
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal is not simply to sound authoritative."
+    },
+    {
+      "type": "paragraph",
+      "text": "Effective expert testimony is understandable, grounded in evidence, and responsive to the actual question being asked."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Experts Can Be Challenged"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert testimony is not automatically admissible because the witness has impressive credentials."
+    },
+    {
+      "type": "paragraph",
+      "text": "Courts may examine whether the expert is qualified to offer the particular opinion and whether the methodology supporting the opinion is sufficiently reliable."
+    },
+    {
+      "type": "paragraph",
+      "text": "In federal court and many state courts, challenges may involve principles associated with the Daubert standard. Other jurisdictions may apply different standards or procedural rules. For how those challenges work in practice, see Daubert expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert who is qualified in one area may still be unqualified to testify about another."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, being a physician does not automatically make someone qualified to testify about every medical specialty."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qualifications Depend on the Issue"
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no single credential that makes someone an expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "The required background depends on the subject of the testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "A board-certified cardiologist may be well suited to a myocardial infarction case. A civil engineer may be appropriate for a roadway design dispute. A former fleet safety director may be useful in a trucking safety case. A forensic economist may evaluate lost earnings."
+    },
+    {
+      "type": "paragraph",
+      "text": "The important question is whether the expert's actual knowledge and experience match the issue the case requires the expert to explain. For how that analysis works in practice, see qualifying an expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "A prestigious title is less useful if it is unrelated to the disputed subject."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Consulting Experts and Testifying Experts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every expert retained by an attorney will testify."
+    },
+    {
+      "type": "paragraph",
+      "text": "A consulting expert may help the legal team understand the technical issues, evaluate another expert's work, prepare questions for deposition, or assess whether a case theory is defensible."
+    },
+    {
+      "type": "paragraph",
+      "text": "A testifying expert is expected to offer opinions that may be disclosed to the opposing side and presented in deposition or at trial."
+    },
+    {
+      "type": "paragraph",
+      "text": "The distinction can have important procedural consequences."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys may therefore retain experts initially for consultation and decide later whether a particular expert should become a testifying witness. The fuller strategy discussion is in testifying vs consulting expert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Plaintiff and Defense Experts Perform the Same Core Analysis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert witnesses work for both plaintiffs and defendants."
+    },
+    {
+      "type": "paragraph",
+      "text": "The technical question should not change because of which side retained the expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "A defense radiologist reviewing an allegedly missed cancer should evaluate the imaging using the same professional principles that a plaintiff radiologist should use. A plaintiff engineer analyzing a building failure should use the same engineering methodology expected of a defense engineer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The conclusions may differ because experts interpret evidence differently, but the underlying professional analysis should remain independent of the retaining side."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Experts Are Paid for Their Time"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert witnesses are generally compensated for their professional time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fees may apply to record review, research, inspections, conferences, report preparation, deposition, travel, and trial testimony. Fee structure basics are covered in expert witness fee structures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Payment does not mean the expert is being paid for a particular opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert's compensation should be for the work performed regardless of whether the ultimate conclusion helps or hurts the retaining party."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contingency arrangements tied to the outcome of litigation can raise serious ethical and credibility concerns."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "An Expert Witness Is Not an Advocate"
+    },
+    {
+      "type": "paragraph",
+      "text": "The attorney is the advocate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert's job is different."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert should explain the specialized evidence and provide opinions within the expert's field. The expert should not stretch beyond that expertise simply to help one side win."
+    },
+    {
+      "type": "paragraph",
+      "text": "That distinction often makes the expert more persuasive."
+    },
+    {
+      "type": "paragraph",
+      "text": "A witness who acknowledges limitations, unfavorable facts, and legitimate uncertainty can appear more credible than one who attempts to defend every aspect of the retaining party's position."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What Makes an Expert Witness Useful"
+    },
+    {
+      "type": "paragraph",
+      "text": "The best expert is not necessarily the person with the longest CV."
+    },
+    {
+      "type": "paragraph",
+      "text": "A useful expert has the right substantive experience, understands the specific issue, can analyze the available evidence, and can explain the opinion clearly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Communication becomes especially important once testimony begins."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert may understand an extraordinarily complex subject but still struggle as a witness if the explanation cannot be followed by a non-specialist audience."
+    },
+    {
+      "type": "paragraph",
+      "text": "The strongest experts combine technical credibility with the ability to teach."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Expert's Role From Beginning to End"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert witness may become involved at almost any stage of a case."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early on, the expert may help determine whether a claim or defense has technical merit. During discovery, the expert may identify missing records, inspect evidence, and respond to opposing opinions. Later, the expert may prepare a report, sit for deposition, assist with trial preparation, and ultimately testify."
+    },
+    {
+      "type": "paragraph",
+      "text": "The role can therefore extend far beyond appearing in a courtroom."
+    },
+    {
+      "type": "paragraph",
+      "text": "At its core, however, the job remains the same: use specialized expertise to evaluate evidence, form reliable opinions, and explain those opinions clearly enough that the legal system can make informed decisions. If you need a vetted expert for a pending matter, start an expert witness search with Blackstorm Experts."
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+{
+  "slug": "when-do-attorneys-need-an-expert-witness",
+  "title": "When Do Attorneys Need an Expert Witness?",
+  "metaTitle": "When Do Attorneys Need an Expert Witness? Common Litigation Scenarios",
+  "date": "2026-08-08",
+  "description": "Learn when attorneys need expert witnesses, what issues typically require expert testimony, and how to tell when specialized knowledge is necessary in litigation.",
+  "keywords": [
+    "when do attorneys need an expert witness",
+    "when do you need an expert witness",
+    "do I need an expert witness",
+    "expert witness when required",
+    "cases that need expert witnesses",
+    "standard of care expert witness",
+    "causation expert witness",
+    "expert witness malpractice",
+    "when is expert testimony required",
+    "expert witness litigation strategy"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "accident-reconstruction"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Attorneys need an expert witness when a case turns on a technical, scientific, medical, financial, engineering, or other specialized issue that an ordinary judge or juror cannot reliably evaluate without additional expertise."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may be needed to establish the standard of care, explain causation, reconstruct an accident, calculate damages, interpret specialized records, evaluate a product failure, or respond to an opposing expert. For what that role involves in practice, see what does an expert witness do."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every lawsuit requires one."
+    },
+    {
+      "type": "paragraph",
+      "text": "The practical question is whether the case contains an issue that cannot be proved or defended effectively through ordinary fact witnesses and documents alone. Related role distinctions are covered in expert witness vs fact witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When the Standard of Care Is Disputed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Professional negligence cases frequently require expert testimony because the factfinder needs help understanding what a competent professional should have done under similar circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical malpractice is the clearest example."
+    },
+    {
+      "type": "paragraph",
+      "text": "A jury generally cannot determine on its own whether an emergency physician should have ordered additional testing, whether a surgeon used an appropriate technique, or whether a nurse responded appropriately to a deteriorating patient. Related emergency care issues are covered on our emergency room malpractice expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "A qualified medical expert can explain the applicable standard of care and compare that standard with what happened."
+    },
+    {
+      "type": "paragraph",
+      "text": "The same concept can apply to engineering, architecture, accounting, and other professional negligence cases."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When Medical Causation Is Disputed"
+    },
+    {
+      "type": "paragraph",
+      "text": "A bad outcome does not automatically establish that negligence caused the injury."
+    },
+    {
+      "type": "paragraph",
+      "text": "A patient may already have serious disease. A plaintiff may have degenerative spine findings before an accident. A cancer may have already metastasized before an alleged diagnostic delay. Related delay-of-diagnosis issues are covered on our delayed diagnosis expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "These are causation questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "A medical expert may need to determine whether the event or alleged negligence actually caused a new injury, aggravated an existing condition, accelerated disease, or changed the patient's prognosis. Related mechanism and medical questions are covered on our injury causation expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "In many cases, proving a breach of the standard of care and proving causation require different specialists. When those roles diverge, see when your case needs two expert witnesses."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When the Injury Itself Is Technically Complex"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some injuries can be understood from ordinary medical records."
+    },
+    {
+      "type": "paragraph",
+      "text": "Others raise questions requiring specialized interpretation."
+    },
+    {
+      "type": "paragraph",
+      "text": "A traumatic brain injury case may involve neurology, neuropsychology, radiology, or biomechanics. A spinal cord injury may involve neurosurgery, physical medicine and rehabilitation, life-care planning, and future medical needs. Related TBI issues are covered on our TBI expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "The more medically complex the claimed injury becomes, the more likely expert testimony will be necessary to explain diagnosis, mechanism, treatment, prognosis, or future impairment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When an Accident Must Be Reconstructed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes no witness can reliably explain exactly how an accident happened."
+    },
+    {
+      "type": "paragraph",
+      "text": "An accident reconstruction expert can analyze physical evidence to determine speed, vehicle movement, impact configuration, braking, timing, or collision sequence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may use photographs, roadway evidence, event data recorder information, surveillance video, vehicle damage, measurements, and mathematical analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "This can be especially important when witnesses give conflicting accounts or when no one had a clear view of the entire event."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When Commercial Trucking Practices Matter"
+    },
+    {
+      "type": "paragraph",
+      "text": "A truck accident does not automatically require a trucking expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "But one may be necessary when the dispute involves commercial driving practices, driver qualification, hours of service, vehicle inspection, carrier supervision, maintenance systems, cargo securement, or other trucking-specific issues. Related collision mechanics are covered on our truck accident expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "An ordinary motorist is not necessarily equipped to explain how a commercial fleet should operate."
+    },
+    {
+      "type": "paragraph",
+      "text": "A trucking safety expert can provide the industry context needed to evaluate driver and carrier conduct. Related fleet and carrier issues are covered on our trucking safety expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "Accident reconstruction may still be handled separately if vehicle movement itself is disputed."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When a Product Fails"
+    },
+    {
+      "type": "paragraph",
+      "text": "Product liability cases frequently involve technical questions about design, manufacture, warnings, materials, or failure mechanisms."
+    },
+    {
+      "type": "paragraph",
+      "text": "An engineer may need to determine why a machine, component, electrical system, medical device, vehicle part, or consumer product failed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may inspect the product, perform testing, review drawings, analyze materials, or evaluate alternative designs."
+    },
+    {
+      "type": "paragraph",
+      "text": "The central question is often not simply whether the product broke."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is whether a defect existed and whether that defect caused the injury."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When a Building or Structure Is Involved"
+    },
+    {
+      "type": "paragraph",
+      "text": "Construction and property disputes often require specialized expertise because defects are not always visible or intuitive."
+    },
+    {
+      "type": "paragraph",
+      "text": "A structural engineer may evaluate cracking, collapse, excessive deflection, foundation movement, or load paths. Related structural issues are covered on our building collapse expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "A geotechnical engineer may address soil and settlement. An architect may evaluate design and building-code issues. A construction expert may address workmanship or sequencing. Related foundation issues are covered on our foundation failure expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "The correct expert depends on the alleged failure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Using a general construction expert for a highly specialized structural or geotechnical issue can create qualification problems."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When a Fire Has an Uncertain Cause"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fire cases often require expert investigation because severe damage can obscure the sequence that produced the event."
+    },
+    {
+      "type": "paragraph",
+      "text": "An origin-and-cause investigator may determine where the fire began and evaluate possible ignition sources."
+    },
+    {
+      "type": "paragraph",
+      "text": "An electrical engineer may be necessary when the theory involves wiring, equipment, panels, appliances, or electrical arcing. Related fire investigation issues are covered on our electrical fire expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "A mechanical engineer or product specialist may become involved when equipment failure is alleged."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert disciplines should follow the actual fire theory rather than simply retaining someone generally described as a fire expert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When a Slip or Trip Condition Is Disputed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Premises liability cases can require expert testimony when the physical condition is not obvious."
+    },
+    {
+      "type": "paragraph",
+      "text": "A walkway expert may evaluate slip resistance. An engineer may measure elevation changes or slopes. A human factors expert may address visibility and perception. A lighting expert may analyze illumination. Related premises issues are covered on our slip and fall expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert is less likely to be necessary when the condition and its significance can be understood easily from ordinary evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The need increases when technical standards, testing, measurements, or specialized safety principles become central."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When Biomechanics Matters"
+    },
+    {
+      "type": "paragraph",
+      "text": "Biomechanical experts can be useful when the dispute involves how forces acted on the human body."
+    },
+    {
+      "type": "paragraph",
+      "text": "A case may involve whether an occupant moved in a particular way during a collision, whether a fall mechanism is consistent with an injury, or whether a specific body structure was likely loaded. Related low-speed collision issues are covered on our low-speed impact expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "Biomechanics should not automatically replace medical causation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The biomechanical expert may explain physical forces and movement, while a physician addresses diagnosis and whether the event caused the patient's actual medical condition."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When Financial Damages Need to Be Calculated"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some damages cannot be established simply by presenting invoices."
+    },
+    {
+      "type": "paragraph",
+      "text": "A forensic accountant may analyze lost profits, business interruption, fraud, asset tracing, or complex financial transactions."
+    },
+    {
+      "type": "paragraph",
+      "text": "An economist may calculate future lost earnings, present value, or other long-term economic losses."
+    },
+    {
+      "type": "paragraph",
+      "text": "In catastrophic injury cases, a life-care planner may estimate future medical and support needs, while an economist determines the present value of those projected costs."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert should match the type of financial question rather than treating all damages calculations as interchangeable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When Future Medical Needs Are Claimed"
+    },
+    {
+      "type": "paragraph",
+      "text": "A plaintiff with permanent or catastrophic injuries may claim decades of future care."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those projections can involve surgeries, therapy, medication, equipment, attendant care, home modifications, transportation, and other expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "A life-care planner may organize and price those future needs. Related life-care issues are covered on our life care planner expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical specialists may still be required to establish that the projected treatment is medically necessary."
+    },
+    {
+      "type": "paragraph",
+      "text": "A life-care plan is strongest when its underlying recommendations are supported by appropriate medical evidence rather than assumptions about what care might be useful."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When Lost Earning Capacity Is Disputed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Past lost wages may sometimes be established through employment and payroll records."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future earning capacity can be more complicated."
+    },
+    {
+      "type": "paragraph",
+      "text": "A vocational rehabilitation expert may evaluate whether an injury changes the person's ability to work, return to a prior occupation, or compete in the labor market."
+    },
+    {
+      "type": "paragraph",
+      "text": "An economist may then quantify the financial effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "These are different questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The vocational expert evaluates employability. The economist calculates the economic loss associated with those vocational assumptions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When Industry Practices Matter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many disputes involve conduct that makes sense only within a particular industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "A freight broker case may require someone who understands carrier selection and brokerage operations. Related brokerage issues are covered on our freight broker expert witness page. A maritime case may require expertise in vessel operations. A hospitality case may involve hotel or resort management practices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry experience can help explain what businesses in that field actually do and what information they ordinarily have available."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is different from asking an expert to simply describe what the expert personally would have preferred."
+    },
+    {
+      "type": "paragraph",
+      "text": "The opinion should be grounded in relevant industry practice."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When Regulations or Technical Standards Matter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cases involving specialized regulations can require experts who understand both the rule and how it applies in practice."
+    },
+    {
+      "type": "paragraph",
+      "text": "Examples include commercial trucking regulations, electrical codes, building codes, workplace safety standards, accessibility requirements, and professional guidelines."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert can help explain the technical significance of compliance or noncompliance."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert should not assume that every rule applies to every case."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relevant version, jurisdiction, date, scope, and relationship to the alleged harm all matter."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When a Rule Violation Is Not Enough"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes the parties agree that a regulation or standard was violated."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert may still be necessary to explain whether that violation mattered."
+    },
+    {
+      "type": "paragraph",
+      "text": "A vehicle may have had a maintenance deficiency, but the defect may have played no role in the crash. A building may have a code deviation unrelated to the plaintiff's fall."
+    },
+    {
+      "type": "paragraph",
+      "text": "Technical causation can therefore remain important even after noncompliance is established."
+    },
+    {
+      "type": "paragraph",
+      "text": "A strong expert opinion connects the alleged violation to the actual mechanism of harm."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When the Opposing Side Has an Expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "An attorney may need an expert even when the attorney did not initially plan to use one."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the opposing party serves an expert opinion, counsel may need someone qualified to evaluate the methodology, assumptions, and conclusions."
+    },
+    {
+      "type": "paragraph",
+      "text": "A rebuttal expert can identify unsupported assumptions, alternative explanations, calculation errors, missing data, or limitations in the opposing analysis. Related rebuttal strategy is covered in rebuttal expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "This does not mean every opposing expert requires a matching expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes effective cross-examination is enough."
+    },
+    {
+      "type": "paragraph",
+      "text": "But technical testimony can be difficult to challenge without someone who understands the field at the same level."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When an Expert Is Needed Before Filing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert involvement can be valuable before litigation begins."
+    },
+    {
+      "type": "paragraph",
+      "text": "An attorney evaluating a potential malpractice case may need to know whether the care actually fell below the standard."
+    },
+    {
+      "type": "paragraph",
+      "text": "An engineer can determine whether observed property damage supports a viable defect theory."
+    },
+    {
+      "type": "paragraph",
+      "text": "A product expert may identify whether an alleged failure is technically plausible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early expert screening can prevent a weak theory from becoming an expensive lawsuit. Related consulting strategy is covered in testifying vs consulting expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "It can also identify stronger claims that were not obvious from the initial records."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When the Case Requires an Affidavit or Certification"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some jurisdictions require an expert affidavit, certificate, or similar filing in certain professional negligence cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exact requirements vary by state and claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "These rules may determine when an expert must be consulted, what qualifications the expert must have, and what the initial filing must contain. For how qualification attaches to the specific opinion, see qualifying an expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because those requirements are jurisdiction-specific, attorneys should confirm the applicable procedural and substantive law early."
+    },
+    {
+      "type": "paragraph",
+      "text": "Waiting until normal expert discovery begins may be too late."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When an Expert Is Required by Law"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are cases in which expert testimony is effectively necessary because the plaintiff cannot establish an essential element without it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Professional negligence often falls into this category when the alleged breach is outside common knowledge."
+    },
+    {
+      "type": "paragraph",
+      "text": "But expert requirements vary significantly across jurisdictions and causes of action."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some cases contain exceptions when negligence would be obvious to an ordinary person."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys should distinguish between an expert who would be strategically helpful and an expert whose testimony is legally necessary to prove the claim."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When an Expert May Not Be Necessary"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every technical-looking case requires an expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "If an issue can be understood using ordinary experience, testimony from fact witnesses and documentary evidence may be sufficient."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, an eyewitness may be able to establish that a vehicle ran a red light without accident reconstruction."
+    },
+    {
+      "type": "paragraph",
+      "text": "A surveillance video may clearly show how a straightforward fall occurred."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert should add specialized analysis rather than simply repeat what the jury can already see."
+    },
+    {
+      "type": "paragraph",
+      "text": "Using unnecessary experts can increase cost and complicate an otherwise simple case. Cost considerations are covered in how much does an expert witness cost."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Avoid Hiring an Expert Just Because the Case Is Large"
+    },
+    {
+      "type": "paragraph",
+      "text": "High damages do not automatically create a technical issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "A case can be financially significant and still turn on straightforward facts."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reverse is also true."
+    },
+    {
+      "type": "paragraph",
+      "text": "A relatively small case may involve a highly technical engineering or medical question that cannot be resolved without expert analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision should be based on the subject matter that must be proved, not simply the amount of money at stake."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Start With the Question, Not the Expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most common mistakes in expert selection is beginning with a job title."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"We need an engineer\" is usually too broad."
+    },
+    {
+      "type": "paragraph",
+      "text": "The better starting point is the question the expert must answer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did the foundation move because of soil settlement? Why did the electrical fire begin? Should the emergency physician have ordered a CT scan? Was the tractor-trailer collision avoidable? Did a diagnostic delay change the patient's cancer prognosis?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the question is defined, the appropriate specialty becomes much easier to identify. Related search strategy is covered in how to find an expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "One Case May Need Several Experts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complex cases often contain several specialized questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "A medical malpractice case may require one specialist for standard of care and another for causation."
+    },
+    {
+      "type": "paragraph",
+      "text": "A truck accident may require reconstruction, trucking safety, mechanical engineering, and medical causation."
+    },
+    {
+      "type": "paragraph",
+      "text": "A building failure may require structural and geotechnical engineering."
+    },
+    {
+      "type": "paragraph",
+      "text": "Using multiple experts is appropriate when the disciplines genuinely differ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal is not to maximize the number of experts. It is to avoid asking one witness to stretch beyond the limits of actual expertise."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Expert Should Match the Defendant's Specialty"
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical malpractice cases illustrate this particularly well."
+    },
+    {
+      "type": "paragraph",
+      "text": "A cardiologist may not be the best expert to evaluate an emergency physician's initial decision-making merely because the eventual diagnosis was cardiac. Related cardiac emergency issues are covered on our heart attack expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "The defendant's specialty, the setting, and the specific conduct being criticized all matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "The causation expert may then come from a different specialty."
+    },
+    {
+      "type": "paragraph",
+      "text": "Matching expertise to the actual disputed conduct generally produces more defensible opinions than selecting the most impressive physician connected to the ultimate diagnosis."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Local Practice Is Not Always the Main Issue"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys sometimes focus heavily on finding an expert from the same city or state."
+    },
+    {
+      "type": "paragraph",
+      "text": "Geography can matter in some contexts, particularly when applicable law incorporates locality considerations or when site-specific knowledge is important."
+    },
+    {
+      "type": "paragraph",
+      "text": "But many technical questions are governed more by specialty-specific knowledge than geography."
+    },
+    {
+      "type": "paragraph",
+      "text": "The appropriate expert search should begin with substantive qualifications and then account for jurisdiction-specific requirements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Restricting the search geographically too early can unnecessarily eliminate strong candidates."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When Timing Makes Expert Selection Harder"
+    },
+    {
+      "type": "paragraph",
+      "text": "The later an expert is retained, the fewer options counsel may have."
+    },
+    {
+      "type": "paragraph",
+      "text": "Highly specialized experts can have limited availability. Conflicts may eliminate candidates. Records may be extensive. A site may need inspection before repairs occur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Late retention can also create pressure to accept the first available expert rather than the best-qualified expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "Identifying likely expert needs early gives counsel time to evaluate candidates properly and preserve evidence before it changes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When the Expert Should Say No"
+    },
+    {
+      "type": "paragraph",
+      "text": "A useful expert does not support every case."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may conclude that the defendant met the standard of care, the product was not defective, the collision did not occur as alleged, or the claimed loss cannot be supported."
+    },
+    {
+      "type": "paragraph",
+      "text": "That can still make the engagement valuable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finding out early that a theory lacks technical support can prevent much greater expense later."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert who is unwilling to deliver an unfavorable conclusion is not providing independent analysis."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A Simple Test for Whether You Need an Expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask what proposition must be established."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then ask whether an ordinary juror could reliably reach that conclusion using everyday knowledge and the available factual evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the answer requires medical judgment, engineering analysis, scientific methodology, specialized industry practice, technical calculations, or another field of expertise, an expert is probably necessary."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then narrow the question further."
+    },
+    {
+      "type": "paragraph",
+      "text": "The more precisely the issue is defined, the easier it becomes to identify the right expert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys need expert witnesses when specialized knowledge is necessary to prove, explain, or challenge an important issue in the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "That may involve standard of care, causation, accident reconstruction, engineering failure, financial damages, professional practice, or another technical subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most important decision is not simply whether to hire an expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is determining exactly what question the expert must answer and finding someone whose real-world qualifications match that question. If you need a vetted expert for a pending matter, start an expert witness search with Blackstorm Experts."
+    }
+  ]
+}

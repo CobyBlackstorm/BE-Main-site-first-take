@@ -1,0 +1,743 @@
+{
+  "slug": "who-pays-for-an-expert-witness",
+  "title": "Who Pays for an Expert Witness?",
+  "metaTitle": "Who Pays for an Expert Witness? Fees, Depositions, and Cost Recovery",
+  "date": "2026-08-08",
+  "description": "Learn who pays expert witness fees in a lawsuit, including retainers, record review, reports, depositions, trial testimony, and whether expert costs can be recovered.",
+  "keywords": [
+    "who pays for an expert witness",
+    "expert witness fees who pays",
+    "expert witness deposition fees",
+    "expert witness retainer",
+    "recover expert witness costs",
+    "Rule 26 expert deposition fee",
+    "court appointed expert fees",
+    "expert witness trial fees",
+    "plaintiff expert witness costs",
+    "defense expert witness fees"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "accident-reconstruction"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In most lawsuits, the party that hires an expert witness is responsible for paying that expert's fees."
+    },
+    {
+      "type": "paragraph",
+      "text": "A plaintiff who retains a medical expert generally pays that expert. A defendant who hires an engineer, accountant, or other specialist generally pays its own expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are important exceptions, particularly when one side takes the deposition of the other side's expert, when a court appoints an expert, or when applicable law allows some litigation costs to be shifted after the case ends. For how fee structures typically work, see expert witness fee structures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exact rules depend on the court and jurisdiction."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Retaining Party Usually Pays the Expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert witnesses are normally hired by one of the parties to the litigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The retaining attorney or law firm typically enters into an engagement agreement with the expert. That agreement may establish the expert's hourly rates, retainer, cancellation policy, travel charges, deposition rate, trial rate, and other terms."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert then bills for professional time spent on the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "That can include reviewing records, speaking with counsel, performing research, conducting inspections, analyzing evidence, preparing opinions, writing reports, preparing for testimony, and appearing at deposition or trial. Related role questions are covered in what does an expert witness do."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Witnesses Are Paid for Their Time, Not Their Opinion"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert should be compensated for the professional services performed rather than for reaching a particular conclusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may ultimately reach an opinion that is unfavorable to the party that retained the expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "The obligation to pay generally remains."
+    },
+    {
+      "type": "paragraph",
+      "text": "An arrangement that makes an expert's compensation depend on winning the case or on the substance of the expert's opinion can create significant ethical and credibility problems."
+    },
+    {
+      "type": "paragraph",
+      "text": "An independent expert should be free to reach whatever conclusion the evidence supports."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Who Actually Sends the Payment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The mechanics vary by law firm and case."
+    },
+    {
+      "type": "paragraph",
+      "text": "In some matters, the law firm pays the expert directly and later treats the payment as a case expense. In others, the client provides funds specifically for expert costs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some firms advance litigation expenses and seek reimbursement later. Other engagement agreements require clients to fund those expenses as they arise."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contingency-fee litigation can operate differently from hourly litigation, but contingency representation does not mean expert services are free."
+    },
+    {
+      "type": "paragraph",
+      "text": "The attorney-client agreement usually determines how expert expenses are handled between the client and law firm."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Retainers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many experts require a retainer before beginning work."
+    },
+    {
+      "type": "paragraph",
+      "text": "A retainer may function as an advance against future hourly charges. The expert bills work against that balance and may require the account to be replenished as the case proceeds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other experts use minimum fees for particular assignments."
+    },
+    {
+      "type": "paragraph",
+      "text": "The structure varies substantially by discipline and individual expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "A physician reviewing a medical malpractice case may use a different fee arrangement from an engineer performing an on-site destructive inspection. Medical fee ranges are covered separately in medical expert witness cost."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Initial Case Review"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the first expert expenses is often preliminary review."
+    },
+    {
+      "type": "paragraph",
+      "text": "An attorney may send medical records, photographs, pleadings, contracts, or other materials and ask whether the expert believes the case has technical merit."
+    },
+    {
+      "type": "paragraph",
+      "text": "This initial evaluation can sometimes prevent much larger expenses later."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the expert determines that the evidence does not support the proposed theory, counsel may decide not to designate the expert, retain additional specialists, or pursue that portion of the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert is still ordinarily paid for the time spent reaching that conclusion."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Record Review Fees"
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts generally charge for the time required to review case materials."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cost can vary dramatically depending on the volume and complexity of the records."
+    },
+    {
+      "type": "paragraph",
+      "text": "A straightforward matter may involve several hundred pages. A complex medical malpractice case can contain thousands of pages of hospital records, imaging, deposition transcripts, and other documents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Good case organization can affect cost."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sending an expert large quantities of irrelevant material can increase review time without improving the opinion."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Meetings With Attorneys"
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts typically bill for conferences with counsel."
+    },
+    {
+      "type": "paragraph",
+      "text": "These discussions may involve explaining technical issues, identifying additional records, discussing opposing expert opinions, preparing for deposition, or helping attorneys understand weaknesses in the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "This work can be especially valuable early in litigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "A short conversation with the appropriate specialist may clarify whether an issue requires another expert before substantial time and money are spent pursuing the wrong theory. When those roles diverge, see when your case needs two expert witnesses."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Written Reports"
+    },
+    {
+      "type": "paragraph",
+      "text": "Preparing an expert report can represent a significant portion of the expert's total fee."
+    },
+    {
+      "type": "paragraph",
+      "text": "A detailed report may require the expert to organize evidence, explain methodology, identify assumptions, formulate opinions, and cite supporting material."
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal litigation and some state proceedings impose specific expert disclosure requirements. Disclosure timing and contents are covered in the Rule 26 pre-retention checklist."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of work involved depends on the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "A short report addressing one narrow issue may require relatively little time. A complex engineering, medical, financial, or damages report can require extensive analysis."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Who Pays for an Expert's Deposition?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Depositions create an important exception to the general rule that each side simply pays its own expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "In federal civil litigation, Federal Rule of Civil Procedure 26(b)(4)(E) generally requires the party seeking discovery from the opposing side's testifying expert to pay that expert a reasonable fee for the time spent responding to the discovery, unless doing so would result in manifest injustice."
+    },
+    {
+      "type": "paragraph",
+      "text": "In practical terms, if the defense takes the deposition of a plaintiff's retained expert, the defense may be responsible for the expert's reasonable deposition fee even though the plaintiff originally retained the expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "State rules can differ, so the governing procedural rules should always be checked. Related preparation issues are covered in expert witness deposition preparation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What Is a \"Reasonable\" Deposition Fee?"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert does not necessarily get to impose any deposition rate the expert chooses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Courts can review whether the requested fee is reasonable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Factors considered by courts have included the expert's field, education and training, prevailing rates for comparable experts, complexity of the testimony, the rates the expert ordinarily charges, and the rate being charged to the party who retained the expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "That can become an issue when an expert charges substantially more for deposition than for ordinary case review."
+    },
+    {
+      "type": "paragraph",
+      "text": "The applicable court ultimately determines reasonableness if the parties cannot agree."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What About Deposition Preparation?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This issue can be more complicated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal courts have not always taken the same approach to whether the opposing party must pay for an expert's time preparing for deposition."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some courts have allowed reasonable preparation fees, while others have concluded that Rule 26 does not require the deposing party to pay them."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is a good example of why expert-fee questions should not be answered with a universal rule."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relevant jurisdiction and court precedent matter."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Who Pays for Trial Testimony?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trial arrangements are usually governed by the expert's agreement with the party that retained the expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts commonly charge for time spent preparing for trial, traveling, waiting to testify, and giving testimony. Related courtroom issues are covered in expert testimony in court."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some experts use an hourly rate. Others require a half-day or full-day minimum because a trial appearance prevents them from performing their regular professional work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Physicians can be particularly expensive to schedule for trial because courtroom timing may interfere with a clinical or surgical schedule."
+    },
+    {
+      "type": "paragraph",
+      "text": "The retaining party ordinarily bears those fees unless some other rule or order applies."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why Trial Can Cost More Than the Time on the Witness Stand"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert may testify for only an hour but lose most of a workday."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trials rarely operate on a perfectly predictable schedule. Witnesses can be delayed by other testimony, arguments, scheduling changes, or jury issues."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why many experts establish minimum trial charges."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fee reflects the time the expert must reserve, not simply the minutes spent answering questions in front of the jury."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys should understand those policies before setting a trial schedule."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Travel Expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "If an expert must travel, the engagement agreement may require reimbursement for airfare, lodging, ground transportation, meals, mileage, or other expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts may also bill professional time spent traveling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remote depositions have reduced some of these costs, but inspections and trials can still require physical attendance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Selecting an expert solely because the expert is geographically close is not always worthwhile, but travel expenses should be considered when two candidates are otherwise equally qualified."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Site Inspections and Testing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some expert assignments involve substantial costs beyond hourly professional fees."
+    },
+    {
+      "type": "paragraph",
+      "text": "An engineer may need specialized testing equipment. A product may need to be examined in a laboratory. Materials may need destructive testing. A surveyor may collect measurements. An accident reconstructionist may need vehicle downloads or scene documentation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those expenses may be charged separately from the expert's time."
+    },
+    {
+      "type": "paragraph",
+      "text": "The attorney should understand which testing is necessary before authorizing expensive procedures, particularly when the evidence may be altered or destroyed in the process."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Medical Examinations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some litigation requires an expert physician to personally examine a party."
+    },
+    {
+      "type": "paragraph",
+      "text": "The physician may charge separately for the examination, review of medical records, preparation of a report, and testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rules governing independent medical examinations vary by jurisdiction and case type."
+    },
+    {
+      "type": "paragraph",
+      "text": "The party requesting the examination may have payment obligations that differ from the ordinary arrangement for a privately retained consulting expert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Consulting Experts"
+    },
+    {
+      "type": "paragraph",
+      "text": "A consulting expert is generally paid by the party that retained the expert even if the expert never testifies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consultants may evaluate the merits of a claim, help attorneys understand technical evidence, critique an opposing expert, assist with deposition preparation, or identify additional areas requiring investigation. The discovery and strategy differences are covered in testifying vs consulting expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the expert is being paid for professional analysis rather than courtroom testimony, the absence of a trial appearance does not eliminate the fee."
+    },
+    {
+      "type": "paragraph",
+      "text": "In many cases, consulting work accounts for a substantial portion of the expert's involvement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What If the Expert Is Never Used?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert is still ordinarily paid for work already performed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suppose an attorney retains a surgeon, sends the records, and receives an opinion that does not support the claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "The firm may choose not to designate the surgeon as a testifying expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "That does not undo the record review."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts sell professional time and expertise, not successful litigation outcomes."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is one reason preliminary screening and careful expert selection can be financially important."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Can the Winning Party Recover Expert Witness Fees?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, but not necessarily in full."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fact that a party wins a case does not automatically mean the opponent must reimburse every dollar spent on privately retained experts."
+    },
+    {
+      "type": "paragraph",
+      "text": "In federal litigation, recoverable taxable costs are governed by statutes and procedural rules. 28 U.S.C. § 1920 identifies categories of costs that a federal court may tax, including witness-related costs and compensation for court-appointed experts. It does not simply make all privately retained expert fees recoverable at their contractual rates."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other statutes, contractual provisions, or substantive claims may provide different cost-shifting rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "State law also varies considerably."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Fees and Attorney's Fees Are Different"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert witness fees should not automatically be treated as attorney's fees."
+    },
+    {
+      "type": "paragraph",
+      "text": "A statute may authorize recovery of attorney's fees without providing equivalent recovery of every expert expense."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another statute may specifically authorize certain expert costs."
+    },
+    {
+      "type": "paragraph",
+      "text": "The wording matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "When substantial expert expenses could affect settlement or judgment calculations, attorneys should evaluate the particular cost-recovery rules governing the claim."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Court-Appointed Experts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Occasionally, the court appoints its own expert rather than relying solely on experts selected by the parties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal Rule of Evidence 706 permits a court to appoint an expert and provides for reasonable compensation. In most civil cases governed by the rule, the court determines the proportion and timing of payment by the parties, and the compensation can later be charged like other costs."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is very different from an ordinary retained expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "A court-appointed expert serves under the court's appointment rather than simply being hired by the plaintiff or defendant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Are Experts Paid by the Court?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ordinary retained experts generally are not paid by the court."
+    },
+    {
+      "type": "paragraph",
+      "text": "A physician hired by a plaintiff, for example, does not become a court employee merely because the physician is designated as an expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "The retaining side remains responsible for the expert's professional fees, subject to any applicable discovery or cost-shifting rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "Court-appointed experts are a separate category."
+    },
+    {
+      "type": "paragraph",
+      "text": "That distinction is important because the phrase \"expert witness\" can otherwise create the impression that the witness is working for the judicial system."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Plaintiff Expert Fees"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plaintiffs may need experts to establish liability, causation, or damages."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical malpractice cases are a common example."
+    },
+    {
+      "type": "paragraph",
+      "text": "A plaintiff may require one physician to address the standard of care and another specialist to address whether the alleged negligence caused the injury."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additional experts may be necessary for life-care costs, vocational loss, or economic damages."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those costs can become substantial before a case reaches trial."
+    },
+    {
+      "type": "paragraph",
+      "text": "How they are funded and ultimately allocated between the plaintiff and counsel depends in part on the representation agreement and governing law."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Defense Expert Fees"
+    },
+    {
+      "type": "paragraph",
+      "text": "Defendants face similar expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "A defendant may retain experts to independently evaluate liability allegations, respond to plaintiff experts, analyze causation, or challenge damages."
+    },
+    {
+      "type": "paragraph",
+      "text": "A complicated case can involve multiple defense experts in different disciplines."
+    },
+    {
+      "type": "paragraph",
+      "text": "The defendant, insurer, or other entity funding the defense generally pays those professionals according to the arrangements governing the litigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fact that the defense expert is responding to an existing plaintiff opinion does not make the plaintiff responsible for the defense expert's ordinary consulting or trial charges."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Insurance Companies"
+    },
+    {
+      "type": "paragraph",
+      "text": "Insurance can change who ultimately funds litigation without changing the expert's role."
+    },
+    {
+      "type": "paragraph",
+      "text": "When an insurer is defending a covered claim, the insurer may pay defense counsel and approved expert expenses pursuant to the applicable policy and claims arrangements."
+    },
+    {
+      "type": "paragraph",
+      "text": "That does not mean the expert works for the insurance company in every professional sense."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert is still expected to provide an independent opinion based on the evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The funding source should not determine the substance of the testimony."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Multiple Experts Can Change the Economics Quickly"
+    },
+    {
+      "type": "paragraph",
+      "text": "A complex case may require several specialties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider a catastrophic truck accident."
+    },
+    {
+      "type": "paragraph",
+      "text": "An attorney might need accident reconstruction, trucking safety, biomechanics, orthopedic medicine, life-care planning, vocational rehabilitation, and economics. Related fleet and carrier issues are covered on our trucking safety expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each specialist addresses a different issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trying to force one expert to cover unrelated subjects may save money initially but create qualification or admissibility problems later."
+    },
+    {
+      "type": "paragraph",
+      "text": "The better cost-control strategy is usually to determine which expert disciplines are genuinely necessary and define each assignment narrowly."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Witness Costs Should Be Discussed Early"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys can reduce surprises by discussing fees before formally retaining an expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "Useful questions include the hourly review rate, retainer requirements, report fees, deposition rate, trial minimum, cancellation policy, travel charges, and whether administrative work is billed separately. Practical negotiation points are covered in how to negotiate expert witness fees."
+    },
+    {
+      "type": "paragraph",
+      "text": "It can also be useful to estimate how much material the expert will need to review."
+    },
+    {
+      "type": "paragraph",
+      "text": "A reasonable hourly rate can still produce a large invoice when thousands of pages are sent without organization."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Cheapest Expert Is Not Necessarily the Least Expensive Choice"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert selection based solely on hourly rate can create larger costs later."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert who is poorly matched to the issue may spend more time reviewing the case, require replacement, or produce opinions that cannot survive challenge."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, the most expensive expert is not automatically the best."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relevant considerations are qualifications, fit with the specific issue, efficiency, availability, communication ability, and total expected cost. Related comparison points are covered in how to compare expert witness fees and qualifications."
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal is not to find the lowest hourly number. It is to retain the right expertise without unnecessary work."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "paragraph",
+      "text": "The party that hires an expert usually pays that expert's fees for review, analysis, reports, consultation, and testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "The payment rules can change when the opposing party takes an expert deposition, when a court appoints an expert, or when statutes, court rules, contracts, or judgments shift certain costs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal Rule 26, for example, generally requires the party seeking discovery from an opposing testifying expert to pay a reasonable fee for that expert's discovery time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether expert expenses can ultimately be recovered from another party is a separate question and depends on the jurisdiction and legal basis for cost shifting."
+    },
+    {
+      "type": "paragraph",
+      "text": "For that reason, \"who pays the expert?\" and \"who ultimately bears the expert cost?\" can have two different answers. If you need a vetted expert for a pending matter, start an expert witness search with Blackstorm Experts."
+    }
+  ]
+}

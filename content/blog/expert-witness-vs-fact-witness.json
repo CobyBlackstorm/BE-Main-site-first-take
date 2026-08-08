@@ -1,9 +1,9 @@
 {
   "slug": "expert-witness-vs-fact-witness",
-  "title": "Expert Witness vs Fact Witness: The Difference That Determines What Your Witness Can Say",
-  "metaTitle": "Expert Witness vs Fact Witness: The Difference That Determines What Your Witness Can Say",
-  "date": "2026-08-04",
-  "description": "The difference between an expert witness and a fact witness, what each is allowed to testify to, how treating physicians blur the line, and what happens when a witness is used in the wrong role.",
+  "title": "Expert Witness vs. Fact Witness: What Is the Difference?",
+  "metaTitle": "Expert Witness vs. Fact Witness: What Is the Difference?",
+  "date": "2026-08-08",
+  "description": "Learn the difference between an expert witness and a fact witness, including what each can testify about, how opinions are handled, and when attorneys use each type.",
   "keywords": [
     "expert witness vs fact witness",
     "expert witness versus fact witness",
@@ -13,8 +13,8 @@
     "treating physician expert disclosure",
     "expert witness opinion testimony",
     "fact witness testimony limits",
-    "disclose treating physician as expert",
-    "expert witness disclosure deadline"
+    "hybrid witness expert fact",
+    "expert witness disclosure"
   ],
   "specialties": [
     "personal-injury",
@@ -24,154 +24,568 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Every witness in a case falls into one of two categories, and the category determines the single most important thing about them: whether they are allowed to give an opinion."
+      "text": "The main difference between an expert witness and a fact witness is the type of testimony each is allowed to give."
     },
     {
       "type": "paragraph",
-      "text": "A fact witness testifies to what they personally observed. An expert witness testifies to conclusions drawn from specialized knowledge. The line between them is not about how qualified the person is. It is about the basis for what they are saying on the stand. For the broader role of retained experts, see what is an expert witness."
+      "text": "A fact witness generally testifies about what the witness personally saw, heard, did, or experienced. An expert witness may offer specialized opinions based on education, training, skill, knowledge, or experience. For what that specialized role involves in practice, see what does an expert witness do."
+    },
+    {
+      "type": "paragraph",
+      "text": "That distinction sounds simple, but it becomes important very quickly in litigation because the same person can sometimes possess both firsthand knowledge and specialized expertise. For a broader definition of retained experts, see what is an expert witness."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "What a Fact Witness Can Testify To"
+      "text": "What Is a Fact Witness?"
     },
     {
       "type": "paragraph",
-      "text": "A fact witness, sometimes called a lay witness, testifies to things they perceived firsthand. What they saw, heard, did, or experienced."
+      "text": "A fact witness, sometimes called a lay witness, testifies primarily about personal knowledge."
     },
     {
       "type": "paragraph",
-      "text": "The defining limitation is that a fact witness cannot offer opinions that require specialized knowledge. They can say the car was moving fast. They cannot say the car was traveling at fifty-two miles per hour based on skid mark analysis. They can say the floor was wet. They cannot say the flooring material fell below the applicable safety standard."
+      "text": "The witness may describe an accident, a conversation, a business transaction, a medical encounter, a workplace event, or another circumstance the witness directly observed."
     },
     {
       "type": "paragraph",
-      "text": "Fact witnesses can give limited opinions, but only ones that any ordinary person could form from the same observation. Speed, distance, whether someone appeared intoxicated, whether a person seemed to be in pain. These are permitted because they are common-sense inferences, not expert conclusions."
+      "text": "For example, a passenger in a vehicle may testify about what happened immediately before a collision. An employee may testify about how a machine was being used. A patient may describe symptoms and conversations with a physician."
     },
     {
       "type": "paragraph",
-      "text": "Fact witnesses are not retained and not paid for their testimony. They are subpoenaed or they appear voluntarily, and they testify because of what they happened to witness."
+      "text": "The witness is generally there to tell the factfinder what happened from the witness's own perspective."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "What an Expert Witness Can Testify To"
+      "text": "What Is an Expert Witness?"
     },
     {
       "type": "paragraph",
-      "text": "An expert witness testifies to opinions based on knowledge, skill, experience, training, or education. They were not present for the events. They review the evidence after the fact and tell the jury what it means."
+      "text": "An expert witness is retained or designated because the case involves a subject that requires specialized knowledge."
     },
     {
       "type": "paragraph",
-      "text": "The expert is permitted to do the thing the fact witness cannot: draw a conclusion the jury could not reach on its own. Causation. Standard of care. Damages calculations. Whether a product was defectively designed. Whether a set of symptoms is consistent with a particular mechanism of injury."
+      "text": "The expert may be a physician, engineer, accountant, architect, accident reconstructionist, economist, scientist, safety professional, or another specialist."
     },
     {
       "type": "paragraph",
-      "text": "Experts are retained, disclosed, and paid. They are subject to disclosure rules, expert reports in federal court, and admissibility challenges under Daubert or Frye depending on the jurisdiction. None of that applies to a fact witness. The governing federal rule is Federal Rule of Evidence 702."
+      "text": "Unlike a typical fact witness, the expert may analyze evidence and draw conclusions that go beyond direct personal observation."
+    },
+    {
+      "type": "paragraph",
+      "text": "A cardiologist, for example, might review records and offer an opinion about whether treatment of a heart attack met the applicable standard of care. An engineer may inspect a failed structure and explain what caused the failure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert does not need to have personally witnessed the underlying event."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "The Practical Differences That Matter"
+      "text": "The Key Difference Is Opinion Testimony"
     },
     {
       "type": "paragraph",
-      "text": "Disclosure. Expert witnesses must be disclosed by a deadline, usually with a written report in federal cases. Fact witnesses appear on witness lists but do not carry the same disclosure burden. Those disclosure contents are covered in the Rule 26 pre-retention checklist."
+      "text": "Fact witnesses and expert witnesses can both describe facts."
     },
     {
       "type": "paragraph",
-      "text": "Discovery. An opposing party can depose your expert and probe their methodology, their compensation, their prior testimony, and the materials they reviewed. Fact witness depositions cover what the witness observed."
+      "text": "The major difference is the scope of opinion testimony."
     },
     {
       "type": "paragraph",
-      "text": "Admissibility challenges. Expert testimony can be excluded entirely if the methodology does not hold up. Fact testimony is challenged on credibility and personal knowledge, not on methodology. Those challenges are typically raised through a motion in limine."
+      "text": "A fact witness may sometimes express limited opinions based on ordinary perception, depending on the applicable rules of evidence. Someone might describe a vehicle as moving \"very fast\" or say that a person appeared intoxicated based on firsthand observations."
     },
     {
       "type": "paragraph",
-      "text": "Compensation. Paying an expert for their time is standard practice. Paying a fact witness for their testimony creates a serious credibility problem and may be improper."
+      "text": "An expert opinion is different."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert applies specialized knowledge or methodology to evidence and reaches a conclusion that an ordinary witness would not be expected to reach."
+    },
+    {
+      "type": "paragraph",
+      "text": "That might involve determining vehicle speed from physical evidence, interpreting pathology, calculating economic loss, or evaluating whether a building was structurally deficient."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "Where the Line Gets Blurry: The Treating Physician"
+      "text": "Personal Knowledge"
     },
     {
       "type": "paragraph",
-      "text": "The most common place attorneys run into trouble is with a treating physician in a personal injury case."
+      "text": "Fact witnesses usually need personal knowledge of the events they describe."
     },
     {
       "type": "paragraph",
-      "text": "A treating doctor occupies both roles. When they testify about what they observed during treatment, the injuries they saw, the procedures they performed, the course of recovery, they are a fact witness. That testimony comes from personal knowledge gained in the course of care."
+      "text": "They were there, participated in the event, communicated with someone involved, or otherwise observed the relevant circumstances firsthand."
     },
     {
       "type": "paragraph",
-      "text": "When that same doctor testifies about whether the accident caused the injury, or what future medical care the patient will need, or whether the injury is permanent, they have crossed into expert opinion."
+      "text": "Expert witnesses frequently work from information created by other people."
     },
     {
       "type": "paragraph",
-      "text": "Courts treat this differently by jurisdiction and the rules have real teeth. In federal court, a treating physician who will offer opinions beyond the course of treatment generally requires disclosure, though the report requirement depends on whether they were retained for the litigation. Attorneys get caught by assuming the treating doctor is automatically a fact witness and then trying to elicit causation testimony at trial without having disclosed them properly."
+      "text": "A medical expert may review thousands of pages of records without ever examining the patient. An accident reconstructionist may study photographs, measurements, electronic vehicle data, and witness testimony long after the collision."
     },
     {
       "type": "paragraph",
-      "text": "The safe approach is to decide early what you need the treating physician to say. If it is limited to what they observed and did, they are a fact witness. If you need causation or future care opinions, treat them as an expert and disclose accordingly. For how qualification attaches to the specific opinion, see qualifying an expert witness."
+      "text": "The expert's value comes from applying specialized knowledge to that evidence rather than from having personally observed the original event."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "Other Places the Line Blurs"
+      "text": "An Expert Can Rely on Other Evidence"
     },
     {
       "type": "paragraph",
-      "text": "Employees with specialized roles. A company's own engineer who investigated an incident may have both personal knowledge of the investigation and specialized expertise. The same disclosure question applies."
+      "text": "Experts commonly base their opinions on records, data, testing, literature, inspections, and other information reasonably used in their field."
     },
     {
       "type": "paragraph",
-      "text": "Investigators and responders. A police officer, fire marshal, or accident investigator observed the scene. Their observations are fact testimony. Their conclusions about cause usually are not."
+      "text": "That does not mean an expert can simply repeat anything found in the file."
     },
     {
       "type": "paragraph",
-      "text": "Business owners on damages. An owner testifying about their own lost profits is often permitted broader latitude than a typical lay witness, but the line varies by jurisdiction and by how the opinion is developed."
+      "text": "The expert should explain how the underlying information supports the opinion and whether the information is of a type reasonably relied upon within the discipline."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, an orthopedic surgeon may rely on MRI studies, medical history, examination findings, operative reports, and treatment records to address injury causation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The surgeon's opinion is not limited to facts personally observed."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "When a Witness Is Used in the Wrong Role"
+      "text": "A Fact Witness Usually Cannot Become an Expert Just by Having Experience"
     },
     {
       "type": "paragraph",
-      "text": "Two failures show up repeatedly."
+      "text": "A witness may know a great deal about a subject without being designated or qualified as an expert for the opinions being offered."
     },
     {
       "type": "paragraph",
-      "text": "The first is trying to get expert opinion out of a fact witness. Opposing counsel objects, the testimony is excluded, and the point the case depended on never reaches the jury. If the deadline to disclose an expert has passed, there is no fix."
+      "text": "For example, an experienced truck driver who witnessed a collision can testify about what the driver saw. Whether that person can also offer specialized opinions about federal motor carrier safety practices, braking performance, or accident reconstruction is a separate question."
     },
     {
       "type": "paragraph",
-      "text": "The second is disclosing someone as an expert who is really a fact witness, which invites a challenge to qualifications and methodology they were never going to survive."
+      "text": "Courts look at the substance of the testimony."
     },
     {
       "type": "paragraph",
-      "text": "Both are avoided by asking one question early: does this testimony require specialized knowledge? If yes, that person is an expert and needs to be treated as one from the start."
+      "text": "If the witness is using specialized knowledge to reach conclusions beyond ordinary perception, the testimony may be treated as expert testimony even if the witness is not called an \"expert.\""
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "What This Means for Case Preparation"
+      "text": "Treating Physicians Can Blur the Line"
     },
     {
       "type": "paragraph",
-      "text": "Map your witnesses by role before the disclosure deadline, not after. For each one, write down the specific testimony you need. Then check whether any of it requires specialized knowledge."
+      "text": "Treating physicians are a common example of the distinction becoming complicated."
     },
     {
       "type": "paragraph",
-      "text": "Where it does, you need a disclosed expert. Sometimes that is the treating physician properly disclosed. Sometimes it means retaining an independent expert because the treating physician will not opine on causation, is not comfortable testifying, or has a relationship with the patient that makes them vulnerable on cross. The consulting versus designated posture is covered in testifying vs consulting expert."
+      "text": "A physician who actually treated the patient has firsthand knowledge of the examination, diagnosis, treatment, and observations made during care."
     },
     {
       "type": "paragraph",
-      "text": "That last situation is common in personal injury and medical malpractice. The treating doctor covers the facts of care and a retained expert covers causation, standard of care, and future damages. Two witnesses, two roles, no overlap problem."
+      "text": "That can make the physician a fact witness as to portions of the treatment."
     },
     {
       "type": "paragraph",
-      "text": "That is where Blackstorm Experts fits. Describe the opinion you need supported and we return two to three vetted candidates whose backgrounds match the specific issue, with CVs, fee schedules, and testimony history, typically within 48 to 72 hours."
+      "text": "But the physician may also be asked to offer opinions about causation, prognosis, future treatment, reasonableness of care, or other matters requiring medical expertise."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those opinions may move the testimony into expert territory."
+    },
+    {
+      "type": "paragraph",
+      "text": "How a treating physician must be disclosed and what opinions may be offered can depend on the court and applicable procedural rules."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Police Officers Can Also Have Dual Roles"
+    },
+    {
+      "type": "paragraph",
+      "text": "A police officer who responded to a crash can testify about observations made at the scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "The officer may describe vehicle positions, statements, weather, debris, photographs taken, or citations issued."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if the officer begins calculating speeds or reconstructing the collision using specialized training, the testimony may involve expert opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "The officer's job title alone does not determine the classification."
+    },
+    {
+      "type": "paragraph",
+      "text": "The question is whether the testimony is based primarily on firsthand observation or specialized analysis."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Employees and Professionals Can Be Hybrid Witnesses"
+    },
+    {
+      "type": "paragraph",
+      "text": "The same issue appears in business, construction, medical, and professional liability cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "An engineer who worked on a project may have firsthand knowledge of design decisions while also possessing specialized engineering expertise."
+    },
+    {
+      "type": "paragraph",
+      "text": "An accountant may have personally prepared financial statements and later be asked to interpret complex accounting treatment."
+    },
+    {
+      "type": "paragraph",
+      "text": "A company's safety director may testify about internal policies while also offering industry opinions."
+    },
+    {
+      "type": "paragraph",
+      "text": "These witnesses are sometimes described as hybrid witnesses because their testimony contains both factual and expert elements."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exact treatment of such testimony depends on the issues and procedural rules involved."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fact Witnesses Describe What Happened"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most useful way to understand a fact witness is to focus on the underlying event."
+    },
+    {
+      "type": "paragraph",
+      "text": "The witness might testify:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"I saw water on the floor.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The truck changed lanes in front of me.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The patient complained of chest pain.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"I received the inspection report.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The machine stopped working immediately after the noise.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Those statements generally describe observations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The witness is providing evidence that other people, including experts, may later use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Witnesses Explain What the Facts Mean"
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert usually takes the analysis a step further."
+    },
+    {
+      "type": "paragraph",
+      "text": "A walkway expert may explain whether the condition of the floor created a slip hazard."
+    },
+    {
+      "type": "paragraph",
+      "text": "A trucking expert may address whether the lane change was consistent with safe commercial driving practice."
+    },
+    {
+      "type": "paragraph",
+      "text": "A cardiologist may evaluate whether the patient's symptoms required additional testing."
+    },
+    {
+      "type": "paragraph",
+      "text": "An engineer may determine why the machine failed."
+    },
+    {
+      "type": "paragraph",
+      "text": "In other words, the fact witness supplies pieces of the record. The expert interprets technical aspects of that record."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fact Witnesses Are Usually Not Retained for Litigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most fact witnesses become involved because they were already connected to the events."
+    },
+    {
+      "type": "paragraph",
+      "text": "They may be employees, customers, family members, treating providers, eyewitnesses, first responders, or participants in a transaction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert witnesses are often specifically retained because litigation requires their specialized analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "That distinction also affects compensation."
+    },
+    {
+      "type": "paragraph",
+      "text": "A retained expert is typically paid professional fees for review, analysis, deposition, and testimony. A fact witness generally is not paid for the substance of the witness's testimony, although applicable witness fees and expenses may be available. Fee structure basics for retained experts are covered in expert witness fee structures."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Witnesses Are Usually Subject to Additional Disclosure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because experts are offering specialized opinions, litigation rules often require additional information about those opinions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on the court, the parties may need to disclose the expert's identity, qualifications, opinions, bases for those opinions, publications, testimony history, compensation, or a written report. Disclosure timing and contents are covered in the Rule 26 pre-retention checklist."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fact witness disclosures are generally different because the witness is not being presented as a retained specialist offering technical conclusions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exact requirements vary by jurisdiction and type of proceeding."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys should therefore determine how the applicable court treats each witness rather than relying solely on the label being used."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Qualifications Can Be Challenged"
+    },
+    {
+      "type": "paragraph",
+      "text": "A fact witness usually establishes the basis for testimony by showing personal knowledge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts face another layer of scrutiny."
+    },
+    {
+      "type": "paragraph",
+      "text": "The opposing party may challenge whether the expert has sufficient qualifications in the particular subject, whether the methodology is reliable, whether the opinion fits the facts of the case, or whether the expert is attempting to testify outside the proper scope."
+    },
+    {
+      "type": "paragraph",
+      "text": "In federal court, these issues may arise under Federal Rule of Evidence 702 and the principles associated with the Daubert standard. State standards vary. Related qualification issues are covered in qualifying an expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "An impressive resume alone does not guarantee that every proposed opinion will be admitted."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Opinions Can Be Excluded"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because expert testimony can substantially influence a jury, courts may exclude opinions that do not satisfy applicable admissibility requirements. For how those challenges work in practice, see Daubert expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert may be qualified generally but still be excluded from offering a particular opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, an emergency physician may have extensive medical experience but lack the specialized background needed to offer a highly technical opinion about the design of a medical device."
+    },
+    {
+      "type": "paragraph",
+      "text": "The focus is not simply whether the witness is an expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is whether the witness is qualified for the specific opinion and whether that opinion has a reliable foundation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fact Witness Credibility Works Differently"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fact witnesses can also be challenged, but the focus is often different."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cross-examination may test memory, perception, bias, inconsistent statements, opportunity to observe, or whether the witness's account matches other evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "A witness standing hundreds of feet away from an accident may have limited ability to judge what happened. A witness remembering a conversation years later may be confronted with documents created closer to the time."
+    },
+    {
+      "type": "paragraph",
+      "text": "With experts, credibility often centers more heavily on qualifications, methodology, assumptions, and whether the opinion follows logically from the evidence."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Same Evidence Can Support Both Types of Testimony"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider a slip and fall case."
+    },
+    {
+      "type": "paragraph",
+      "text": "A store employee may testify that the employee inspected the aisle ten minutes before the fall and did not observe a spill."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is fact testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "A surveillance video may then be reviewed by a premises liability expert who evaluates inspection practices, the development of the condition, or how the environment relates to accepted safety practices. Related premises issues are covered on our slip and fall expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is expert analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both witnesses may be discussing the same incident, but they serve different functions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Another Example: Medical Malpractice"
+    },
+    {
+      "type": "paragraph",
+      "text": "A nurse may testify that the patient complained of worsening symptoms during a particular shift and that those complaints were reported to a physician."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those are facts based on the nurse's participation in the care."
+    },
+    {
+      "type": "paragraph",
+      "text": "A nursing expert may separately review the chart and offer an opinion about whether the nursing care met the applicable standard of care."
+    },
+    {
+      "type": "paragraph",
+      "text": "A physician expert may then evaluate whether any delay in treatment caused the patient's injury. When those roles diverge, see when your case needs two expert witnesses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Several witnesses may therefore address overlapping events while answering completely different questions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Another Example: Truck Accident Litigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "An eyewitness may testify that the tractor-trailer appeared to enter the intersection after the traffic signal changed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The truck driver may testify about braking and what the driver saw."
+    },
+    {
+      "type": "paragraph",
+      "text": "An accident reconstructionist may analyze video, roadway evidence, electronic data, and vehicle movement to determine when the truck entered the intersection and at what approximate speed."
+    },
+    {
+      "type": "paragraph",
+      "text": "A trucking safety expert may then evaluate whether the driver's decisions were consistent with safe commercial driving practices. Related fleet and carrier issues are covered on our trucking safety expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each witness adds a different layer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why Attorneys Need Both"
+    },
+    {
+      "type": "paragraph",
+      "text": "A technical opinion without reliable facts can be weak."
+    },
+    {
+      "type": "paragraph",
+      "text": "Likewise, a large factual record may not answer the specialized question the jury ultimately needs to decide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fact witnesses establish what happened."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert witnesses help explain the technical significance of those facts."
+    },
+    {
+      "type": "paragraph",
+      "text": "In complex litigation, the two often depend on one another."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert's assumptions should be supported by evidence in the record, while the factual evidence may require expert interpretation before its significance becomes clear."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choosing the Correct Witness Type"
+    },
+    {
+      "type": "paragraph",
+      "text": "The simplest way to determine whether a witness is functioning as a fact witness or expert witness is to ask where the testimony comes from."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the witness is primarily describing firsthand observations, the testimony is generally factual."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the witness is applying specialized knowledge to analyze evidence and reach conclusions, the testimony is likely expert in nature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes the answer is both."
+    },
+    {
+      "type": "paragraph",
+      "text": "When that happens, attorneys should clearly identify which opinions arise from firsthand participation and which depend on specialized expertise, because different disclosure and admissibility requirements may apply."
     },
     {
       "type": "heading",
@@ -180,15 +594,19 @@
     },
     {
       "type": "paragraph",
-      "text": "A fact witness testifies to what they observed. An expert witness testifies to what the evidence means. The category is determined by whether the testimony requires specialized knowledge, not by how credentialed the witness is."
+      "text": "A fact witness tells the court what the witness personally observed or experienced."
     },
     {
       "type": "paragraph",
-      "text": "The most common failure is the treating physician who gets asked a causation question without having been disclosed as an expert. Decide the role early, disclose accordingly, and bring in a retained expert when the opinion you need goes beyond what anyone observed."
+      "text": "An expert witness uses specialized knowledge to explain what technical evidence means and may offer opinions that ordinary witnesses generally cannot."
     },
     {
       "type": "paragraph",
-      "text": "If you have a case that needs a vetted expert, start a search with Blackstorm Experts and we will get you matched candidates fast."
+      "text": "The distinction matters because it affects disclosure, testimony, compensation, admissibility, and how the witness is challenged."
+    },
+    {
+      "type": "paragraph",
+      "text": "In many complex cases, neither replaces the other. Fact witnesses establish the underlying record, while expert witnesses help the judge or jury understand the specialized questions that record creates. If you need a retained expert for a pending matter, start an expert witness search with Blackstorm Experts."
     }
   ]
 }

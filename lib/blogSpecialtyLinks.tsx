@@ -9,6 +9,23 @@ type TextSegment =
 
 const PAGE_PHRASES: { phrase: string; href: string }[] = [
   { phrase: 'expert witness fee structures', href: '/blog/expert-witness-fees-cost-structure' },
+  { phrase: 'who pays for an expert witness', href: '/blog/who-pays-for-an-expert-witness' },
+  { phrase: 'how much does an expert witness cost', href: '/blog/how-much-does-an-expert-witness-cost' },
+  {
+    phrase: 'when do attorneys need an expert witness',
+    href: '/blog/when-do-attorneys-need-an-expert-witness',
+  },
+  { phrase: 'can an expert witness be excluded', href: '/blog/can-an-expert-witness-be-excluded' },
+  { phrase: 'what is a Daubert challenge', href: '/blog/what-is-a-daubert-challenge' },
+  {
+    phrase: 'what qualifies someone as an expert witness',
+    href: '/blog/what-qualifies-someone-as-an-expert-witness',
+  },
+  {
+    phrase: 'can a treating physician be an expert witness',
+    href: '/blog/can-a-treating-physician-be-an-expert-witness',
+  },
+  { phrase: 'what is a medical expert witness', href: '/blog/what-is-a-medical-expert-witness' },
   {
     phrase: 'how to compare expert witness fees and qualifications',
     href: '/blog/how-to-compare-expert-witness-fees-and-qualifications',
@@ -21,11 +38,18 @@ const PAGE_PHRASES: { phrase: string; href: string }[] = [
   { phrase: 'expert witness deposition preparation', href: '/blog/expert-witness-deposition-preparation' },
   { phrase: 'Federal Rule of Evidence 702', href: '/blog/federal-rule-of-evidence-702' },
   { phrase: 'testifying vs consulting expert', href: '/blog/testifying-vs-consulting-expert' },
+  { phrase: 'consulting expert vs. testifying expert', href: '/blog/testifying-vs-consulting-expert' },
+  { phrase: 'consulting expert vs testifying expert', href: '/blog/testifying-vs-consulting-expert' },
   { phrase: 'what is an expert witness', href: '/blog/what-is-an-expert-witness' },
+  { phrase: 'what does an expert witness do', href: '/blog/what-does-an-expert-witness-do' },
   { phrase: 'expert witness vs fact witness', href: '/blog/expert-witness-vs-fact-witness' },
   { phrase: 'voir dire expert witness', href: '/blog/voir-dire-expert-witness' },
   { phrase: 'Daubert expert witness', href: '/blog/daubert-expert-witness' },
   { phrase: 'Daubert standard', href: '/blog/daubert-expert-witness' },
+  {
+    phrase: 'Daubert expert exclusion vetting checklist',
+    href: '/blog/daubert-expert-exclusion-vetting-checklist',
+  },
   { phrase: 'expert testimony in court', href: '/blog/expert-testimony-in-court' },
   { phrase: 'rebuttal expert witness', href: '/blog/rebuttal-expert-witness' },
   { phrase: 'engineering expert witness', href: '/expert-witness/engineering' },
@@ -57,6 +81,44 @@ const PAGE_PHRASES: { phrase: string; href: string }[] = [
     href: '/blog/certified-vs-nurse-life-care-planner',
   },
   { phrase: 'TBI expert witness', href: '/tbi-expert-witness' },
+  { phrase: 'heart attack expert witness', href: '/heart-attack-expert-witness' },
+  { phrase: 'aortic dissection expert witness', href: '/aortic-dissection-expert-witness' },
+  { phrase: 'seizure expert witness', href: '/seizure-expert-witness' },
+  { phrase: 'spinal cord injury expert witness', href: '/spinal-cord-injury-expert-witness' },
+  { phrase: 'knee surgery expert witness', href: '/knee-surgery-expert-witness' },
+  { phrase: 'hip surgery expert witness', href: '/hip-surgery-expert-witness' },
+  { phrase: 'hip replacement expert witness', href: '/hip-replacement-expert-witness' },
+  {
+    phrase: 'hospital-acquired infection expert witness',
+    href: '/hospital-acquired-infection-expert-witness',
+  },
+  {
+    phrase: 'postoperative infection expert witness',
+    href: '/postoperative-infection-expert-witness',
+  },
+  { phrase: 'delayed diagnosis expert witness', href: '/delayed-diagnosis-expert-witness' },
+  { phrase: 'surgical error expert witness', href: '/surgical-error-expert-witness' },
+  { phrase: 'medication error expert witness', href: '/medication-error-expert-witness' },
+  {
+    phrase: 'emergency room malpractice expert witness',
+    href: '/emergency-room-malpractice-expert-witness',
+  },
+  {
+    phrase: 'anesthesia malpractice expert witness',
+    href: '/anesthesia-malpractice-expert-witness',
+  },
+  { phrase: 'electrical shock expert witness', href: '/electrical-shock-expert-witness' },
+  { phrase: 'electrical fire expert witness', href: '/electrical-fire-expert-witness' },
+  { phrase: 'power line expert witness', href: '/power-line-expert-witness' },
+  { phrase: 'building collapse expert witness', href: '/building-collapse-expert-witness' },
+  { phrase: 'foundation failure expert witness', href: '/foundation-failure-expert-witness' },
+  { phrase: 'slip and fall expert witness', href: '/slip-and-fall-expert-witness' },
+  { phrase: 'truck accident expert witness', href: '/truck-accident-expert-witness' },
+  { phrase: 'trucking safety expert witness', href: '/trucking-safety-expert-witness' },
+  { phrase: 'freight broker expert witness', href: '/freight-broker-expert-witness' },
+  { phrase: 'injury causation expert witness', href: '/injury-causation-expert-witness' },
+  { phrase: 'low-speed impact expert witness', href: '/low-speed-impact-expert-witness' },
+  { phrase: 'failure to diagnose cancer expert witness', href: '/failure-to-diagnose-cancer-expert-witness' },
   {
     phrase: 'forensic electrical engineer expert witness',
     href: '/forensic-electrical-engineer-expert-witness',
@@ -69,6 +131,10 @@ const PAGE_PHRASES: { phrase: string; href: string }[] = [
   { phrase: 'Frye vs Daubert', href: '/blog/frye-vs-daubert' },
   { phrase: 'Daubert or Frye', href: '/blog/frye-vs-daubert' },
   { phrase: 'qualifying an expert witness', href: '/blog/qualifying-an-expert-witness' },
+  {
+    phrase: 'when your case needs two expert witnesses',
+    href: '/blog/when-your-case-needs-two-expert-witnesses',
+  },
   { phrase: 'expert witness search', href: '/expert-witness-search' },
 ].sort((a, b) => b.phrase.length - a.phrase.length)
 

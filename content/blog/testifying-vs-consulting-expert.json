@@ -1,10 +1,11 @@
 {
   "slug": "testifying-vs-consulting-expert",
-  "title": "Testifying vs Consulting Expert",
-  "metaTitle": "Testifying vs Consulting Expert: Discovery and Strategy",
-  "date": "2026-07-23",
-  "description": "How testifying and consulting experts differ in discovery exposure, when to use each, and how to convert a consulting expert without waiving protection.",
+  "title": "Consulting Expert vs. Testifying Expert: What Is the Difference?",
+  "metaTitle": "Consulting Expert vs. Testifying Expert: Roles, Discovery, and Disclosure",
+  "date": "2026-08-08",
+  "description": "Learn the difference between consulting and testifying experts, including their roles, disclosure requirements, discovery, reports, and when attorneys use each.",
   "keywords": [
+    "consulting expert vs testifying expert",
     "testifying vs consulting expert",
     "consulting expert discovery",
     "testifying expert Rule 26",
@@ -13,7 +14,6 @@
     "Rule 26(b)(4) expert communications",
     "consulting expert exceptional circumstances",
     "designated expert discovery",
-    "expert witness consulting strategy",
     "non-testifying expert"
   ],
   "specialties": [
@@ -24,29 +24,294 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "The distinction between a testifying and a consulting expert is a discovery distinction, and it is one of the few structural choices in litigation that materially changes what the other side gets to see. Getting it wrong is expensive and usually irreversible. For the broader role of experts in litigation, see what is an expert witness."
+      "text": "The main difference between a consulting expert and a testifying expert is whether the expert is expected to provide opinions as evidence in the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "A consulting expert generally works behind the scenes. The expert may evaluate technical issues, help an attorney understand the evidence, critique another expert, or assist with case strategy without ever being identified as a witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "A testifying expert is expected to offer opinions that may be disclosed to the opposing party and presented in deposition or at trial. For the broader role of experts in litigation, see what is an expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "The distinction matters because it can affect discovery, disclosure obligations, work product protections, reports, compensation, and how the expert is used throughout the litigation. The distinction turns on designation and expected role, not on job title. An expert who has not been designated but is plainly being groomed to testify does not get consulting protection simply because the designation has not been filed yet."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "The discovery difference"
+      "text": "What Is a Consulting Expert?"
     },
     {
       "type": "paragraph",
-      "text": "A testifying expert is disclosed under Rule 26(a)(2), and the disclosure carries a report containing all opinions, the basis for them, the facts and data considered, exhibits, qualifications, prior testimony over the past four years, and compensation. The expert is deposable and the report is the roadmap opposing counsel will use. Those disclosure contents are covered in the Rule 26 pre-retention checklist."
+      "text": "A consulting expert is retained primarily to help the legal team understand a specialized issue."
     },
     {
       "type": "paragraph",
-      "text": "A consulting expert retained in anticipation of litigation and not expected to testify is generally beyond discovery. Facts known and opinions held by that expert are discoverable only on a showing of exceptional circumstances, meaning the other side cannot practicably obtain equivalent information by other means. That standard is rarely met."
+      "text": "The expert may review records, answer technical questions, identify weaknesses in a claim, assess another expert's methodology, or help counsel determine whether additional investigation is necessary."
     },
     {
       "type": "paragraph",
-      "text": "The distinction turns on designation and expected role, not on job title. An expert who has not been designated but is plainly being groomed to testify does not get consulting protection simply because the designation has not been filed yet."
+      "text": "The consultant may never testify."
+    },
+    {
+      "type": "paragraph",
+      "text": "In some cases, that is the entire point."
+    },
+    {
+      "type": "paragraph",
+      "text": "An attorney may want candid technical analysis before deciding whether a theory is strong enough to disclose publicly."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "What is protected and what is not"
+      "text": "What Is a Testifying Expert?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A testifying expert is someone whose opinions are intended to be presented as evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may prepare a report, sit for deposition, respond to opposing experts, and testify at trial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once an expert is designated to testify, the expert's opinions and the basis for those opinions can become subject to disclosure and discovery under the applicable procedural rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "That generally means the relationship becomes much less private than a purely consulting engagement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Consulting Experts Help Attorneys Evaluate the Case"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most valuable uses of a consulting expert occurs before a case theory is fully developed."
+    },
+    {
+      "type": "paragraph",
+      "text": "An attorney may believe that a physician missed a diagnosis, that a machine was defective, or that a building failed because of poor construction."
+    },
+    {
+      "type": "paragraph",
+      "text": "The consulting expert can test that theory."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes the expert confirms that the technical argument is strong."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes the expert identifies a completely different issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes the expert concludes that the proposed claim is not supported at all."
+    },
+    {
+      "type": "paragraph",
+      "text": "That information can be valuable even though it never appears in court."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A Consulting Expert Can Help Decide Whether a Testifying Expert Is Needed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys do not always know the exact expert discipline required at the beginning."
+    },
+    {
+      "type": "paragraph",
+      "text": "A preliminary consultant can help narrow the problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, a building dispute may initially appear structural. After reviewing the evidence, a structural engineer may conclude that the real issue is soil movement and recommend a geotechnical engineer. Related foundation issues are covered on our foundation failure expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "A medical consultant may determine that a malpractice case requires one specialist for standard of care and another for causation. When those roles diverge, see when your case needs two expert witnesses."
+    },
+    {
+      "type": "paragraph",
+      "text": "That early guidance can prevent counsel from retaining the wrong expert and losing time."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Testifying Experts Need a Defined Opinion"
+    },
+    {
+      "type": "paragraph",
+      "text": "A consulting expert can explore possibilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "A testifying expert eventually needs to reach opinions that can be articulated and defended."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert should know what issue is being addressed, what facts support the conclusion, what methodology was used, and what limitations exist."
+    },
+    {
+      "type": "paragraph",
+      "text": "That does not mean every opinion must be absolute."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts can appropriately identify uncertainty."
+    },
+    {
+      "type": "paragraph",
+      "text": "But a witness cannot be useful simply by saying that several possibilities exist without explaining which conclusions the evidence actually supports."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A Consultant Can Be More Exploratory"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consulting work often has a wider scope."
+    },
+    {
+      "type": "paragraph",
+      "text": "The attorney may ask the expert to brainstorm alternative explanations, identify technical vulnerabilities, review several possible theories, or evaluate what additional discovery would be useful."
+    },
+    {
+      "type": "paragraph",
+      "text": "This work may never become formal testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "That flexibility makes consultants useful early in technically complicated cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert can help counsel understand the landscape before the litigation position becomes fixed."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Discovery Is a Major Difference"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discovery is one of the most important distinctions between consulting and testifying experts."
+    },
+    {
+      "type": "paragraph",
+      "text": "In federal litigation, experts expected to testify are generally subject to expert discovery under Federal Rule of Civil Procedure 26."
+    },
+    {
+      "type": "paragraph",
+      "text": "A testifying expert is disclosed under Rule 26(a)(2), and the disclosure often carries a report containing the opinions, the basis for them, the facts and data considered, exhibits, qualifications, prior testimony, and compensation. Those disclosure contents are covered in the Rule 26 pre-retention checklist."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts retained or specially employed in anticipation of litigation who are not expected to testify receive substantially greater protection from discovery, subject to limited exceptions. Facts known and opinions held by that consulting expert are generally discoverable only on a showing of exceptional circumstances, meaning the other side cannot practicably obtain equivalent information by other means."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exact rules and exceptions matter, and state practice can differ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The basic principle is that a testifying expert's opinions are usually far more discoverable than those of a purely consulting expert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Consulting Expert Protection Is Not Absolute"
+    },
+    {
+      "type": "paragraph",
+      "text": "Calling someone a consulting expert does not create unlimited secrecy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal rules provide protections for certain non-testifying experts, but discovery may still be allowed in exceptional circumstances. Exceptional circumstances can include destroyed evidence the consulting expert examined, or a situation where the consultant had unique access that cannot be replicated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other legal doctrines can also affect whether particular materials or communications are protected."
+    },
+    {
+      "type": "paragraph",
+      "text": "State rules may differ substantially. Some states depart from the federal framework on expert discovery, and a few permit broader discovery of consulting experts than Rule 26 allows."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys should therefore avoid assuming that every communication with every consultant is automatically immune from discovery simply because the expert is not currently expected to testify."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Testifying Expert Disclosures"
+    },
+    {
+      "type": "paragraph",
+      "text": "Testifying experts generally require formal disclosure."
+    },
+    {
+      "type": "paragraph",
+      "text": "In federal cases, Rule 26 distinguishes between witnesses who must provide a written expert report and certain other witnesses who provide expert testimony without the full report requirement."
+    },
+    {
+      "type": "paragraph",
+      "text": "For retained testifying experts, disclosures commonly include the opinions the expert will express, the basis and reasons for those opinions, facts or data considered, exhibits used, qualifications, prior testimony, and compensation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exact requirements depend on the applicable rule and court order."
+    },
+    {
+      "type": "paragraph",
+      "text": "These disclosures allow the opposing side to understand and challenge the expert's opinions before trial."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Reports"
+    },
+    {
+      "type": "paragraph",
+      "text": "A consulting expert usually does not prepare a formal report designed for disclosure unless counsel specifically requests one."
+    },
+    {
+      "type": "paragraph",
+      "text": "The consultant may instead provide oral feedback, notes, calculations, or an informal memorandum."
+    },
+    {
+      "type": "paragraph",
+      "text": "A retained testifying expert in federal litigation will often prepare a report that complies with Rule 26(a)(2)(B)."
+    },
+    {
+      "type": "paragraph",
+      "text": "That report becomes a major part of the expert record."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opposing counsel may use it during deposition, in motions to exclude, and at trial. Related exclusion issues are covered in can an expert witness be excluded."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because of that, a testifying report should accurately reflect opinions the expert can defend rather than function as a persuasive brief written for the attorney."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Communications With Testifying Experts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal rules provide certain protections for attorney-expert communications, but those protections are not unlimited."
     },
     {
       "type": "paragraph",
@@ -54,41 +319,90 @@
     },
     {
       "type": "paragraph",
-      "text": "Those exceptions are narrower than they sound, but they matter in practice. If counsel tells the expert to assume a set of facts and the expert builds the opinion on that assumption, the instruction is fair game and it will be explored at deposition. Expert witness deposition preparation should account for that exposure from the start."
+      "text": "Those exceptions are narrower than they sound, but they matter in practice. If counsel tells the expert to assume a set of facts and the expert builds the opinion on that assumption, the instruction is fair game and it will be explored at deposition. Related preparation issues are covered in expert witness deposition preparation."
     },
     {
       "type": "paragraph",
-      "text": "For consulting experts, the protection is broader but not absolute. Exceptional circumstances can include destroyed evidence the consulting expert examined, or a situation where the consultant had unique access that cannot be replicated."
+      "text": "Attorneys should communicate with experts as though the substance relevant to the expert's opinion may eventually receive scrutiny."
+    },
+    {
+      "type": "paragraph",
+      "text": "The purpose of expert protection is not to create a place for manufacturing opinions."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "When to use a consulting expert"
+      "text": "Compensation"
     },
     {
       "type": "paragraph",
-      "text": "Use one when you do not yet know what the opinion will be. An expert who reviews the file and concludes the facts do not support your theory is valuable information and a catastrophic disclosure. Retaining as a consultant first means you learn it privately."
+      "text": "Both consulting and testifying experts are normally paid for their professional time. Related cost questions are covered in how much does an expert witness cost."
     },
     {
       "type": "paragraph",
-      "text": "Use one to evaluate the opposing expert. A consultant can pick apart methodology, identify the weaknesses to target in deposition, and help draft the Daubert motion without ever being disclosed. Those methodology challenges sit under Federal Rule of Evidence 702."
+      "text": "A consultant may bill for review, analysis, conferences, research, or assistance with depositions."
     },
     {
       "type": "paragraph",
-      "text": "Use one on technical issues where you need to understand the subject to work the case up, even if the testimony will come from someone else. The person who teaches you the engineering does not have to be the person who explains it to the jury."
+      "text": "A testifying expert may perform those same tasks and also charge for reports, deposition preparation, deposition testimony, trial preparation, travel, and courtroom testimony. For who ordinarily pays those fees, see who pays for an expert witness."
     },
     {
       "type": "paragraph",
-      "text": "Use one when the budget is tight. Consulting work is generally cheaper per hour, involves no report, and avoids deposition costs entirely."
+      "text": "The expert should be paid for work performed rather than for reaching a favorable opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "That principle applies regardless of whether the expert ultimately testifies."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "Converting a consulting expert to a testifying expert"
+      "text": "A Consulting Expert Can Reach an Unfavorable Opinion"
     },
     {
       "type": "paragraph",
-      "text": "This happens routinely and it is permitted, but the protection does not survive the conversion. Once designated, the expert's opinions, the facts and data considered, and the required report contents become discoverable, and prior work on the case can be explored to the extent it bears on the disclosed opinions."
+      "text": "One major benefit of consulting review is that the attorney can obtain technical feedback before committing to a witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suppose a plaintiff attorney believes that an anesthesiologist caused a patient's injury."
+    },
+    {
+      "type": "paragraph",
+      "text": "A consulting anesthesiologist may review the records and conclude that the care was appropriate. Related anesthesia issues are covered on our anesthesia malpractice expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "That conclusion can prevent counsel from building a case around an unsupported theory."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert should still be compensated for the review."
+    },
+    {
+      "type": "paragraph",
+      "text": "The value was discovering the weakness before disclosure and trial."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Can a Consulting Expert Later Become a Testifying Expert?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes, in many cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "An attorney may initially retain an expert as a consultant and later decide that the expert should testify."
+    },
+    {
+      "type": "paragraph",
+      "text": "That transition should be handled carefully."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the expert becomes a testifying witness, additional disclosure and discovery obligations may apply. The protection does not survive the conversion. Opinions, the facts and data considered, and the required report contents become discoverable, and prior work on the case can be explored to the extent it bears on the disclosed opinions."
     },
     {
       "type": "paragraph",
@@ -101,27 +415,539 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "Practical structuring"
+      "text": "Why Attorneys Sometimes Use Separate Experts"
     },
     {
       "type": "paragraph",
-      "text": "Retain in the consulting role by default when the opinion is unknown. Designate only after you have seen the analysis and decided it helps."
+      "text": "An attorney may use one expert as a consultant and another as the testifying witness."
     },
     {
       "type": "paragraph",
-      "text": "Keep the roles separate where the case supports it. Using one expert as a dedicated consultant and a different expert as the testifying witness preserves the protection cleanly and avoids the conversion problem entirely."
+      "text": "There can be practical reasons for this."
     },
     {
       "type": "paragraph",
-      "text": "Put the role in the engagement letter. The designation should be explicit, along with what happens if the role changes, so the expert understands the discovery posture of their own work."
+      "text": "The consultant may have exceptional technical expertise but little interest in testimony. The consultant may help identify the strongest theory and then recommend a specialist better suited to courtroom work."
     },
     {
       "type": "paragraph",
-      "text": "Watch the local rules. Some states depart from the federal framework on expert discovery, and a few permit broader discovery of consulting experts than Rule 26 allows."
+      "text": "In other cases, counsel may want a consulting expert to independently evaluate the work of the testifying expert."
     },
     {
       "type": "paragraph",
-      "text": "If you need a vetted expert for either role, start an expert witness search with Blackstorm Experts and we will get you matched candidates fast."
+      "text": "These roles can complement one another. Keeping the roles separate where the case supports it also preserves consulting protection cleanly and avoids the conversion problem entirely."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Consulting Experts Can Help Prepare for Depositions"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert does not have to testify to be useful during expert discovery."
+    },
+    {
+      "type": "paragraph",
+      "text": "A consultant may review the opposing expert's report, identify technical weaknesses, suggest areas for questioning, and explain terminology before a deposition."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, a consulting orthopedic surgeon might help counsel understand why an opposing physician's causation opinion conflicts with the imaging and medical history. Related mechanism and medical questions are covered on our injury causation expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "An engineering consultant might identify assumptions buried in a reconstruction calculation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The attorney then uses that technical understanding to conduct the deposition."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Consultants Can Help With Cross-Examination"
+    },
+    {
+      "type": "paragraph",
+      "text": "The same approach applies before trial."
+    },
+    {
+      "type": "paragraph",
+      "text": "A consulting expert may help counsel understand the strongest and weakest portions of an opposing expert's expected testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "That can improve cross-examination without putting the consultant on the witness stand."
+    },
+    {
+      "type": "paragraph",
+      "text": "The consultant may identify scientific literature, contradictory data, methodological flaws, or questions that expose assumptions. Related challenge practice is covered in what is a Daubert challenge."
+    },
+    {
+      "type": "paragraph",
+      "text": "The attorney remains the advocate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The consultant supplies the technical understanding necessary to ask better questions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Testifying Experts Must Withstand Cross-Examination"
+    },
+    {
+      "type": "paragraph",
+      "text": "A testifying expert has a different job."
+    },
+    {
+      "type": "paragraph",
+      "text": "Technical accuracy is only part of the requirement."
+    },
+    {
+      "type": "paragraph",
+      "text": "The witness must also explain the opinion clearly under direct examination and respond effectively when opposing counsel challenges qualifications, assumptions, methodology, compensation, prior testimony, and conclusions."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert who is excellent behind the scenes may not necessarily be comfortable in that role."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is one reason consulting and testifying experts should not be treated as interchangeable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Communication Ability Matters More for Testifying Experts"
+    },
+    {
+      "type": "paragraph",
+      "text": "The testifying expert has to teach."
+    },
+    {
+      "type": "paragraph",
+      "text": "A jury may have no background in cardiology, engineering, economics, trucking operations, or another specialized field."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert must translate complex material without distorting it."
+    },
+    {
+      "type": "paragraph",
+      "text": "This requires more than technical knowledge."
+    },
+    {
+      "type": "paragraph",
+      "text": "The witness should answer directly, avoid unnecessary jargon, and explain why particular facts matter. Related role questions are covered in what does an expert witness do."
+    },
+    {
+      "type": "paragraph",
+      "text": "A consultant can be extremely valuable even if the person's communication style would not work well in front of a jury."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Consultants Can Be Highly Specialized"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some technical questions are so narrow that the best subject-matter expert may not routinely testify."
+    },
+    {
+      "type": "paragraph",
+      "text": "A physician may be one of a small number of specialists performing a rare procedure."
+    },
+    {
+      "type": "paragraph",
+      "text": "An engineer may have designed the exact type of system involved."
+    },
+    {
+      "type": "paragraph",
+      "text": "A scientist may have spent a career studying a highly specialized material."
+    },
+    {
+      "type": "paragraph",
+      "text": "That person can still provide valuable consulting assistance even if the expert has no interest in litigation testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "The attorney may then retain a testifying expert who can incorporate appropriate technical understanding independently."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Testifying Expert Must Form the Testifying Expert's Own Opinion"
+    },
+    {
+      "type": "paragraph",
+      "text": "A consultant should not secretly become the real author of another expert's opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "A testifying expert can review information, research, and other expert work where appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "But the disclosed witness should independently understand and support the conclusions being offered."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the testifying expert cannot explain the analysis without relying on an undisclosed consultant, the opinion can become vulnerable."
+    },
+    {
+      "type": "paragraph",
+      "text": "The witness on the stand needs to own the methodology and conclusions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Consulting Experts and Work Product"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consulting experts are often retained in anticipation of litigation, which can implicate work product protections."
+    },
+    {
+      "type": "paragraph",
+      "text": "The precise scope of those protections depends on the jurisdiction, procedural rules, nature of the expert's work, and circumstances surrounding the engagement."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is another reason attorneys should define the role clearly at the beginning. Put the role in the engagement letter. The designation should be explicit, along with what happens if the role changes, so the expert understands the discovery posture of their own work."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert retained to investigate an accident immediately after it occurs may occupy a different procedural position from an expert retained later solely to give trial testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "The label alone does not resolve every discovery question."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Experts Who Were Involved Before Litigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every specialist connected to a case fits neatly into consulting or retained-testifying categories."
+    },
+    {
+      "type": "paragraph",
+      "text": "A treating physician, project engineer, accountant, employee, or other professional may have developed specialized knowledge through involvement in the underlying events. Related treating-physician issues are covered in can a treating physician be an expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "That person may later provide expert testimony without having originally been retained for litigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "These witnesses are often treated differently from experts specifically hired to analyze the lawsuit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Understanding how the expert acquired the information is therefore important."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Testifying Experts May Need to Address Opposing Opinions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once expert reports are exchanged, a testifying expert may need to evaluate another expert's conclusions."
+    },
+    {
+      "type": "paragraph",
+      "text": "This may occur through rebuttal reports, supplemental opinions, deposition testimony, or trial testimony depending on the procedural rules. Related rebuttal strategy is covered in rebuttal expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert should distinguish between disagreeing with the conclusion and explaining why the opposing methodology or assumptions are flawed."
+    },
+    {
+      "type": "paragraph",
+      "text": "A strong rebuttal does not simply say, \"I disagree.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "It shows where the analytical paths separate."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Consulting Experts Can Help Determine Whether Rebuttal Is Worthwhile"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every opposing opinion deserves another full expert report."
+    },
+    {
+      "type": "paragraph",
+      "text": "A consultant can help counsel determine whether an opinion contains a genuine technical weakness, a minor disagreement, or an issue better handled during cross-examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "That can control cost and avoid unnecessary expert proliferation."
+    },
+    {
+      "type": "paragraph",
+      "text": "A new expert should solve a problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "Adding another witness simply because the other side has one can make the case more complicated without materially strengthening it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conflicts Matter for Both Types of Experts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conflict checking should occur before substantive information is shared with either a consultant or a potential testifying expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert may have worked for the opposing party, treated an involved patient, consulted for a manufacturer, or received confidential information in another matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "A consulting relationship can also create future complications."
+    },
+    {
+      "type": "paragraph",
+      "text": "If an attorney shares confidential information with an expert and later decides not to retain that person, the opposing side may face limitations on using the same expert depending on the circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early conflict checks reduce these problems."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A Consultant Is Not Automatically a Backup Witness"
+    },
+    {
+      "type": "paragraph",
+      "text": "Counsel should not assume that every consulting expert can simply be converted into a testifying witness at the last minute."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may have conflicts, availability issues, insufficient litigation experience, or opinions that were never developed for disclosure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The procedural deadline may also make late designation impossible."
+    },
+    {
+      "type": "paragraph",
+      "text": "If there is a realistic possibility that the consultant will testify, that possibility should be considered early."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When to Use a Consulting Expert First"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consulting review makes particular sense when the technical viability of the case is uncertain."
+    },
+    {
+      "type": "paragraph",
+      "text": "It can also be useful when counsel does not yet know which specialty is required, when a potentially expensive investigation needs to be scoped, or when an opposing expert has raised unfamiliar technical issues."
+    },
+    {
+      "type": "paragraph",
+      "text": "A consultant can answer the question, \"What are we actually dealing with?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Only after that answer may it become clear who should testify. Related timing questions are covered in when do attorneys need an expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When to Go Directly to a Testifying Expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes the need is already obvious."
+    },
+    {
+      "type": "paragraph",
+      "text": "A malpractice case may require a cardiologist to provide a standard-of-care opinion by a known disclosure deadline."
+    },
+    {
+      "type": "paragraph",
+      "text": "A structural engineering dispute may already have a clearly defined failure theory."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the appropriate discipline and assignment are established, retaining the intended testifying expert directly may be more efficient."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no reason to create an additional consulting layer simply because it is available."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cost Differences"
+    },
+    {
+      "type": "paragraph",
+      "text": "A consulting engagement can sometimes be less expensive because it ends after preliminary review."
+    },
+    {
+      "type": "paragraph",
+      "text": "But consulting is not inherently cheaper."
+    },
+    {
+      "type": "paragraph",
+      "text": "A highly specialized consultant may perform substantial analysis over months."
+    },
+    {
+      "type": "paragraph",
+      "text": "A testifying expert may conduct a relatively narrow review and never reach trial."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cost follows the amount and type of work, not the label."
+    },
+    {
+      "type": "paragraph",
+      "text": "What usually makes testifying experts more expensive is the additional burden of reports, deposition, trial preparation, testimony, and scheduling."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Wrong Expert Role Can Create Unnecessary Cost"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine retaining an expensive surgeon as a testifying expert before determining whether the case actually turns on surgical technique."
+    },
+    {
+      "type": "paragraph",
+      "text": "After review, it becomes clear that the disputed issue is postoperative nursing care."
+    },
+    {
+      "type": "paragraph",
+      "text": "The surgeon may have been valuable as an early consultant, but the litigation now requires a different expert."
+    },
+    {
+      "type": "paragraph",
+      "text": "Defining the question before defining the witness role can prevent that problem."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Independence Matters in Both Roles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Neither a consulting expert nor a testifying expert should be hired merely to validate the attorney's preferred theory."
+    },
+    {
+      "type": "paragraph",
+      "text": "The consultant is most useful when willing to identify flaws."
+    },
+    {
+      "type": "paragraph",
+      "text": "The testifying expert is most credible when willing to acknowledge uncertainty and unfavorable evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts provide specialized analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys decide how that analysis fits into litigation strategy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blurring those functions can weaken both."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Can the Same Case Have Several Consultants and Testifying Experts?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Large cases often involve a technical team."
+    },
+    {
+      "type": "paragraph",
+      "text": "A catastrophic injury matter might include consulting physicians, a testifying orthopedic surgeon, a life-care planner, a vocational expert, and an economist. Related life-care issues are covered on our life care planner expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "A product case may involve engineers from several disciplines."
+    },
+    {
+      "type": "paragraph",
+      "text": "The important issue is whether each expert has a defined function."
+    },
+    {
+      "type": "paragraph",
+      "text": "Overlap may occasionally be useful, but unnecessary duplication increases expense and can create inconsistent opinions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choosing Between a Consultant and a Testifying Expert"
+    },
+    {
+      "type": "paragraph",
+      "text": "Start with what you need from the expert right now."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the primary goal is understanding the case, screening a theory, evaluating an opposing opinion, or identifying additional evidence, a consulting expert may be sufficient."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the case requires an admissible expert opinion to establish or defend an element, a testifying expert is likely necessary."
+    },
+    {
+      "type": "paragraph",
+      "text": "The answer can change as the litigation develops."
+    },
+    {
+      "type": "paragraph",
+      "text": "An engagement that begins as consultation may eventually become testimony, while a potential testifying expert may remain behind the scenes if the case resolves or the technical issue changes. Retain in the consulting role by default when the opinion is unknown. Designate only after you have seen the analysis and decided it helps."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "paragraph",
+      "text": "A consulting expert works primarily with the legal team behind the scenes. A testifying expert provides specialized opinions intended to become evidence in the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both may review records, analyze technical issues, and advise attorneys, but designation for testimony changes the procedural landscape."
+    },
+    {
+      "type": "paragraph",
+      "text": "Testifying experts generally face greater disclosure, discovery, deposition, and admissibility scrutiny. Consulting experts often provide counsel with more private space to evaluate the technical strengths and weaknesses of a case."
+    },
+    {
+      "type": "paragraph",
+      "text": "The best choice depends on the objective."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the attorney needs to understand the problem, consultation may be enough. If the judge or jury needs an expert opinion to resolve it, the case needs a witness prepared to testify. If you need a vetted expert for either role, start an expert witness search with Blackstorm Experts."
     }
   ]
 }

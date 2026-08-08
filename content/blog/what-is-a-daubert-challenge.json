@@ -1,0 +1,1169 @@
+{
+  "slug": "what-is-a-daubert-challenge",
+  "title": "What Is a Daubert Challenge?",
+  "metaTitle": "What Is a Daubert Challenge? Rule 702 and Expert Exclusion",
+  "date": "2026-08-08",
+  "description": "Learn what a Daubert challenge is, how courts evaluate expert testimony, what Rule 702 requires, and why an expert may be limited or excluded.",
+  "keywords": [
+    "what is a Daubert challenge",
+    "Daubert challenge",
+    "Daubert motion",
+    "Daubert hearing",
+    "Rule 702 expert testimony",
+    "expert witness Daubert",
+    "Daubert reliability",
+    "exclude expert witness Daubert",
+    "Federal Rule of Evidence 702",
+    "expert gatekeeping"
+  ],
+  "specialties": [
+    "personal-injury",
+    "medical-malpractice",
+    "accident-reconstruction"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A Daubert challenge is a request asking a court to exclude or limit expert testimony because the proposed opinion does not satisfy the applicable standards for expert evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "In federal court, these challenges are evaluated under Federal Rule of Evidence 702 and the case law developed from Daubert v. Merrell Dow Pharmaceuticals, Inc. The focus is not simply on whether the expert has impressive credentials. The court also considers whether the expert's opinion is based on sufficient facts or data, uses reliable principles and methods, and applies those methods reliably to the facts of the case. Related exclusion issues are covered in can an expert witness be excluded."
+    },
+    {
+      "type": "paragraph",
+      "text": "A successful Daubert challenge can exclude an expert entirely or prevent the expert from offering particular opinions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why Daubert Challenges Matter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert witnesses can have enormous influence in litigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jurors may hear testimony from surgeons, engineers, scientists, economists, accident reconstructionists, or other specialists on subjects they have no independent background to evaluate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because of that imbalance in technical knowledge, courts do not simply allow every person labeled an expert to give every proposed opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "The judge serves a gatekeeping role."
+    },
+    {
+      "type": "paragraph",
+      "text": "The purpose is to determine whether the testimony is sufficiently reliable and relevant to be presented to the factfinder. Related challenge practice is covered in Daubert expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where the Name \"Daubert\" Comes From"
+    },
+    {
+      "type": "paragraph",
+      "text": "The term comes from the U.S. Supreme Court's 1993 decision in Daubert v. Merrell Dow Pharmaceuticals, Inc."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case addressed the admissibility of scientific expert testimony under the Federal Rules of Evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daubert rejected the idea that general acceptance within a scientific community was the only test for admissibility and emphasized a broader inquiry into reliability and relevance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Later Supreme Court decisions expanded the gatekeeping principle beyond narrowly scientific testimony to technical and other specialized expertise."
+    },
+    {
+      "type": "paragraph",
+      "text": "Today, attorneys commonly use \"Daubert motion\" as shorthand for a challenge to expert testimony in federal litigation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rule 702 Is the Current Starting Point"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although Daubert remains the familiar name, Federal Rule of Evidence 702 is the operative rule governing expert testimony in federal court."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rule requires that the expert's specialized knowledge help the trier of fact understand the evidence or determine a fact in issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "It also requires the testimony to be based on sufficient facts or data, to result from reliable principles and methods, and to reflect a reliable application of those principles and methods to the facts of the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "The proponent of the expert testimony bears the burden of establishing the admissibility requirements by a preponderance of the evidence."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The 2023 Amendment to Rule 702"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rule 702 was amended effective December 1, 2023."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amendment emphasized that the proponent must demonstrate the admissibility requirements to the court by a preponderance of the evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "It also clarified the importance of reliable application of methodology to the facts of the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "That matters because some courts had treated certain flaws in an expert's application of methodology as issues affecting only the weight of the testimony rather than admissibility."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amended rule reinforces that the judge must actually determine whether the Rule 702 requirements are satisfied."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A Daubert Challenge Is Not Just About Credentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most common misconceptions is that an expert with exceptional qualifications is automatically safe from exclusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Qualifications are only one part of the analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "A highly respected specialist may still offer an unreliable opinion if the methodology is unsupported, the factual assumptions are weak, or the conclusion extends beyond the expert's actual expertise."
+    },
+    {
+      "type": "paragraph",
+      "text": "A less famous expert may offer admissible testimony if the person has appropriate experience and applies a reliable method to the issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "The court is evaluating the opinion as well as the person giving it. For how qualification attaches to the specific opinion, see qualifying an expert witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qualification"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first issue may be whether the witness is actually qualified to address the subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal Rule 702 recognizes qualification through knowledge, skill, experience, training, or education."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those categories are broad."
+    },
+    {
+      "type": "paragraph",
+      "text": "A university professor may qualify through academic research. A surgeon may qualify through clinical practice. A fleet safety professional may qualify through decades of operating experience."
+    },
+    {
+      "type": "paragraph",
+      "text": "The important question is whether that background relates to the specific opinion being offered."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Specialty Matching"
+    },
+    {
+      "type": "paragraph",
+      "text": "Qualification disputes become especially important when experts move into adjacent fields."
+    },
+    {
+      "type": "paragraph",
+      "text": "A neurologist may understand medicine broadly but may not be qualified to testify about the standard of care for a highly specialized orthopedic procedure."
+    },
+    {
+      "type": "paragraph",
+      "text": "An electrical engineer may understand electrical systems but lack experience investigating fire origin and cause."
+    },
+    {
+      "type": "paragraph",
+      "text": "A trucking safety expert may understand motor carrier practices but not be qualified to calculate collision speed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expertise is not unlimited merely because two subjects overlap. When those roles diverge, see when your case needs two expert witnesses."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Daubert challenge may target that boundary."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sufficient Facts and Data"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert opinion needs an adequate factual foundation."
+    },
+    {
+      "type": "paragraph",
+      "text": "That does not mean the expert must review every document in the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "It means the information relied upon should be sufficient to support the type of conclusion being offered."
+    },
+    {
+      "type": "paragraph",
+      "text": "A medical causation expert may need prior medical records, imaging, treatment history, and information about the alleged event. Related mechanism and medical questions are covered on our injury causation expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "A structural engineer may need plans, photographs, measurements, inspection findings, and information about the building's history."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the expert lacks data necessary to perform the analysis reliably, the opinion can become vulnerable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Problem With Unsupported Assumptions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many expert opinions depend on assumptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is normal."
+    },
+    {
+      "type": "paragraph",
+      "text": "The issue is whether those assumptions have evidentiary support."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suppose a biomechanical expert assumes that a plaintiff was facing straight forward during a collision even though deposition testimony says the plaintiff was turned sharply to the side."
+    },
+    {
+      "type": "paragraph",
+      "text": "Or an economist assumes uninterrupted future employment despite evidence that the business was already closing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The methodology might be accepted within the field, but an unsupported input can undermine the conclusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Daubert motion may therefore attack the assumptions rather than the underlying science."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reliable Principles and Methods"
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert must use an approach that is sufficiently reliable for the subject being analyzed."
+    },
+    {
+      "type": "paragraph",
+      "text": "What that looks like varies tremendously by discipline."
+    },
+    {
+      "type": "paragraph",
+      "text": "A scientist may rely on experimental testing. An engineer may use calculations, inspection, modeling, and recognized technical standards. A physician may rely on clinical reasoning, medical literature, differential diagnosis, and experience."
+    },
+    {
+      "type": "paragraph",
+      "text": "A forensic accountant may analyze transactions and financial records using established accounting principles."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no universal expert-witness methodology."
+    },
+    {
+      "type": "paragraph",
+      "text": "The question is whether the approach is appropriate within the relevant field."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Traditional Daubert Factors"
+    },
+    {
+      "type": "paragraph",
+      "text": "Daubert identified several considerations that may help courts evaluate scientific reliability."
+    },
+    {
+      "type": "paragraph",
+      "text": "These include whether a theory can be tested, whether it has been subjected to peer review and publication, the known or potential error rate, the existence of standards controlling the technique, and whether the methodology has gained general acceptance."
+    },
+    {
+      "type": "paragraph",
+      "text": "These are considerations, not a mandatory checklist."
+    },
+    {
+      "type": "paragraph",
+      "text": "A particular factor may be highly useful in one case and largely irrelevant in another."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical medical judgment, for example, may not be evaluated in exactly the same way as a laboratory testing protocol. Related checklist points are covered in Daubert expert exclusion vetting checklist."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Testing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether a theory has been or can be tested can be important."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suppose an engineer claims that a particular mechanical failure caused an accident."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the hypothesis could reasonably be tested against the physical evidence, the court may want to know whether the expert performed that analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "The absence of testing is not automatically fatal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes testing is impossible because evidence was destroyed. Sometimes it would alter the evidence. Sometimes the field does not ordinarily require experimental testing for the type of opinion involved."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert should be able to explain why the chosen approach is appropriate."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Peer Review and Publication"
+    },
+    {
+      "type": "paragraph",
+      "text": "Scientific literature can provide support for a methodology."
+    },
+    {
+      "type": "paragraph",
+      "text": "Peer-reviewed publication may indicate that a theory or method has been exposed to scrutiny within the professional community."
+    },
+    {
+      "type": "paragraph",
+      "text": "Publication does not prove that an opinion is correct."
+    },
+    {
+      "type": "paragraph",
+      "text": "Likewise, lack of publication does not automatically make an opinion unreliable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some forms of technical and experiential expertise are not routinely published in academic journals."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relevance of peer review depends on the discipline and the nature of the opinion."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Error Rates"
+    },
+    {
+      "type": "paragraph",
+      "text": "Known or potential error rates can be useful when the expert relies on a measurable scientific or technical method."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some laboratory tests, forensic techniques, and analytical procedures have quantifiable error characteristics."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other forms of expert reasoning do not."
+    },
+    {
+      "type": "paragraph",
+      "text": "A surgeon evaluating whether an earlier diagnosis would have changed treatment may not be using a method that produces one numerical error rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The court should therefore consider whether error-rate analysis actually fits the type of expertise being offered."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "General Acceptance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether a method is generally accepted within the relevant field remains relevant after Daubert."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is simply no longer the only consideration in federal court."
+    },
+    {
+      "type": "paragraph",
+      "text": "An established engineering technique used routinely outside litigation may have a strong reliability foundation."
+    },
+    {
+      "type": "paragraph",
+      "text": "A novel approach created specifically for one lawsuit may invite closer scrutiny."
+    },
+    {
+      "type": "paragraph",
+      "text": "General acceptance can therefore be important evidence that the methodology reflects professional practice rather than litigation-driven invention."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reliable Application Matters Too"
+    },
+    {
+      "type": "paragraph",
+      "text": "A reliable methodology can still produce an inadmissible opinion if the expert applies it unreliably."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine an accident reconstructionist using a recognized equation but entering unsupported values."
+    },
+    {
+      "type": "paragraph",
+      "text": "The equation is not the problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "The application is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Or a physician may use an accepted differential diagnosis framework but fail to meaningfully consider a major alternative cause documented throughout the medical record."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daubert analysis can reach this application step, not merely the abstract validity of the methodology."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Relevance and \"Fit\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert testimony must also fit the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "A technically sound opinion about an unrelated subject does not help the jury decide the disputed issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suppose a building expert identifies multiple code violations but none contributed to the plaintiff's fall."
+    },
+    {
+      "type": "paragraph",
+      "text": "The violations may be real, but they may not meaningfully answer the causation question before the court."
+    },
+    {
+      "type": "paragraph",
+      "text": "This connection between reliable expertise and the actual case is sometimes described as \"fit.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "The opinion should address an issue that matters."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Legal Conclusions Can Be a Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert witnesses explain specialized subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "They generally should not simply tell the jury what legal conclusion to reach."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, an expert may explain professional standards and identify conduct that departed from those standards."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert should be cautious about offering broad statements such as \"the defendant was negligent\" if that phrase merely instructs the jury how to decide the legal claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "The permissible boundary can depend on jurisdiction and context."
+    },
+    {
+      "type": "paragraph",
+      "text": "Good expert testimony focuses on the specialized opinion the witness is qualified to provide. Related role questions are covered in what does an expert witness do."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Methodology Versus Weight"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most important Daubert disputes is whether a criticism justifies exclusion or merely provides material for cross-examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert's method can be reliable even when the opposing party disagrees with certain assumptions or conclusions."
+    },
+    {
+      "type": "paragraph",
+      "text": "In that situation, the disagreement may go to the weight of the testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "The jury hears both sides and decides which expert is more persuasive."
+    },
+    {
+      "type": "paragraph",
+      "text": "But when the methodology itself is unreliable, the factual foundation is inadequate, or the expert applies the method unreliably, exclusion may become appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The distinction is highly fact-specific."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Competing Opinions Do Not Automatically Create a Daubert Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": "Two experts can disagree without either opinion being inadmissible."
+    },
+    {
+      "type": "paragraph",
+      "text": "This happens constantly in medicine, engineering, economics, and other professional fields."
+    },
+    {
+      "type": "paragraph",
+      "text": "One oncologist may conclude that an earlier cancer diagnosis probably would have changed survival. Another may conclude that metastatic disease was likely already present. Related cancer delay issues are covered on our failure to diagnose cancer expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "If each opinion rests on a reliable methodology and adequate evidence, the dispute may properly be resolved through testimony and cross-examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daubert is not intended to eliminate legitimate differences of professional opinion."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A Weak Conclusion Is Not Always an Inadmissible Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert may have vulnerabilities that make the opinion less persuasive without making it inadmissible."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert might lack experience compared with the opposing witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "The analysis might depend on disputed evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may have published little on the subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those points can be powerful during cross-examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Daubert motion asks something more fundamental: whether the testimony satisfies the threshold requirements to be heard at all."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Medical Causation Challenges"
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical causation is a frequent subject of expert challenges."
+    },
+    {
+      "type": "paragraph",
+      "text": "The dispute may involve whether the physician considered plausible alternative causes, whether medical literature supports the proposed relationship, whether the timing makes biological sense, and whether the opinion is based on more than temporal association."
+    },
+    {
+      "type": "paragraph",
+      "text": "A patient developing symptoms after an event can support causation."
+    },
+    {
+      "type": "paragraph",
+      "text": "But \"after\" does not necessarily mean \"because of.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "A medical expert should explain the physiological or clinical reasoning connecting the alleged event to the particular condition."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Differential Diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Physicians may use differential diagnosis or differential etiology when analyzing causation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert identifies plausible causes and evaluates them against the patient's history, testing, symptoms, and medical evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "An opposing party may argue that the expert failed to consider an obvious alternative cause or dismissed one without adequate explanation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert does not necessarily need to eliminate every conceivable possibility."
+    },
+    {
+      "type": "paragraph",
+      "text": "The analysis should demonstrate why the favored explanation is medically more persuasive than meaningful alternatives."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Biomechanics Challenges"
+    },
+    {
+      "type": "paragraph",
+      "text": "Biomechanical testimony may be challenged when the expert lacks reliable information about the collision or occupant."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, the opinion may depend on an estimated delta-V, occupant posture, seat position, or body movement. Related low-speed collision issues are covered on our low-speed impact expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "If those inputs are unsupported, the biomechanical analysis may inherit the uncertainty."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another common issue is scope."
+    },
+    {
+      "type": "paragraph",
+      "text": "A biomechanical engineer may be qualified to discuss loading and movement without being qualified to diagnose whether a plaintiff actually sustained a particular medical injury."
+    },
+    {
+      "type": "paragraph",
+      "text": "A challenge may therefore seek to limit rather than completely exclude the witness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Accident Reconstruction Challenges"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reconstruction opinions often involve measurements, vehicle damage, electronic data, video, physical evidence, and mathematical calculations."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Daubert challenge may question whether the expert used appropriate inputs or whether the evidence is sufficient to reconstruct the accident reliably."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, estimating vehicle speed from photographs can be difficult when measurements and scene evidence are unavailable."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reconstructionist should identify uncertainty rather than create false precision."
+    },
+    {
+      "type": "paragraph",
+      "text": "A range supported by the evidence may be more defensible than an exact number built on weak assumptions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Engineering Challenges"
+    },
+    {
+      "type": "paragraph",
+      "text": "Engineering opinions can be attacked when the expert does not identify a plausible failure mechanism."
+    },
+    {
+      "type": "paragraph",
+      "text": "It may not be enough to observe that a component broke and conclude that it must have been defective."
+    },
+    {
+      "type": "paragraph",
+      "text": "The engineer may need to evaluate material condition, loading, design, installation, maintenance, alternative causes, and the physical evidence left by the failure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The same principle applies in structural cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cracking alone does not identify whether the cause was settlement, shrinkage, overload, design, construction, or another mechanism. Related foundation issues are covered on our foundation failure expert witness page."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Opinions Based Only on Experience"
+    },
+    {
+      "type": "paragraph",
+      "text": "Experience can qualify an expert and provide a reliable basis for testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "But the expert should explain how the experience leads to the conclusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "A witness who says, \"I have worked in this industry for 35 years and this is my opinion,\" may face criticism if no analytical connection is provided."
+    },
+    {
+      "type": "paragraph",
+      "text": "The better explanation identifies the relevant industry practice, the expert's experience with comparable situations, the facts of the case, and why those facts support the conclusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experience is strongest when it is applied transparently."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ipse Dixit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Courts and attorneys sometimes use the Latin phrase ipse dixit when criticizing an expert opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this context, it essentially means the opinion depends on the expert's assertion rather than an adequately explained analytical basis."
+    },
+    {
+      "type": "paragraph",
+      "text": "The problem is not that experts rely on professional judgment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Professional judgment is often essential."
+    },
+    {
+      "type": "paragraph",
+      "text": "The problem arises when the expert cannot explain how the facts and methodology produce the conclusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expertise should supply reasoning, not replace it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cherry-Picking Data"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert may also be challenged for selectively relying on evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "A physician may emphasize post-accident complaints while ignoring extensive prior treatment for the same symptoms."
+    },
+    {
+      "type": "paragraph",
+      "text": "An accountant may select a highly profitable period to project future earnings while disregarding later declines."
+    },
+    {
+      "type": "paragraph",
+      "text": "An engineer may rely on photographs supporting one theory while failing to address physical evidence inconsistent with it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts do not have to give equal weight to every piece of evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "They should, however, have a reasoned explanation for significant contrary information."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Novel Scientific Theories"
+    },
+    {
+      "type": "paragraph",
+      "text": "Novel theories can receive heightened scrutiny because there may be less validation supporting them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Courts may examine whether the methodology has been independently tested, published, replicated, or accepted."
+    },
+    {
+      "type": "paragraph",
+      "text": "Novel does not mean automatically inadmissible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Every accepted scientific method was new at some point."
+    },
+    {
+      "type": "paragraph",
+      "text": "The question is whether the proponent can demonstrate reliability despite the lack of an established history."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Litigation-Created Opinions"
+    },
+    {
+      "type": "paragraph",
+      "text": "An opposing party may examine whether the expert uses the methodology outside litigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "A method routinely employed in clinical, engineering, scientific, or business practice may appear more reliable than one developed solely for lawsuits."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is not an automatic rule."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some forensic questions exist only because litigation requires them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Still, an expert should be prepared to explain why the method reflects sound professional reasoning rather than a process designed to produce a favorable answer for the retaining side."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Daubert Motions Can Target Only Part of the Testimony"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Daubert challenge does not have to seek complete exclusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "An attorney may concede that the expert is qualified in one area while challenging another."
+    },
+    {
+      "type": "paragraph",
+      "text": "A physician may be allowed to testify about diagnosis and treatment but not accident reconstruction."
+    },
+    {
+      "type": "paragraph",
+      "text": "An engineer may be allowed to testify about electrical failure while being barred from offering an unsupported fire-origin opinion. Related fire investigation issues are covered on our electrical fire expert witness page."
+    },
+    {
+      "type": "paragraph",
+      "text": "Partial challenges can be particularly effective because they focus on the precise point where the expert's qualifications or methodology become weak."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What Is a Daubert Hearing?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A court may hold a hearing to evaluate the challenged expert testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert may testify about qualifications, methodology, evidence, assumptions, and the basis for the opinions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys may question the expert, and the judge may ask questions directly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every case receives a separate hearing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some challenges are resolved entirely through reports, deposition testimony, affidavits, briefing, and other written evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The court has considerable discretion over how to conduct the gatekeeping inquiry. Related motion practice is covered in motion in limine to exclude expert testimony."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When Daubert Motions Are Filed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert challenges usually occur after expert disclosures and enough discovery has taken place for the opposing side to understand the opinions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scheduling order may establish a specific deadline for Daubert or other expert-related motions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Timing varies among courts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys should identify these deadlines early because expert challenges can require extensive preparation, including detailed review of reports, depositions, literature, methodology, and prior testimony. Disclosure timing and contents are covered in the Rule 26 pre-retention checklist."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expert Depositions Matter"
+    },
+    {
+      "type": "paragraph",
+      "text": "The deposition often creates the factual record used in the later challenge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opposing counsel may ask the expert to identify every methodology used, the basis for assumptions, literature relied upon, alternative causes considered, and limitations of the analysis. Related preparation issues are covered in expert witness deposition preparation."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert who gives clear, consistent answers may strengthen the defense of the opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert who cannot explain the methodology can create problems that were not obvious from a polished written report."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deposition therefore functions as both discovery and a stress test."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prior Testimony Can Matter"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert's prior opinions may be reviewed for inconsistency."
+    },
+    {
+      "type": "paragraph",
+      "text": "If an expert previously testified that a methodology was unreliable but relies on it in the current case, opposing counsel may raise that history."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prior testimony does not automatically control the present case."
+    },
+    {
+      "type": "paragraph",
+      "text": "Facts evolve, science changes, and different cases present different issues."
+    },
+    {
+      "type": "paragraph",
+      "text": "But unexplained inconsistency can affect both credibility and the reliability analysis."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Publications Can Help or Hurt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts with substantial publication histories may be questioned about whether their litigation opinions align with their academic work."
+    },
+    {
+      "type": "paragraph",
+      "text": "A publication supporting the methodology can strengthen the opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "A publication contradicting the expert's current position can become powerful cross-examination material."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts should understand their own research and be prepared to explain any apparent differences."
+    },
+    {
+      "type": "paragraph",
+      "text": "The same applies to professional guidelines, textbooks, and lectures."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Daubert and Summary Judgment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert exclusion can have consequences far beyond the testimony itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a party needs expert testimony to prove an essential element and that expert is excluded, the party may no longer have enough evidence to proceed."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, a medical malpractice plaintiff may require admissible expert causation testimony."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the only causation opinion is excluded, the defendant may seek summary judgment."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why Daubert litigation can effectively decide the case before trial."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preparing an Expert to Survive a Challenge"
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal is not to coach the expert into using magic words."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is to make sure the expert's analysis is genuinely defensible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Counsel should understand the expert's qualifications, methodology, assumptions, factual foundation, alternative explanations, literature, and limitations before disclosure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert should also know the precise opinions being offered."
+    },
+    {
+      "type": "paragraph",
+      "text": "An unclear assignment can produce unnecessary opinions that extend beyond the expert's strongest area of expertise."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Selecting Experts With Daubert in Mind"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expert admissibility begins with selection."
+    },
+    {
+      "type": "paragraph",
+      "text": "Someone can be a brilliant professional and still be the wrong litigation expert for a particular issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "The strongest candidate has relevant real-world experience, a defensible methodology, sufficient information to perform the analysis, and the ability to explain how the evidence supports the conclusion. Related timing questions are covered in when do attorneys need an expert witness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prior testimonial experience can help, but it is not a substitute for substantive expertise."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expert should fit the question the case actually presents."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Daubert Versus Frye"
+    },
+    {
+      "type": "paragraph",
+      "text": "Daubert and Frye are related but distinct approaches to expert admissibility."
+    },
+    {
+      "type": "paragraph",
+      "text": "The older Frye standard traditionally focuses heavily on whether the scientific principle or technique has gained general acceptance in the relevant field."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daubert uses a broader reliability analysis under the Federal Rules of Evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "States do not all follow the same approach."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some use Daubert-like standards, some retain Frye-based frameworks, and others have their own evidentiary rules. Related comparison of admissibility frameworks is covered in Frye vs. Daubert."
+    },
+    {
+      "type": "paragraph",
+      "text": "The governing jurisdiction must therefore be identified before assuming which standard applies."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A Daubert Ruling Does Not Decide Who Is Right"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expert surviving a Daubert challenge has not won the factual dispute."
+    },
+    {
+      "type": "paragraph",
+      "text": "The court has determined that the testimony satisfies the threshold for admissibility."
+    },
+    {
+      "type": "paragraph",
+      "text": "The opposing party can still cross-examine the expert, present contrary evidence, and call another expert who reaches the opposite conclusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Likewise, exclusion does not necessarily mean the expert is incompetent in the broader professional sense."
+    },
+    {
+      "type": "paragraph",
+      "text": "It means the particular testimony did not satisfy the applicable evidentiary standard in that case."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Daubert challenge asks the court to examine whether expert testimony is qualified, relevant, and reliably supported before the jury is allowed to consider it."
+    },
+    {
+      "type": "paragraph",
+      "text": "In federal court, Rule 702 is the central framework. The judge evaluates whether the expert has appropriate expertise, sufficient facts or data, reliable principles and methods, and a reliable application of those methods to the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most important lesson is that expert admissibility is opinion-specific."
+    },
+    {
+      "type": "paragraph",
+      "text": "Strong credentials help, but they do not replace a strong methodology, an adequate factual foundation, and a clear explanation of how the expert reached the conclusion. If you need a vetted expert for a pending matter, start an expert witness search with Blackstorm Experts."
+    }
+  ]
+}
