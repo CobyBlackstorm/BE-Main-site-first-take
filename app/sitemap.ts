@@ -17,7 +17,7 @@ const STATIC_LASTMOD: Record<string, string> = {
   '/become-expert': '2026-06-09',
   '/expert-witness': '2026-06-09',
   '/expert-witness-search': '2026-07-23',
-  '/expert-witness-services-comparison': '2026-07-23',
+  '/expert-witness-services-comparison': '2026-08-13',
   '/medical-expert-witness': '2026-07-23',
   '/life-care-planner-expert-witness': '2026-08-03',
   '/life-care-plan-rebuttal-expert': '2026-08-03',

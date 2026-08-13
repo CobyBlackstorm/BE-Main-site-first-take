@@ -56,14 +56,15 @@ export default function ExpertWitnessServicesComparisonPage() {
 
               <h2 className="mb-4 mt-10 text-[24px] font-bold tracking-[-0.02em] text-primary">The three models</h2>
               <p className="mb-6">
-                Directories sell listings. Experts pay to appear, and firms pay for access to search the database. SEAK
-                and TASA are the best known. You get a large searchable pool and you do all the outreach, screening, and
-                conflict checking yourself.
+                Directories sell listings. Experts pay an annual fee to appear. Searching is free for attorneys, and you
+                contact the experts directly with no markup or referral fee. SEAK, Experts.com, and JurisPro are the best
+                known. You get a large searchable pool and you do all the outreach, screening, and conflict checking
+                yourself.
               </p>
               <p className="mb-6">
                 Sourcing and referral firms do the work for you. You describe the case, they identify candidates, contact
-                them, screen them, and deliver a short list. Expert Institute and Blackstorm both operate this way, along
-                with several regional firms.
+                them, screen them, and deliver a short list. Expert Institute, and Blackstorm both operate this way,
+                along with several regional firms.
               </p>
               <p className="mb-6">
                 Direct sourcing means finding the expert yourself through academic institutions, professional
@@ -77,8 +78,8 @@ export default function ExpertWitnessServicesComparisonPage() {
 
               <h2 className="mb-4 mt-10 text-[24px] font-bold tracking-[-0.02em] text-primary">Directories</h2>
               <p className="mb-6">
-                The strength of a directory is breadth and immediacy. You can search across thousands of listings at two
-                in the morning and get names instantly.
+                The strength of a directory is breadth, immediacy, and price. Access costs nothing. You can search across
+                thousands of listings at two in the morning and get names instantly, then call whoever you want.
               </p>
               <p className="mb-6">
                 The limitation is that a directory reflects who paid to be listed, not who fits your case. Experts who do
@@ -106,8 +107,8 @@ export default function ExpertWitnessServicesComparisonPage() {
                 .
               </p>
               <p className="mb-6">
-                Directories make sense when you need a common specialty quickly, you have staff time to do the screening,
-                or you run enough expert searches that a subscription pays for itself.
+                Directories make sense when you need a common specialty quickly and you have the staff time to do the
+                screening. Since access is free, the real cost is the hours your team spends on outreach and vetting.
               </p>
 
               <h2 className="mb-4 mt-10 text-[24px] font-bold tracking-[-0.02em] text-primary">Sourcing firms</h2>
@@ -136,9 +137,15 @@ export default function ExpertWitnessServicesComparisonPage() {
                 you could have found yourself.
               </p>
               <p className="mb-6">
+                Pricing models also differ in ways that matter. Some firms charge a flat fee per search. Others take a
+                markup on the expert&apos;s hourly rate, which means the search looks free at the start and costs more
+                the longer the expert works on your case. Worth knowing which one you are signing up for before the
+                deposition.
+              </p>
+              <p className="mb-6">
                 Questions worth asking any sourcing firm: what is the actual turnaround, do you interview candidates
-                before delivery, are these experts from a proprietary database or sourced for this case, and what is
-                included in the packet.
+                before delivery, are these experts from a proprietary database or sourced for this case, what is included
+                in the packet, and do you charge a flat fee or take a percentage of the expert&apos;s rate.
               </p>
 
               <h2 className="mb-4 mt-10 text-[24px] font-bold tracking-[-0.02em] text-primary">Direct sourcing</h2>
