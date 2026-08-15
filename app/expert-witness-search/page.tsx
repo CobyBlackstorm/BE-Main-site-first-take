@@ -44,6 +44,11 @@ const steps = [
     description:
       "You receive a packet with each candidate's CV, fee schedule, and our notes from the interview.",
   },
+  {
+    number: '5',
+    title: 'Connect',
+    description: 'Connect directly with the expert of your choice.',
+  },
 ]
 
 const packetItems = [
@@ -264,13 +269,14 @@ export default function ExpertWitnessSearchPage() {
                 Custom sourcing. Screened candidates. Delivered in 48 to 72 hours.
               </p>
               <p className="mt-6 max-w-[480px] text-[17px] leading-[1.75] text-secondary">
-                Most expert witness services sell you access to a directory. You pay, you get a list, and you spend the next two
-                weeks calling people who may or may not be available, qualified, or willing to take your side of the case.
+                Most expert witness services sell you access to a directory. You pay upfront, you get a list, and you spend
+                the next two weeks calling people who may or may not be available, qualified, or willing to take your side
+                of the case.
               </p>
               <p className="mt-4 max-w-[480px] text-[17px] leading-[1.75] text-secondary">
                 Blackstorm works differently. You tell us what the case needs. We do the sourcing, the outreach, and the
                 screening calls. You get a short list of candidates who have already confirmed they are available and
-                interested.
+                interested. Connect directly with the expert of your choice.
               </p>
               <a
                 href="#"
@@ -327,10 +333,10 @@ export default function ExpertWitnessSearchPage() {
               How the search works
             </h2>
             <p className="mx-auto mb-12 max-w-[560px] text-center text-[16px] leading-[1.7] text-secondary">
-              Four steps from case facts to a retention-ready shortlist. You never touch a database or make a cold call.
+              Five steps from case facts to a retention-ready shortlist. You never touch a database or make a cold call.
             </p>
 
-            <div className="grid grid-cols-1 items-stretch gap-5 md:grid-cols-2 lg:grid-cols-4">
+            <div className="grid grid-cols-1 items-stretch gap-5 md:grid-cols-2 lg:grid-cols-5">
               {steps.map((step) => (
                 <div
                   key={step.number}
@@ -417,7 +423,7 @@ export default function ExpertWitnessSearchPage() {
               How this differs from an expert witness directory
             </h2>
             <p className="mx-auto mb-12 max-w-[640px] text-center text-[16px] leading-[1.7] text-secondary">
-              Directories like SEAK and TASA sell listings. Experts pay to appear, which means the list reflects who bought
+              Directories sell listings to experts. Only experts who pay appear, which means the list reflects who bought
               placement, not who fits your case. You also do all the screening yourself.
             </p>
 
