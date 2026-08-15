@@ -147,6 +147,10 @@ const PAGE_PHRASES: { phrase: string; href: string }[] = [
   { phrase: 'forklift expert witness', href: '/forklift-expert-witness' },
   { phrase: 'hand surgery expert witness', href: '/hand-surgery-expert-witness' },
   { phrase: 'handwriting expert witness', href: '/handwriting-expert-witness' },
+  { phrase: 'critical care expert witness', href: '/critical-care-expert-witness' },
+  { phrase: 'intensivist expert witness', href: '/critical-care-expert-witness' },
+  { phrase: 'dental malpractice expert witness', href: '/dental-malpractice-expert-witness' },
+  { phrase: 'dental expert witness', href: '/dental-malpractice-expert-witness' },
   {
     phrase: 'forensic electrical engineer expert witness',
     href: '/forensic-electrical-engineer-expert-witness',

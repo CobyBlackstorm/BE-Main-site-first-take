@@ -67,6 +67,8 @@ const STATIC_LASTMOD: Record<string, string> = {
   '/forklift-expert-witness': '2026-08-15',
   '/hand-surgery-expert-witness': '2026-08-15',
   '/handwriting-expert-witness': '2026-08-15',
+  '/critical-care-expert-witness': '2026-08-15',
+  '/dental-malpractice-expert-witness': '2026-08-15',
   '/forensic-electrical-engineer-expert-witness': '2026-08-03',
   '/expert-witness/engineering': '2026-08-04',
   '/expert-witness/forensic': '2026-08-04',
@@ -414,6 +416,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     {
       url: `${BASE}/handwriting-expert-witness`,
       lastModified: lastMod('/handwriting-expert-witness'),
+      changeFrequency: 'weekly',
+      priority: 0.95,
+    },
+    {
+      url: `${BASE}/critical-care-expert-witness`,
+      lastModified: lastMod('/critical-care-expert-witness'),
+      changeFrequency: 'weekly',
+      priority: 0.95,
+    },
+    {
+      url: `${BASE}/dental-malpractice-expert-witness`,
+      lastModified: lastMod('/dental-malpractice-expert-witness'),
       changeFrequency: 'weekly',
       priority: 0.95,
     },
