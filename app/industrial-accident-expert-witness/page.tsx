@@ -3,6 +3,7 @@ import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import FinalCTA from "@/components/FinalCTA";
+import LandingPageCTA from "@/components/LandingPageCTA";
 import { getBlogPostsBySpecialty } from "@/lib/blog";
 
 const slug = "industrial-accident-expert-witness";
@@ -49,9 +50,15 @@ export default function IndustrialAccidentExpertWitnessPage() {
       />
       <Nav />
       <main>
-        <article className="section-container max-w-[720px]">
-          <div className="blog-prose">
-            <h1>Industrial Accident Expert Witness</h1>
+        <article className="bg-page py-[60px] md:py-20">
+          <div className="section-container max-w-[720px]">
+            <h1 className="text-[36px] font-bold tracking-[-0.02em] text-primary md:text-[40px]">
+              Industrial Accident Expert Witness
+            </h1>
+
+            <LandingPageCTA specialty="Industrial Accident" />
+
+            <div className="blog-prose text-[17px] leading-[1.85] text-primary">
             <p>
               An industrial accident expert witness helps attorneys evaluate
               injuries and fatalities involving factories, warehouses,
@@ -567,10 +574,11 @@ export default function IndustrialAccidentExpertWitnessPage() {
               </Link>
             </p>
           </div>
+          </div>
         </article>
 
         {relatedPosts.length > 0 && (
-          <section className="section-container max-w-[720px]">
+          <section className="section-container max-w-[720px] blog-prose pb-[60px]">
             <h2>Related Reading</h2>
             <ul>
               {relatedPosts.map((post) => (

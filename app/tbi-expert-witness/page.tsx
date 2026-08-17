@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Nav from '@/components/Nav'
 import Footer from '@/components/Footer'
 import RelatedArticles from '@/components/RelatedArticles'
+import LandingPageCTA from '@/components/LandingPageCTA'
 import { getBlogPostsBySpecialty, type BlogPost } from '@/lib/blog'
 
 export const metadata: Metadata = {
@@ -87,6 +88,8 @@ export default function TbiExpertWitnessPage() {
             <h1 className="mb-6 text-[36px] font-bold tracking-[-0.02em] text-primary md:text-[40px]">
               TBI Expert Witness
             </h1>
+
+            <LandingPageCTA specialty="TBI" />
 
             <div className="blog-prose text-[17px] leading-[1.85] text-primary">
               <p className="mb-6">

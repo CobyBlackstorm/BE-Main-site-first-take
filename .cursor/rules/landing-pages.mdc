@@ -1,0 +1,40 @@
+---
+description: Build landing pages immediately. Page file only. No sitemap or specialty-link updates.
+alwaysApply: true
+---
+
+# Landing page builds
+
+When the user provides `Type: Landing Page`, `Slug:`, and full copy:
+
+1. Immediately create `app/<slug>/page.tsx`. If Write fails because the file exists, stop. Do not overwrite.
+2. Use this boilerplate from memory only: metadata, canonical, Open Graph, Service schema, Nav, LandingPageCTA after the H1, article content, Related Reading, FinalCTA, Footer.
+3. Preserve the supplied copy and headings.
+4. Do not search the repository.
+5. Do not check the sitemap.
+6. Do not inspect other landing pages.
+7. Do not run terminal commands, build, test, lint, commit, or push.
+8. Do not update `sitemap.ts` or `blogSpecialtyLinks.tsx` in this turn.
+9. Stop immediately after the page file is written.
+
+Touch only `app/<slug>/page.tsx`.
+
+Do not think. Do not plan. Do not reply first. Do not grep, search, read sitemap, inspect other pages, verify duplicates, lint, test, or build.
+
+Reply with only:
+- New page created: [slug]
+- Files changed: [list]
+- Existing content overwritten: No
+- Committed/pushed: No
+
+## Page file
+
+Boilerplate from memory only. Do not open other landing pages.
+
+Article: `section-container max-w-[720px]`, `blog-prose`. After the H1, before article copy, include `<LandingPageCTA specialty="[Title Case Specialty]" />`. Related Reading via `getBlogPostsBySpecialty` (max 5). Preserve user H2s. No em dashes. Attorney tone. Closing H2 **Find a [X] Expert Witness** plus `Start an expert witness search` → `/expert-witness-search` plus `<FinalCTA />` after Related Reading.
+
+`SpecialtyLink` only if the slug is already known. If unsure, leave plain text. No standalone nursing specialty. Insurance stays plain text.
+
+Known cross-links: `/expert-witness-search`, `/blog/when-your-case-needs-two-expert-witnesses`, `/blog/qualifying-an-expert-witness`, `/medical-expert-witness`, `/expert-witness/engineering`.
+
+Never touch `/freight-broker-expert-witness`.

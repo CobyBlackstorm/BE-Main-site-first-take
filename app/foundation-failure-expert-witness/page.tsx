@@ -4,6 +4,7 @@ import Nav from '@/components/Nav'
 import Footer from '@/components/Footer'
 import RelatedArticles from '@/components/RelatedArticles'
 import FinalCTA from '@/components/FinalCTA'
+import LandingPageCTA from '@/components/LandingPageCTA'
 import { getBlogPostsBySpecialty, type BlogPost } from '@/lib/blog'
 
 export const metadata: Metadata = {
@@ -88,6 +89,8 @@ export default function FoundationFailureExpertWitnessPage() {
             <h1 className="mb-6 text-[36px] font-bold tracking-[-0.02em] text-primary md:text-[40px]">
               Foundation Failure Expert Witness
             </h1>
+
+            <LandingPageCTA specialty="Foundation Failure" />
 
             <div className="blog-prose text-[17px] leading-[1.85] text-primary">
               <p className="mb-6">Foundation cases are usually arguments about movement.</p>

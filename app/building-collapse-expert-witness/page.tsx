@@ -4,6 +4,7 @@ import Nav from '@/components/Nav'
 import Footer from '@/components/Footer'
 import RelatedArticles from '@/components/RelatedArticles'
 import FinalCTA from '@/components/FinalCTA'
+import LandingPageCTA from '@/components/LandingPageCTA'
 import { getBlogPostsBySpecialty, type BlogPost } from '@/lib/blog'
 
 export const metadata: Metadata = {
@@ -88,6 +89,8 @@ export default function BuildingCollapseExpertWitnessPage() {
             <h1 className="mb-6 text-[36px] font-bold tracking-[-0.02em] text-primary md:text-[40px]">
               Building Collapse Expert Witness
             </h1>
+
+            <LandingPageCTA specialty="Building Collapse" />
 
             <div className="blog-prose text-[17px] leading-[1.85] text-primary">
               <p className="mb-6">A building collapse case is a failure-sequence problem.</p>

@@ -3,6 +3,7 @@ import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import FinalCTA from "@/components/FinalCTA";
+import LandingPageCTA from "@/components/LandingPageCTA";
 import { getBlogPostsBySpecialty } from "@/lib/blog";
 
 const slug = "bowel-perforation-expert-witness";
@@ -49,9 +50,15 @@ export default function BowelPerforationExpertWitnessPage() {
       />
       <Nav />
       <main>
-        <article className="section-container max-w-[720px]">
-          <div className="blog-prose">
-            <h1>Bowel Perforation Expert Witness</h1>
+        <article className="bg-page py-[60px] md:py-20">
+          <div className="section-container max-w-[720px]">
+            <h1 className="text-[36px] font-bold tracking-[-0.02em] text-primary md:text-[40px]">
+              Bowel Perforation Expert Witness
+            </h1>
+
+            <LandingPageCTA specialty="Bowel Perforation" />
+
+            <div className="blog-prose text-[17px] leading-[1.85] text-primary">
             <p>
               A bowel perforation expert witness helps attorneys evaluate cases
               involving a hole or tear in the gastrointestinal tract, delayed
@@ -579,10 +586,11 @@ export default function BowelPerforationExpertWitnessPage() {
               </Link>
             </p>
           </div>
+          </div>
         </article>
 
         {relatedPosts.length > 0 && (
-          <section className="section-container max-w-[720px]">
+          <section className="section-container max-w-[720px] blog-prose pb-[60px]">
             <h2>Related Reading</h2>
             <ul>
               {relatedPosts.map((post) => (

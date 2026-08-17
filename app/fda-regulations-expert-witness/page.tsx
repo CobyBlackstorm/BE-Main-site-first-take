@@ -3,6 +3,7 @@ import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import FinalCTA from "@/components/FinalCTA";
+import LandingPageCTA from "@/components/LandingPageCTA";
 import { getBlogPostsBySpecialty } from "@/lib/blog";
 
 const slug = "fda-regulations-expert-witness";
@@ -49,9 +50,15 @@ export default function FdaRegulationsExpertWitnessPage() {
       />
       <Nav />
       <main>
-        <article className="section-container max-w-[720px]">
-          <div className="blog-prose">
-            <h1>FDA Regulations Expert Witness</h1>
+        <article className="bg-page py-[60px] md:py-20">
+          <div className="section-container max-w-[720px]">
+            <h1 className="text-[36px] font-bold tracking-[-0.02em] text-primary md:text-[40px]">
+              FDA Regulations Expert Witness
+            </h1>
+
+            <LandingPageCTA specialty="FDA Regulations" />
+
+            <div className="blog-prose text-[17px] leading-[1.85] text-primary">
             <p>
               An FDA regulations expert witness evaluates whether drugs, medical
               devices, biologics, food products, cosmetics, or other regulated
@@ -528,10 +535,11 @@ export default function FdaRegulationsExpertWitnessPage() {
               </Link>
             </p>
           </div>
+          </div>
         </article>
 
         {relatedPosts.length > 0 && (
-          <section className="section-container max-w-[720px]">
+          <section className="section-container max-w-[720px] blog-prose pb-[60px]">
             <h2>Related Reading</h2>
             <ul>
               {relatedPosts.map((post) => (

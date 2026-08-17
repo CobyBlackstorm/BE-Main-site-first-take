@@ -3,6 +3,7 @@ import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import FinalCTA from "@/components/FinalCTA";
+import LandingPageCTA from "@/components/LandingPageCTA";
 import { getBlogPostsBySpecialty } from "@/lib/blog";
 
 const slug = "abdominal-aortic-aneurysm-expert-witness";
@@ -49,9 +50,15 @@ export default function AbdominalAorticAneurysmExpertWitnessPage() {
       />
       <Nav />
       <main>
-        <article className="section-container max-w-[720px]">
-          <div className="blog-prose">
-            <h1>Abdominal Aortic Aneurysm Expert Witness</h1>
+        <article className="bg-page py-[60px] md:py-20">
+          <div className="section-container max-w-[720px]">
+            <h1 className="text-[36px] font-bold tracking-[-0.02em] text-primary md:text-[40px]">
+              Abdominal Aortic Aneurysm Expert Witness
+            </h1>
+
+            <LandingPageCTA specialty="Abdominal Aortic Aneurysm" />
+
+            <div className="blog-prose text-[17px] leading-[1.85] text-primary">
             <p>
               An abdominal aortic aneurysm expert witness evaluates the
               diagnosis, surveillance, treatment, and complications of
@@ -525,10 +532,11 @@ export default function AbdominalAorticAneurysmExpertWitnessPage() {
               </Link>
             </p>
           </div>
+          </div>
         </article>
 
         {relatedPosts.length > 0 && (
-          <section className="section-container max-w-[720px]">
+          <section className="section-container max-w-[720px] blog-prose pb-[60px]">
             <h2>Related Reading</h2>
             <ul>
               {relatedPosts.map((post) => (

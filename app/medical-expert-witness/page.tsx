@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Nav from '@/components/Nav'
 import Footer from '@/components/Footer'
 import FinalCTA from '@/components/FinalCTA'
+import LandingPageCTA from '@/components/LandingPageCTA'
 
 export const metadata: Metadata = {
   title: 'Medical Expert Witness Sourcing for Law Firms',
@@ -61,6 +62,8 @@ export default function MedicalExpertWitnessPage() {
             <h1 className="mb-6 text-[36px] font-bold tracking-[-0.02em] text-primary md:text-[40px]">
               Medical Expert Witness
             </h1>
+
+            <LandingPageCTA specialty="Medical" />
 
             <div className="blog-prose text-[17px] leading-[1.85] text-primary">
               <p className="mb-6">
