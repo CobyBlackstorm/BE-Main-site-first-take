@@ -1,10 +1,11 @@
 import type { Metadata } from 'next'
+import Script from 'next/script'
 import Nav from '@/components/Nav'
 import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: 'As Seen On | Blackstorm Experts',
-  description: 'Blackstorm Experts as featured on YouTube, Product Hunt, LinkedIn, Trustpilot, Hotfrog, Dang.ai, and Indie Hackers.',
+  description: 'Blackstorm Experts as featured on YouTube, Product Hunt, LinkedIn, Trustpilot, Trustburn, Hotfrog, Dang.ai, and Indie Hackers.',
   alternates: {
     canonical: '/as-seen-on',
   },
@@ -147,7 +148,18 @@ export default function AsSeenOnPage() {
                   </a>
                 </li>
               ))}
+              <li className="flex items-center justify-center">
+                <div
+                  className="trustburn-widget"
+                  data-trustburn-protocol="https:"
+                  data-trustburn-domain="trustburn.com"
+                  data-trustburn-widget="review_us_btn"
+                  data-company-path="blackstormexperts-com"
+                  data-lang="en"
+                />
+              </li>
             </ul>
+            <Script src="https://trustburn.com/widgets/index.js" strategy="afterInteractive" />
           </div>
         </section>
       </main>
