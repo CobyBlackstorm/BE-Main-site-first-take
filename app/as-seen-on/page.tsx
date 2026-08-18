@@ -4,7 +4,7 @@ import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: 'As Seen On | Blackstorm Experts',
-  description: 'Blackstorm Experts as featured on Product Hunt, LinkedIn, Trustpilot, Hotfrog, Dang.ai, and Indie Hackers.',
+  description: 'Blackstorm Experts as featured on YouTube, Product Hunt, LinkedIn, Trustpilot, Hotfrog, Dang.ai, and Indie Hackers.',
   alternates: {
     canonical: '/as-seen-on',
   },
@@ -26,6 +26,17 @@ type Platform = {
 }
 
 const platforms: Platform[] = [
+  {
+    name: 'YouTube',
+    href: 'https://www.youtube.com/channel/UCtS44Uk-EGCywM3D20m4cFA',
+    rel: 'noopener noreferrer',
+    badge: {
+      src: '/logos/youtube.svg',
+      alt: 'Blackstorm Experts on YouTube',
+      width: 56,
+      height: 56,
+    },
+  },
   {
     name: 'Product Hunt',
     href: 'https://www.producthunt.com/products/blackstorm-experts?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-blackstorm-experts',
