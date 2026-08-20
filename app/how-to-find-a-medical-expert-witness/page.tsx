@@ -53,7 +53,7 @@ export default function HowToFindAMedicalExpertWitnessPage() {
         <article className="section-container max-w-[720px]">
           <div className="blog-prose">
             <h1>How to Find a Medical Expert Witness</h1>
-            <LandingPageCTA specialty="Medical" />
+            <LandingPageCTA specialty="Expert Witness" />
             <p>
               The best way to find a medical expert witness is to first identify
               the exact clinical issue being evaluated, determine which type of

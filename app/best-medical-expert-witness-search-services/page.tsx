@@ -53,7 +53,7 @@ export default function BestMedicalExpertWitnessSearchServicesPage() {
         <article className="section-container max-w-[720px]">
           <div className="blog-prose">
             <h1>Best Medical Expert Witness Search Services for Law Firms</h1>
-            <LandingPageCTA specialty="Medical" />
+            <LandingPageCTA specialty="Expert Witness" />
             <p>
               The best medical expert witness search services help attorneys
               identify physicians and other healthcare professionals whose

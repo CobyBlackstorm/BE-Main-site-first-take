@@ -53,7 +53,7 @@ export default function HowToFindAnEngineeringExpertWitnessPage() {
         <article className="section-container max-w-[720px]">
           <div className="blog-prose">
             <h1>How to Find an Engineering Expert Witness</h1>
-            <LandingPageCTA specialty="Engineering" />
+            <LandingPageCTA specialty="Expert Witness" />
             <p>
               The best way to find an engineering expert witness is to identify
               the specific technical issue involved in the case first, then

@@ -19,6 +19,7 @@ function defaultCaseType(specialty: string): string {
 }
 
 export default function LandingPageCTA({ specialty, caseType }: LandingPageCTAProps) {
+  const isGenericExpertWitness = specialty.trim().toLowerCase() === 'expert witness'
   const article = indefiniteArticle(specialty)
   const cases = caseType ?? defaultCaseType(specialty)
 
@@ -27,11 +28,14 @@ export default function LandingPageCTA({ specialty, caseType }: LandingPageCTAPr
       <div className="h-[3px] w-full bg-accent" />
       <div className="px-5 py-5 md:px-8 md:py-6">
         <p className="text-[18px] font-bold leading-snug tracking-[-0.02em] text-primary md:text-[20px]">
-          Need {article} {specialty} Expert Witness?
+          {isGenericExpertWitness
+            ? 'Are you looking for an expert witness?'
+            : `Need ${article} ${specialty} Expert Witness?`}
         </p>
         <p className="mx-auto mt-2 max-w-[520px] text-[15px] leading-[1.65] text-secondary">
-          Blackstorm Experts helps attorneys identify and connect with the right expert candidates for {cases}{' '}
-          cases. Tell us about the matter and we&apos;ll source qualified experts who fit the case.
+          Blackstorm Experts helps attorneys identify and connect with the right expert candidates
+          {isGenericExpertWitness ? '' : ` for ${cases} cases`}. Tell us about the matter and
+          we&apos;ll source qualified experts who fit the case.
         </p>
         <a
           href="#"
@@ -44,4 +48,3 @@ export default function LandingPageCTA({ specialty, caseType }: LandingPageCTAPr
     </div>
   )
 }
-
